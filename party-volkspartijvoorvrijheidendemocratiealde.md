@@ -46,11 +46,11 @@ Last result: **3** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6 | 5–7 | 5–7 | 5–8 |
+| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 
 ### Probability Mass Function
 
@@ -63,9 +63,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 8% | 100% |  |
-| 6 | 83% | 92% | Median |
-| 7 | 8% | 8% |  |
-| 8 | 0.3% | 0.3% |  |
+| 6 | 82% | 92% | Median |
+| 7 | 9% | 10% |  |
+| 8 | 0.8% | 0.8% |  |
 | 9 | 0% | 0% |  |
 
 
