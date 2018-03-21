@@ -45,7 +45,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 3 | 3 | 3 | 3 | 3–4 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 3 |
@@ -61,8 +61,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 18% | 100% | Last Result |
-| 3 | 65% | 82% | Median |
-| 4 | 16% | 16% |  |
+| 3 | 69% | 82% | Median |
+| 4 | 13% | 13% |  |
 | 5 | 0% | 0% |  |
 
 
