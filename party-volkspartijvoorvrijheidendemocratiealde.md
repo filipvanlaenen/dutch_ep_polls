@@ -48,11 +48,11 @@ Last result: **3** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 7 | 7 | 7 | 7 | 6–7 |
-| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6 | 6 | 6 | 6 |
+| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 6 | 6 | 6 | 6–7 | 5–7 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 
@@ -67,8 +67,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 7% | 100% |  |
-| 6 | 32% | 93% |  |
-| 7 | 59% | 61% | Median |
+| 6 | 47% | 93% | Median |
+| 7 | 44% | 46% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
