@@ -16,7 +16,7 @@ Last result: **13.3%** (General Election of 22 May 2014)
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.1–11.7% | 7.6–12.4% |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 10.6% | 9.9–11.3% | 9.8–11.5% | 9.6–11.6% | 9.3–12.0% |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
-| [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 12.0% | 10.9–13.3% | 10.5–13.7% | 10.3–14.0% | 9.7–14.7% |
+| [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 12.0% | 10.8–13.4% | 10.4–13.7% | 10.2–14.1% | 9.7–14.7% |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 14.0% | 13.0–15.1% | 12.8–15.4% | 12.5–15.7% | 12.1–16.2% |
 
 ### Probability Mass Function
@@ -48,8 +48,8 @@ Last result: **4** seats (General Election of 22 May 2014)
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 3 | 3 | 3 | 3–4 | 2–4 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 3 |
-| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3 | 3 |
+| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 3 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 
@@ -62,8 +62,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.3% | 100% |  |
-| 3 | 57% | 99.7% | Median |
-| 4 | 14% | 43% | Last Result |
+| 3 | 69% | 99.7% | Median |
+| 4 | 1.4% | 30% | Last Result |
 | 5 | 29% | 29% |  |
 | 6 | 0% | 0% |  |
 
