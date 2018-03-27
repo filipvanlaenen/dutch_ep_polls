@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 26 Mar 2018 20:29:06 +0200</pubDate>
+    <pubDate>Mon, 26 Mar 2018 20:47:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 19 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-19-Ipsos.html</link>
@@ -29,6 +29,16 @@
       <pubDate>Mon, 26 Mar 2018 20:29:06 +0200</pubDate>
       <dc:date>2018-03-26T20:29:06.166709+02:00</dc:date>
     </item>
-    <dc:date>2018-03-26T20:29:06.166709+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-26-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 17.5–22.5%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 8.1–11.7%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 8.7–12.5%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 6.8–10.1%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 3.9–6.6%&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 4.0–6.7%&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Denk (*): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 6.2–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-26-Ipsos.png"
+        length="400174"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 20:47:13 +0200</pubDate>
+      <dc:date>2018-03-26T20:47:13.87478+02:00</dc:date>
+    </item>
+    <dc:date>2018-03-26T20:47:13.87478+02:00</dc:date>
   </channel>
 </rss>
