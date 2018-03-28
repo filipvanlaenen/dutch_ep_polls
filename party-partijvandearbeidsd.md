@@ -16,7 +16,7 @@ Last result: **9.4%** (General Election of 22 May 2014)
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 6.7% | 6.2–7.3% | 6.0–7.4% | 5.9–7.6% | 5.7–7.8% |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
-| [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 7.4% | 6.4–8.5% | 6.2–8.8% | 5.9–9.1% | 5.5–9.6% |
+| [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 7.4% | 6.4–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.6% |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 7.3% | 6.6–8.2% | 6.4–8.4% | 6.2–8.6% | 5.9–9.0% |
 
 ### Probability Mass Function
@@ -50,8 +50,8 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1 | 1 | 1 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2 | 2 | 2 | 2 |
-| [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 2 | 2 | 2 | 2 | 2–3 |
+| [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 1–2 | 1–3 |
+| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
 
