@@ -50,8 +50,8 @@ Last result: **2** seats (General Election of 22 May 2014)
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 3 |
+| [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 3 | 3 | 3 | 3 | 3–4 |
 
@@ -63,8 +63,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 26% | 100% | Last Result |
-| 3 | 55% | 74% | Median |
+| 2 | 40% | 100% | Last Result |
+| 3 | 40% | 60% | Median |
 | 4 | 20% | 20% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
