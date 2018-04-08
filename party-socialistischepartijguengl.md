@@ -53,7 +53,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 3 | 3 | 3 | 3 | 3–4 |
+| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 3 | 3 | 3 | 3 | 2–4 |
 
 ### Probability Mass Function
 
