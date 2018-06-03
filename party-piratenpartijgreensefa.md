@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.9%** (General Election of 22 May 2014)
+Last result: **0.8%** (General Election of 22 May 2014)
 
 ### Confidence Intervals
 
