@@ -8,9 +8,19 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 01 May 2018 11:24:37 +0200</pubDate>
+    <pubDate>Sun, 03 Jun 2018 20:16:17 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 20–23 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for EenVandaag, 25–28 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-05-28-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 18.1–23.0%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 8.8–12.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 8.3–11.9%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 9.9–13.8%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.8–8.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 4.1–6.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.4–5.9%&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 2.5–4.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Denk (*): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 5.1–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-05-28-Ipsos.png"
+        length="403959"
+        type="image/png"/>
+      <pubDate>Sun, 03 Jun 2018 20:16:17 +0200</pubDate>
+      <dc:date>2018-06-03T20:16:17.265871+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 20–23 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-23-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 2–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-23-Ipsos-seats.png"
@@ -24,7 +34,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-23-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-23-Ipsos-coalitions-seats.png"
-        length="175127"
+        length="174940"
         type="image/png"/>
       <pubDate>Tue, 01 May 2018 11:24:37 +0200</pubDate>
       <dc:date>2018-05-01T11:24:37.515927+02:00</dc:date>
@@ -40,7 +50,7 @@
       <dc:date>2018-05-01T11:24:37.515927+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 19 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for EenVandaag, 19 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-19-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 7–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-19-Ipsos-seats.png"
@@ -54,7 +64,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-19-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-19-Ipsos-coalitions-seats.png"
-        length="153050"
+        length="153043"
         type="image/png"/>
       <pubDate>Tue, 03 Apr 2018 15:27:24 +0200</pubDate>
       <dc:date>2018-04-03T15:27:24.920895+02:00</dc:date>
@@ -70,7 +80,7 @@
       <dc:date>2018-04-03T15:27:24.920895+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Kantar Public, 27 February–4 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Kantar Public, 27 February–4 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-04-KantarPublic.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 6–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-04-KantarPublic-seats.png"
@@ -84,7 +94,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-04-KantarPublic.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-04-KantarPublic-coalitions-seats.png"
-        length="119151"
+        length="119031"
         type="image/png"/>
       <pubDate>Sat, 07 Apr 2018 18:42:44 +0200</pubDate>
       <dc:date>2018-04-07T18:42:44.764742+02:00</dc:date>
@@ -100,7 +110,7 @@
       <dc:date>2018-04-07T18:42:44.764742+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 February 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 February 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-26-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 2–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-26-Ipsos-seats.png"
@@ -114,7 +124,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-26-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-26-Ipsos-coalitions-seats.png"
-        length="180833"
+        length="180805"
         type="image/png"/>
       <pubDate>Mon, 09 Apr 2018 13:42:04 +0200</pubDate>
       <dc:date>2018-04-09T13:42:04.202278+02:00</dc:date>
@@ -130,7 +140,7 @@
       <dc:date>2018-04-09T13:42:04.202278+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by I&amp;O Research, 2–6 February 2018 – Seat Projections</title>
+      <title>Opinion Poll by I&amp;O Research, 2–6 February 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-06-IOResearch.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 6–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-06-IOResearch-seats.png"
@@ -144,7 +154,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-06-IOResearch.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-06-IOResearch-coalitions-seats.png"
-        length="140172"
+        length="140237"
         type="image/png"/>
       <pubDate>Wed, 11 Apr 2018 22:37:58 +0200</pubDate>
       <dc:date>2018-04-11T22:37:58.607476+02:00</dc:date>
@@ -160,7 +170,7 @@
       <dc:date>2018-04-11T22:37:58.607476+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 26–29 January 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for EenVandaag, 26–29 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-29-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 2–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-29-Ipsos-seats.png"
@@ -174,7 +184,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-29-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-29-Ipsos-coalitions-seats.png"
-        length="179744"
+        length="179839"
         type="image/png"/>
       <pubDate>Mon, 09 Apr 2018 15:15:04 +0200</pubDate>
       <dc:date>2018-04-09T15:15:04.491239+02:00</dc:date>
@@ -190,7 +200,7 @@
       <dc:date>2018-04-09T15:15:04.491239+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Kantar Public, 25–28 January 2018 – Seat Projections</title>
+      <title>Opinion Poll by Kantar Public, 25–28 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-28-KantarPublic.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 6–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-28-KantarPublic-seats.png"
@@ -204,7 +214,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-28-KantarPublic.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-28-KantarPublic-coalitions-seats.png"
-        length="141698"
+        length="141701"
         type="image/png"/>
       <pubDate>Wed, 11 Apr 2018 14:55:27 +0200</pubDate>
       <dc:date>2018-04-11T14:55:27.949249+02:00</dc:date>
@@ -220,7 +230,7 @@
       <dc:date>2018-04-11T14:55:27.949249+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by GfK for EenVandaag, 15–18 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by GfK for EenVandaag, 15–18 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2017-12-18-GfK.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 6–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 4–5 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2017-12-18-GfK-seats.png"
@@ -234,7 +244,7 @@
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2017-12-18-GfK.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2017-12-18-GfK-coalitions-seats.png"
-        length="154426"
+        length="154243"
         type="image/png"/>
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
@@ -249,6 +259,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2018-05-01T11:24:37.515927+02:00</dc:date>
+    <dc:date>2018-06-03T20:16:17.265871+02:00</dc:date>
   </channel>
 </rss>
