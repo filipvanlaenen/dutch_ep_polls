@@ -10,7 +10,8 @@ Last result: **12.0%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 18.7–21.9% | 18.3–22.4% | 17.9–22.8% | 17.2–23.7% |
+| N/A | [Poll Average](average.html) | 20.5% | 19.0–22.0% | 18.6–22.5% | 18.2–22.9% | 17.5–23.7% |
+| [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 20.4% | 19.0–22.0% | 18.5–22.5% | 18.2–22.9% | 17.5–23.7% |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 20.5% | 18.9–22.1% | 18.5–22.6% | 18.1–23.0% | 17.4–23.9% |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 21.7% | 20.2–23.3% | 19.8–23.8% | 19.4–24.2% | 18.8–25.0% |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.7–23.4% | 18.0–24.2% |
@@ -31,14 +32,14 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 1.2% | 99.9% |  |
-| 17.5–18.5% | 7% | 98.7% |  |
-| 18.5–19.5% | 20% | 92% |  |
-| 19.5–20.5% | 30% | 72% | Median |
-| 20.5–21.5% | 26% | 42% |  |
-| 21.5–22.5% | 12% | 16% |  |
-| 22.5–23.5% | 3% | 4% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.5% | 100% |  |
+| 17.5–18.5% | 4% | 99.5% |  |
+| 18.5–19.5% | 17% | 95% |  |
+| 19.5–20.5% | 31% | 78% | Median |
+| 20.5–21.5% | 29% | 48% |  |
+| 21.5–22.5% | 14% | 19% |  |
+| 22.5–23.5% | 4% | 4% |  |
 | 23.5–24.5% | 0.6% | 0.6% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -52,7 +53,8 @@ Last result: **3** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 7 | 6–8 | 6–8 | 6–8 |
+| [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
@@ -73,10 +75,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 0.6% | 100% |  |
-| 6 | 33% | 99.4% |  |
-| 7 | 59% | 67% | Median |
-| 8 | 7% | 8% |  |
+| 5 | 0% | 100% |  |
+| 6 | 6% | 100% |  |
+| 7 | 84% | 94% | Median |
+| 8 | 10% | 10% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
