@@ -230,6 +230,8 @@
 
 ### Volkspartij voor Vrijheid en Democratie (ALDE) – Democraten 66 (ALDE) – 50Plus (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-02-06-IOResearch-coalitions-seats-pmf-vvd–d66–50.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
@@ -242,6 +244,8 @@
 
 ### Partij voor de Vrijheid (ENF)
 
+![Graph with seats probability mass function not yet produced](2018-02-06-IOResearch-coalitions-seats-pmf-pvv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 62% | 100% | Median |
@@ -249,6 +253,8 @@
 | 5 | 0% | 0% |  |
 
 ### Socialistische Partij (GUE/NGL) – Partij voor de Dieren (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-02-06-IOResearch-coalitions-seats-pmf-sp–pvdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -259,6 +265,8 @@
 
 ### Christen-Democratisch Appèl (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-02-06-IOResearch-coalitions-seats-pmf-cda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
@@ -268,6 +276,8 @@
 
 ### Partij van de Arbeid (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-02-06-IOResearch-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
@@ -276,6 +286,8 @@
 | 4 | 0% | 0% |  |
 
 ### ChristenUnie (ECR) – Staatkundig Gereformeerde Partij (ECR)
+
+![Graph with seats probability mass function not yet produced](2018-02-06-IOResearch-coalitions-seats-pmf-cu–sgp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

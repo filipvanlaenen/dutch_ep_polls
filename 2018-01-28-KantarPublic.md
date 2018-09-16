@@ -230,6 +230,8 @@
 
 ### Volkspartij voor Vrijheid en Democratie (ALDE) – Democraten 66 (ALDE) – 50Plus (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-coalitions-seats-pmf-vvd–d66–50.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
@@ -242,6 +244,8 @@
 
 ### Socialistische Partij (GUE/NGL) – Partij voor de Dieren (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-coalitions-seats-pmf-sp–pvdd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
@@ -252,6 +256,8 @@
 
 ### Partij voor de Vrijheid (ENF)
 
+![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-coalitions-seats-pmf-pvv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 45% | 100% |  |
@@ -260,6 +266,8 @@
 | 6 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-coalitions-seats-pmf-cda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -270,6 +278,8 @@
 
 ### Partij van de Arbeid (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 63% | 100% | Median |
@@ -277,6 +287,8 @@
 | 4 | 0% | 0% |  |
 
 ### ChristenUnie (ECR) – Staatkundig Gereformeerde Partij (ECR)
+
+![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-coalitions-seats-pmf-cu–sgp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
