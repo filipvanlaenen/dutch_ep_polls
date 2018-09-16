@@ -479,6 +479,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Democraten 66 (ALDE) – Volkspartij voor Vrijheid en Democratie (ALDE) – 50Plus (ALDE)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-d66–vvd–50.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
@@ -493,6 +495,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialistische Partij (GUE/NGL) – Partij voor de Dieren (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sp–pvdd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 30% | 100% | Last Result |
@@ -501,6 +505,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -511,6 +517,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partij voor de Vrijheid (ENF)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pvv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 16% | 100% |  |
@@ -520,6 +528,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### GroenLinks (Greens/EFA) – Piratenpartij (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-gl–pp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% | Last Result |
@@ -528,6 +538,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 0% |  |
 
 ### Bij1 (*) – Denk (*) – Forum voor Democratie (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-b1–denk–fvd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -539,6 +551,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### ChristenUnie (ECR) – Staatkundig Gereformeerde Partij (ECR)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cu–sgp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% |  |
@@ -548,6 +562,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 0% |  |
 
 ### Partij van de Arbeid (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -559,3 +575,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 1
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 3.78%
