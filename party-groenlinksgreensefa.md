@@ -11,11 +11,17 @@ Last result: **7.0%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.0% | 9.0–11.1% | 8.8–11.4% | 8.6–11.7% | 8.1–12.2% |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.0–12.8% | 8.5–13.5% |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 12.7% | 11.4–14.1% | 11.1–14.5% | 10.8–14.9% | 10.2–15.6% |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 12.7% | 11.8–13.7% | 11.5–14.0% | 11.3–14.2% | 10.9–14.7% |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 10.2% | 9.1–11.5% | 8.8–11.9% | 8.5–12.2% | 8.0–12.9% |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 10.0% | 9.0–11.1% | 8.8–11.4% | 8.6–11.7% | 8.1–12.2% |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 10.7% | 9.6–12.0% | 9.3–12.3% | 9.0–12.6% | 8.5–13.3% |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 12.7% | 11.8–13.6% | 11.6–13.9% | 11.4–14.1% | 11.0–14.6% |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 11.7% | 10.5–13.0% | 10.2–13.4% | 9.9–13.8% | 9.3–14.4% |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 11.6% | 10.5–12.9% | 10.2–13.3% | 9.9–13.6% | 9.4–14.3% |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 9.5% | 8.5–10.7% | 8.2–11.1% | 8.0–11.4% | 7.5–12.0% |
+| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.7–11.8% | 9.4–12.1% |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 10.6% | 9.5–11.9% | 9.2–12.3% | 8.9–12.7% | 8.4–13.3% |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.1–11.8% |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 10.7% | 10.0–11.4% | 9.9–11.6% | 9.7–11.8% | 9.4–12.1% |
@@ -48,11 +54,17 @@ Last result: **2** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 3 | 3 | 3 | 3 | 3–4 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |

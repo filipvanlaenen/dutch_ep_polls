@@ -11,11 +11,17 @@ Last result: **12.0%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.6% | 20.2–23.0% | 19.8–23.4% | 19.5–23.7% | 18.9–24.4% |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 20.1% | 18.6–21.8% | 18.2–22.3% | 17.8–22.6% | 17.1–23.5% |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 18.0% | 16.5–19.6% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 17.1% | 16.0–18.2% | 15.7–18.5% | 15.5–18.8% | 15.0–19.3% |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 20.3% | 18.8–22.0% | 18.3–22.4% | 18.0–22.8% | 17.2–23.7% |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 21.5% | 20.2–23.0% | 19.8–23.4% | 19.5–23.7% | 18.9–24.4% |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 20.4% | 19.0–22.0% | 18.5–22.5% | 18.2–22.9% | 17.5–23.7% |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 17.5% | 16.5–18.6% | 16.2–18.9% | 16.0–19.1% | 15.5–19.6% |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 20.5% | 18.9–22.1% | 18.5–22.6% | 18.1–23.0% | 17.4–23.9% |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 21.7% | 20.2–23.3% | 19.8–23.8% | 19.4–24.2% | 18.8–25.0% |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.7–23.4% | 18.0–24.2% |
+| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 17.7% | 16.9–18.6% | 16.6–18.8% | 16.4–19.0% | 16.0–19.4% |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 20.0% | 18.5–21.7% | 18.0–22.1% | 17.7–22.5% | 17.0–23.4% |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 19.9% | 18.4–21.6% | 17.9–22.0% | 17.5–22.5% | 16.8–23.3% |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 18.9% | 18.0–19.7% | 17.8–20.0% | 17.6–20.2% | 17.2–20.6% |
@@ -55,11 +61,17 @@ Last result: **3** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6 | 6 | 6 | 5–6 | 5–7 |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7 | 6–8 | 6–8 | 6–8 |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 6 | 6 | 6 | 6 | 5–7 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 6 | 6 | 6 | 5–6 | 5–7 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 6 | 6–7 | 6–7 | 6–7 | 6–7 |

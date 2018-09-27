@@ -11,11 +11,17 @@ Last result: **7.7%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.4% | 3.7–5.1% | 3.5–5.3% | 3.4–5.5% | 3.1–5.9% |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.8–5.9% |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 4.9% | 4.3–5.6% | 4.1–5.8% | 4.0–5.9% | 3.7–6.3% |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.4–5.5% | 3.1–5.9% |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.2–5.5% | 2.9–6.0% |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 4.7% | 4.2–5.3% | 4.0–5.5% | 3.9–5.7% | 3.7–6.0% |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 4.7% | 4.0–5.6% | 3.8–5.9% | 3.6–6.1% | 3.3–6.5% |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.3–5.6% | 3.0–6.1% |
+| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 5.0% | 4.6–5.5% | 4.4–5.7% | 4.3–5.8% | 4.1–6.1% |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.4% |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 4.3% | 3.9–4.8% | 3.7–4.9% | 3.7–5.0% | 3.5–5.2% |
@@ -47,11 +53,17 @@ Last result: **1** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2 | 1–2 |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1–2 | 1–2 |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1 | 1 | 0–2 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1 | 1–2 | 0–2 |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 1–2 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 1 | 0–1 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 1 |
