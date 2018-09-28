@@ -63,15 +63,15 @@ Last result: **3** seats (General Election of 22 May 2014)
 | N/A | [Poll Average](average.html) | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6 | 6 | 6 | 5–6 | 5–7 |
-| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7 | 6–8 | 6–8 | 6–8 |
-| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 6 | 6 | 6 | 6 | 5–7 |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 6 | 6 | 6 | 5–6 | 5–7 |
+| [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 6 | 6 | 6 | 6–7 | 6–7 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 6 | 6–7 | 6–7 | 6–7 | 6–7 |

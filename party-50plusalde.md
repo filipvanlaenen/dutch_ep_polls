@@ -58,7 +58,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 | [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 0–1 |
+| [13–29 May 2018](2018-05-29-IOResearch.html) | I&O Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 1–2 | 0–2 |
