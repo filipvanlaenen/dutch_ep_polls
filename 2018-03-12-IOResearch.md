@@ -17,7 +17,7 @@
 | Democraten 66 (ALDE) | 15.5% | 10.2% | 9.5–10.9% |9.4–11.1% |9.2–11.3% |8.9–11.6% |
 | Socialistische Partij (GUE/NGL) | 9.6% | 8.4% | 7.8–9.1% |7.7–9.3% |7.5–9.4% |7.2–9.7% |
 | Partij van de Arbeid (S&D) | 9.4% | 7.6% | 7.1–8.2% |6.9–8.4% |6.8–8.6% |6.5–8.9% |
-| Forum voor Democratie (*) | 0.0% | 6.8% | 6.3–7.4% |6.1–7.6% |6.0–7.7% |5.8–8.0% |
+| Forum voor Democratie (ECR) | 0.0% | 6.8% | 6.3–7.4% |6.1–7.6% |6.0–7.7% |5.8–8.0% |
 | ChristenUnie (ECR) | 7.7% | 5.0% | 4.6–5.5% |4.4–5.7% |4.3–5.8% |4.1–6.1% |
 | 50Plus (ALDE) | 3.7% | 4.2% | 3.8–4.7% |3.7–4.8% |3.6–5.0% |3.4–5.2% |
 | Partij voor de Dieren (GUE/NGL) | 4.2% | 3.6% | 3.2–4.1% |3.1–4.2% |3.0–4.3% |2.9–4.5% |
@@ -41,7 +41,7 @@
 | <a href="#democraten-66-(alde)">Democraten 66 (ALDE)</a> | 4 | 3 | 3 |3 |3 |3–4 |
 | <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 2 | 3 | 3 |2–3 |2–3 |2–3 |
 | <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 3 | 2 | 2 |2 |2–3 |2–3 |
-| <a href="#forum-voor-democratie-(*)">Forum voor Democratie (*)</a> | 0 | 2 | 2 |2 |2 |2 |
+| <a href="#forum-voor-democratie-(ecr)">Forum voor Democratie (ECR)</a> | 0 | 2 | 2 |2 |2 |2 |
 | <a href="#christenunie-(ecr)">ChristenUnie (ECR)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#50plus-(alde)">50Plus (ALDE)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
@@ -136,11 +136,11 @@
 | 3 | 5% | 5% | Last Result |
 | 4 | 0% | 0% |  |
 
-### Forum voor Democratie (*)
+### Forum voor Democratie (ECR)
 
-*For a full overview of the results for this party, see the [Forum voor Democratie (*)](party-forumvoordemocratie.html) page.*
+*For a full overview of the results for this party, see the [Forum voor Democratie (ECR)](party-forumvoordemocratieecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-03-12-IOResearch-seats-pmf-forumvoordemocratie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-03-12-IOResearch-seats-pmf-forumvoordemocratieecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

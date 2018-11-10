@@ -63,8 +63,8 @@ Last result: **3** seats (General Election of 22 May 2014)
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6 | 6 | 6 | 5–6 | 5–7 |
-| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6 | 6 | 6 | 6 | 6 |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7 | 6–8 | 6–8 | 6–8 |
@@ -91,9 +91,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 5% | 100% |  |
-| 6 | 70% | 95% | Median |
-| 7 | 24% | 25% |  |
-| 8 | 1.0% | 1.0% |  |
+| 6 | 71% | 95% | Median |
+| 7 | 23% | 24% |  |
+| 8 | 1.1% | 1.1% |  |
 | 9 | 0% | 0% |  |
 
 

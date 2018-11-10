@@ -16,7 +16,7 @@
 | GroenLinks (Greens/EFA) | 7.0% | 10.6% | 9.6–11.9% |9.3–12.3% |9.0–12.6% |8.5–13.2% |
 | Socialistische Partij (GUE/NGL) | 9.6% | 10.0% | 9.0–11.3% |8.7–11.6% |8.4–11.9% |7.9–12.5% |
 | Christen-Democratisch Appèl (EPP) | 15.2% | 9.3% | 8.3–10.5% |8.0–10.9% |7.8–11.2% |7.3–11.8% |
-| Forum voor Democratie (*) | 0.0% | 8.0% | 7.0–9.1% |6.8–9.4% |6.5–9.7% |6.1–10.2% |
+| Forum voor Democratie (ECR) | 0.0% | 8.0% | 7.0–9.1% |6.8–9.4% |6.5–9.7% |6.1–10.2% |
 | Partij van de Arbeid (S&D) | 9.4% | 7.4% | 6.4–8.4% |6.2–8.7% |6.0–9.0% |5.6–9.6% |
 | ChristenUnie (ECR) | 7.7% | 4.0% | 3.3–4.8% |3.1–5.1% |3.0–5.3% |2.7–5.7% |
 | Partij voor de Dieren (GUE/NGL) | 4.2% | 2.7% | 2.2–3.4% |2.0–3.6% |1.9–3.8% |1.7–4.2% |
@@ -40,7 +40,7 @@
 | <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 2 | 3 | 3 |3 |3 |3–4 |
 | <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 5 | 3 | 3 |3 |3 |2–3 |
-| <a href="#forum-voor-democratie-(*)">Forum voor Democratie (*)</a> | 0 | 3 | 3 |2–3 |2–3 |2–3 |
+| <a href="#forum-voor-democratie-(ecr)">Forum voor Democratie (ECR)</a> | 0 | 3 | 3 |2–3 |2–3 |2–3 |
 | <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 3 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#christenunie-(ecr)">ChristenUnie (ECR)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -128,11 +128,11 @@
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% | Last Result |
 
-### Forum voor Democratie (*)
+### Forum voor Democratie (ECR)
 
-*For a full overview of the results for this party, see the [Forum voor Democratie (*)](party-forumvoordemocratie.html) page.*
+*For a full overview of the results for this party, see the [Forum voor Democratie (ECR)](party-forumvoordemocratieecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-seats-pmf-forumvoordemocratie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-28-KantarPublic-seats-pmf-forumvoordemocratieecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
