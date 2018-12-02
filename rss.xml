@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 11 Nov 2018 09:59:15 +0100</pubDate>
+    <pubDate>Sun, 02 Dec 2018 19:40:16 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 22–27 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 15.9–18.5%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 10.7–13.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.5–10.6%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 7.3–9.2%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 11.4–13.7%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 8.6–10.7%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 5.6–7.3%&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 3.7–5.1%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.2–4.6%&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 2.5–3.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 2.2–3.3%&lt;/li&gt;&lt;li&gt;Denk (*): 1.9–3.0%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.1–9.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch.png"
+        length="368190"
+        type="image/png"/>
+      <pubDate>Sun, 02 Dec 2018 19:40:16 +0100</pubDate>
+      <dc:date>2018-12-02T19:40:16.088414+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-26-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 16.4–21.2%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 11.6–15.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.0–11.6%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 6.6–10.0%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 9.0–12.8%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 5.1–8.1%&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.5–6.1%&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Denk (*): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 5.2–8.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-26-Ipsos.png"
+        length="416628"
+        type="image/png"/>
+      <pubDate>Sun, 02 Dec 2018 19:34:18 +0100</pubDate>
+      <dc:date>2018-12-02T19:34:18.641519+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 26–29 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-10-29-Ipsos.html#seats</link>
@@ -549,6 +569,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2018-11-11T09:59:15.260857+01:00</dc:date>
+    <dc:date>2018-12-02T19:40:16.088414+01:00</dc:date>
   </channel>
 </rss>
