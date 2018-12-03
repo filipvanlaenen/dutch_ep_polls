@@ -61,9 +61,9 @@ Last result: **3** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 6 | 6 | 5–6 | 5–6 | 5–7 |
-| [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 5–6 | 5–7 | 5–7 | 5–8 |
+| [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6 | 6 | 6 | 5–6 | 5–7 |
@@ -93,9 +93,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 27% | 100% |  |
-| 6 | 70% | 73% | Median |
-| 7 | 3% | 3% |  |
+| 5 | 6% | 100% |  |
+| 6 | 84% | 94% | Median |
+| 7 | 9% | 10% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
