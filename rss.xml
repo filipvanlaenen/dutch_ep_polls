@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 03 Dec 2018 22:58:52 +0100</pubDate>
+    <pubDate>Tue, 04 Dec 2018 22:52:05 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 22–27 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 5–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 4–5 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch-seats.png"
+        length="309604"
+        type="image/png"/>
+      <pubDate>Tue, 04 Dec 2018 22:52:05 +0100</pubDate>
+      <dc:date>2018-12-04T22:52:05.202219+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 22–27 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch-coalitions-seats.png"
+        length="175257"
+        type="image/png"/>
+      <pubDate>Tue, 04 Dec 2018 22:52:05 +0100</pubDate>
+      <dc:date>2018-12-04T22:52:05.202219+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 22–27 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch.png"
         length="368190"
         type="image/png"/>
-      <pubDate>Mon, 03 Dec 2018 22:58:52 +0100</pubDate>
-      <dc:date>2018-12-03T22:58:52.162207+01:00</dc:date>
+      <pubDate>Tue, 04 Dec 2018 22:52:05 +0100</pubDate>
+      <dc:date>2018-12-04T22:52:05.202219+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 23–26 November 2018 – Seat Projections for the Parties</title>
@@ -589,6 +609,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2018-12-03T22:58:52.162207+01:00</dc:date>
+    <dc:date>2018-12-04T22:52:05.202219+01:00</dc:date>
   </channel>
 </rss>
