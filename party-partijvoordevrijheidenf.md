@@ -10,7 +10,9 @@ Last result: **13.3%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 11.5–14.6% | 11.2–15.1% | 11.0–15.5% | 10.6–16.2% |
+| N/A | [Poll Average](average.html) | 12.1% | 11.2–13.5% | 10.9–14.0% | 10.7–14.4% | 10.2–15.1% |
+| [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 12.5% | 11.3–14.0% | 10.9–14.4% | 10.6–14.7% | 10.1–15.4% |
+| [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 13.4% | N/A | N/A | N/A | N/A |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 11.8% | 11.1–12.6% | 10.9–12.8% | 10.7–13.0% | 10.4–13.4% |
 | [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 13.5% | 12.2–15.0% | 11.9–15.4% | 11.6–15.8% | 11.0–16.5% |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.3% |
@@ -39,15 +41,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.4% | 100% |  |
-| 10.5–11.5% | 12% | 99.6% |  |
-| 11.5–12.5% | 30% | 88% |  |
-| 12.5–13.5% | 26% | 58% | Last Result, Median |
-| 13.5–14.5% | 21% | 32% |  |
-| 14.5–15.5% | 9% | 11% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 9.5–10.5% | 1.4% | 100% |  |
+| 10.5–11.5% | 22% | 98.5% |  |
+| 11.5–12.5% | 45% | 77% | Median |
+| 12.5–13.5% | 22% | 32% | Last Result |
+| 13.5–14.5% | 7% | 9% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,7 +59,9 @@ Last result: **4** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 3–4 |
+| [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -88,10 +91,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 4% | 100% |  |
-| 4 | 51% | 96% | Last Result, Median |
-| 5 | 45% | 45% |  |
-| 6 | 0.2% | 0.2% |  |
+| 3 | 55% | 100% | Median |
+| 4 | 45% | 45% | Last Result |
+| 5 | 0.6% | 0.7% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
