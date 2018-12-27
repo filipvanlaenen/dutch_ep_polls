@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 04 Dec 2018 22:52:05 +0100</pubDate>
+    <pubDate>Thu, 27 Dec 2018 12:56:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 14–17 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-12-17-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 16.3–21.1%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 10.6–14.7%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 7.7–11.3%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 8.8–12.6%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 4.5–7.5%&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 4.3–7.1%&lt;/li&gt;&lt;li&gt;50Plus (ALDE): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Denk (*): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 5.5–8.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-12-17-Ipsos.png"
+        length="417737"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 12:56:40 +0100</pubDate>
+      <dc:date>2018-12-27T12:56:40.368018+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 22–27 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2018-11-27-IOResearch.html#seats</link>
@@ -609,6 +619,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2018-12-04T22:52:05.202219+01:00</dc:date>
+    <dc:date>2018-12-27T12:56:40.368018+01:00</dc:date>
   </channel>
 </rss>
