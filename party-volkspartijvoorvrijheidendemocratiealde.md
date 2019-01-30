@@ -10,7 +10,9 @@ Last result: **12.0%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.4% | 16.7–20.8% | 16.4–21.4% | 16.1–21.9% | 15.6–22.9% |
+| N/A | [Poll Average](average.html) | 17.9% | 15.9–20.8% | 15.6–21.4% | 15.4–21.9% | 15.0–22.8% |
+| [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
+| [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 16.3% | 15.5–17.1% | 15.3–17.3% | 15.2–17.5% | 14.8–17.9% |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 18.6% | 17.1–20.2% | 16.6–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 20.0% | 18.5–21.7% | 18.0–22.1% | 17.7–22.6% | 16.9–23.4% |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 17.1% | 16.3–18.0% | 16.1–18.3% | 15.9–18.5% | 15.5–18.9% |
@@ -42,16 +44,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% | Last Result |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 7% | 99.6% |  |
-| 16.5–17.5% | 23% | 92% |  |
-| 17.5–18.5% | 22% | 69% | Median |
-| 18.5–19.5% | 18% | 48% |  |
-| 19.5–20.5% | 16% | 29% |  |
-| 20.5–21.5% | 9% | 13% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 4% | 99.9% |  |
+| 15.5–16.5% | 22% | 96% |  |
+| 16.5–17.5% | 20% | 75% |  |
+| 17.5–18.5% | 15% | 55% | Median |
+| 18.5–19.5% | 15% | 41% |  |
+| 19.5–20.5% | 13% | 25% |  |
+| 20.5–21.5% | 8% | 12% |  |
 | 21.5–22.5% | 3% | 4% |  |
-| 22.5–23.5% | 0.8% | 0.9% |  |
+| 22.5–23.5% | 0.7% | 0.8% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -64,7 +66,9 @@ Last result: **3** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 6 | 6 | 6–7 | 5–7 | 5–7 |
@@ -98,9 +102,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 4% | 100% |  |
-| 6 | 61% | 96% | Median |
-| 7 | 30% | 35% |  |
+| 5 | 33% | 100% |  |
+| 6 | 31% | 67% | Median |
+| 7 | 31% | 36% |  |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
