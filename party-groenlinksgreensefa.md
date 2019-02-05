@@ -64,7 +64,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 4 | 4 | 4 | 3–4 | 3–5 |
+| [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 4 | 4 | 4 | 4 | 3–4 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -97,8 +97,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 32% | 100% |  |
-| 4 | 62% | 68% | Median |
+| 3 | 31% | 100% |  |
+| 4 | 63% | 69% | Median |
 | 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 

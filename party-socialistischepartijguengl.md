@@ -64,7 +64,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 3 | 3 | 3 | 2–3 | 2–3 |
+| [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3 | 2–3 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3–4 | 2–4 |
