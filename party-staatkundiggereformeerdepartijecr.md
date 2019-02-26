@@ -72,20 +72,20 @@ Last result: **7.7%** (General Election of 22 May 2014)
 | [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 2.3% | 2.0–2.7% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% |
 | [5–11 March 2018](2018-03-11-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
-| [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 2.0% | 1.6–2.5% | 1.5–2.5% | 1.5–2.6% | 1.4–2.9% |
+| [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 2.3% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.8% |
 | [19–25 February 2018](2018-02-25-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [12–18 February 2018](2018-02-18-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [5–11 February 2018](2018-02-11-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 2.4% | 2.1–2.8% | 2.0–2.9% | 2.0–3.0% | 1.8–3.2% |
-| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
-| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.7% | 1.3–3.0% |
 
 ### Probability Mass Function
@@ -175,20 +175,20 @@ Last result: **1** seats (General Election of 22 May 2014)
 | [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [5–11 March 2018](2018-03-11-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0–1 |
 | [19–25 February 2018](2018-02-25-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [12–18 February 2018](2018-02-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [5–11 February 2018](2018-02-11-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
-| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
-| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
