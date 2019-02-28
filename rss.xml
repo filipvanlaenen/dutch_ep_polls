@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Feb 2019 12:29:32 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 13:34:19 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 11–17 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-17-Peilnl.html</link>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-01-13-Peilnl.png"
         length="386107"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 20:02:11 +0100</pubDate>
-      <dc:date>2019-02-23T20:02:11.137754+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 13:21:33 +0100</pubDate>
+      <dc:date>2019-02-28T13:21:33.189898+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 14–17 December 2018 – Seat Projections for the Parties</title>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-12-16-Peilnl.png"
         length="386729"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 20:18:32 +0100</pubDate>
-      <dc:date>2019-02-23T20:18:32.615733+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 13:27:52 +0100</pubDate>
+      <dc:date>2019-02-28T13:27:52.749323+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 7–11 December 2018 – Seat Projections for the Parties</title>
@@ -206,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-12-09-Peilnl.png"
         length="387189"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 20:38:48 +0100</pubDate>
-      <dc:date>2019-02-23T20:38:48.23652+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 13:34:19 +0100</pubDate>
+      <dc:date>2019-02-28T13:34:19.808497+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 26 November–2 December 2018 – Voting Intentions</title>
@@ -1036,8 +1036,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-25-Peilnl.png"
         length="372014"
         type="image/png"/>
-      <pubDate>Thu, 28 Feb 2019 12:29:32 +0100</pubDate>
-      <dc:date>2019-02-28T12:29:32.402219+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 12:33:16 +0100</pubDate>
+      <dc:date>2019-02-28T12:33:16.312641+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 12–18 February 2018 – Voting Intentions</title>
@@ -1096,8 +1096,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-02-04-Peilnl.png"
         length="359064"
         type="image/png"/>
-      <pubDate>Mon, 25 Feb 2019 20:45:55 +0100</pubDate>
-      <dc:date>2019-02-25T20:45:55.973014+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 13:02:50 +0100</pubDate>
+      <dc:date>2019-02-28T13:02:50.481454+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 26–29 January 2018 – Seat Projections for the Parties</title>
@@ -1136,8 +1136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-28-Peilnl.png"
         length="358114"
         type="image/png"/>
-      <pubDate>Mon, 25 Feb 2019 21:01:23 +0100</pubDate>
-      <dc:date>2019-02-25T21:01:23.475452+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 13:08:58 +0100</pubDate>
+      <dc:date>2019-02-28T13:08:58.255375+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 25–28 January 2018 – Seat Projections for the Parties</title>
@@ -1176,8 +1176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-01-21-Peilnl.png"
         length="358508"
         type="image/png"/>
-      <pubDate>Mon, 25 Feb 2019 21:16:05 +0100</pubDate>
-      <dc:date>2019-02-25T21:16:05.767664+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 13:15:11 +0100</pubDate>
+      <dc:date>2019-02-28T13:15:11.413425+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 8–14 January 2018 – Voting Intentions</title>
@@ -1229,6 +1229,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2019-02-28T12:29:32.402219+01:00</dc:date>
+    <dc:date>2019-02-28T13:34:19.808497+01:00</dc:date>
   </channel>
 </rss>
