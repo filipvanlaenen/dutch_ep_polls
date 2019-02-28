@@ -124,11 +124,11 @@ Last result: **4** seats (General Election of 22 May 2014)
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
 | [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 2 |
 | [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
-| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [26 November–2 December 2018](2018-12-02-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -185,11 +185,11 @@ Last result: **4** seats (General Election of 22 May 2014)
 | [12–18 February 2018](2018-02-18-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–11 February 2018](2018-02-11-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 3–4 |

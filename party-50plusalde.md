@@ -180,11 +180,11 @@ Last result: **0** seats (General Election of 22 May 2014)
 | [12–18 February 2018](2018-02-18-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [5–11 February 2018](2018-02-11-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0–1 | 0–1 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
+| [29 January–4 February 2018](2018-02-04-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 January 2018](2018-01-29-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
+| [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
+| [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
