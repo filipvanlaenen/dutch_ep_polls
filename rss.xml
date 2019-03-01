@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Feb 2019 13:34:19 +0100</pubDate>
+    <pubDate>Fri, 01 Mar 2019 19:45:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 11–17 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-17-Peilnl.html</link>
@@ -756,8 +756,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-05-27-Peilnl.png"
         length="372079"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 18:11:59 +0100</pubDate>
-      <dc:date>2019-02-24T18:11:59.277385+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 18:17:33 +0100</pubDate>
+      <dc:date>2019-03-01T18:17:33.886105+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 14–20 May 2018 – Voting Intentions</title>
@@ -786,8 +786,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-05-06-Peilnl.png"
         length="379798"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 21:28:34 +0100</pubDate>
-      <dc:date>2019-02-24T21:28:34.457216+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:38:05 +0100</pubDate>
+      <dc:date>2019-03-01T19:38:05.735578+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 23–29 April 2018 – Voting Intentions</title>
@@ -796,8 +796,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-29-Peilnl.png"
         length="379292"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 21:46:28 +0100</pubDate>
-      <dc:date>2019-02-24T21:46:28.56818+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:45:51 +0100</pubDate>
+      <dc:date>2019-03-01T19:45:51.472394+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 20–23 April 2018 – Seat Projections for the Parties</title>
@@ -836,8 +836,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-22-Peilnl.png"
         length="376122"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 22:06:53 +0100</pubDate>
-      <dc:date>2019-02-24T22:06:53.077202+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 22:14:35 +0100</pubDate>
+      <dc:date>2019-02-28T22:14:35.308057+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–15 April 2018 – Voting Intentions</title>
@@ -846,8 +846,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-15-Peilnl.png"
         length="376548"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 22:24:23 +0100</pubDate>
-      <dc:date>2019-02-24T22:24:23.23493+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 22:24:07 +0100</pubDate>
+      <dc:date>2019-02-28T22:24:07.43503+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 2–8 April 2018 – Voting Intentions</title>
@@ -856,8 +856,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-04-08-Peilnl.png"
         length="375568"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 22:42:39 +0100</pubDate>
-      <dc:date>2019-02-24T22:42:39.307622+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 22:33:57 +0100</pubDate>
+      <dc:date>2019-02-28T22:33:57.654702+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 26 March–1 April 2018 – Voting Intentions</title>
@@ -916,8 +916,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-03-18-Peilnl.png"
         length="371644"
         type="image/png"/>
-      <pubDate>Mon, 25 Feb 2019 18:52:20 +0100</pubDate>
-      <dc:date>2019-02-25T18:52:20.395814+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 18:09:39 +0100</pubDate>
+      <dc:date>2019-03-01T18:09:39.773653+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 8–12 March 2018 – Seat Projections for the Parties</title>
@@ -1229,6 +1229,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2019-02-28T13:34:19.808497+01:00</dc:date>
+    <dc:date>2019-03-01T19:45:51.472394+01:00</dc:date>
   </channel>
 </rss>
