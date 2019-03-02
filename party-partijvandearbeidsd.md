@@ -188,8 +188,8 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
+| [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 2 | 2 | 2 | 2 | 2–3 |
 
 ### Probability Mass Function
