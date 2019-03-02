@@ -132,10 +132,10 @@ Last result: **0** seats (General Election of 22 May 2014)
 | [5–11 November 2018](2018-11-11-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 October–4 November 2018](2018-11-04-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [22–28 October 2018](2018-10-28-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
-| [15–21 October 2018](2018-10-21-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
-| [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
-| [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
+| [22–28 October 2018](2018-10-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [15–21 October 2018](2018-10-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [24–30 September 2018](2018-09-30-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -149,7 +149,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 | [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0–1 | 0–1 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [13–29 June 2018](2018-06-29-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 0–1 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 June 2018](2018-06-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |

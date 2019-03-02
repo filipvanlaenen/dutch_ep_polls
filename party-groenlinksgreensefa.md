@@ -135,10 +135,10 @@ Last result: **2** seats (General Election of 22 May 2014)
 | [5–11 November 2018](2018-11-11-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
 | [29 October–4 November 2018](2018-11-04-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [22–28 October 2018](2018-10-28-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
-| [15–21 October 2018](2018-10-21-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
-| [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
-| [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
+| [22–28 October 2018](2018-10-28-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
+| [15–21 October 2018](2018-10-21-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
+| [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
+| [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
 | [24–30 September 2018](2018-09-30-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 | [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -152,7 +152,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–29 June 2018](2018-06-29-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [18–24 June 2018](2018-06-24-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
