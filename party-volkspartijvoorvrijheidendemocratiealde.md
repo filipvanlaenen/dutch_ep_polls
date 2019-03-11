@@ -128,7 +128,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
-| [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
 | [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 5 | 5 | 5 | 5–6 | 5–6 |
 | [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
@@ -145,10 +145,10 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [5–11 November 2018](2018-11-11-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [29 October–4 November 2018](2018-11-04-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [22–28 October 2018](2018-10-28-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
-| [15–21 October 2018](2018-10-21-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
-| [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
-| [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
+| [22–28 October 2018](2018-10-28-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [15–21 October 2018](2018-10-21-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [24–30 September 2018](2018-09-30-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 5–6 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
