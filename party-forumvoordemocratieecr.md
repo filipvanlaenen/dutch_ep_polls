@@ -185,7 +185,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 | [26 March–1 April 2018](2018-04-01-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [19–25 March 2018](2018-03-25-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 2 |
 | [5–11 March 2018](2018-03-11-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |

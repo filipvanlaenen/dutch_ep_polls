@@ -129,11 +129,11 @@ Last result: **4** seats (General Election of 22 May 2014)
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–5 |
 | [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 4 | 4 | 4 | 4 | 3–4 |
 | [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–5 |
-| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 | [26 November–2 December 2018](2018-12-02-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |

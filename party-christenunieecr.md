@@ -126,11 +126,11 @@ Last result: **1** seats (General Election of 22 May 2014)
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1–2 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1–2 |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 1–2 | 1–2 |
-| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1–2 |
 | [26 November–2 December 2018](2018-12-02-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1–2 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 1 | 1 | 1 | 0–1 | 0–1 |
 | [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -177,7 +177,7 @@ Last result: **1** seats (General Election of 22 May 2014)
 | [26 March–1 April 2018](2018-04-01-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [19–25 March 2018](2018-03-25-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5–11 March 2018](2018-03-11-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |

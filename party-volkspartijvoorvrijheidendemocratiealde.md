@@ -132,11 +132,11 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
 | [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 5 | 5 | 5 | 5–6 | 5–6 |
 | [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
-| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [10–16 December 2018](2018-12-16-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [7–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [26 November–2 December 2018](2018-12-02-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
@@ -183,7 +183,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [26 March–1 April 2018](2018-04-01-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 5–6 | 5–6 |
 | [19–25 March 2018](2018-03-25-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 5–6 | 5–6 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 6 | 6 | 6 | 6–7 | 6–7 |
 | [5–11 March 2018](2018-03-11-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 5–6 |
