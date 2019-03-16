@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 11 Mar 2019 23:08:56 +0100</pubDate>
+    <pubDate>Tue, 12 Mar 2019 23:05:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by I&amp;O Research, 22–26 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-26-IOResearch.html#seats</link>
@@ -946,8 +946,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2018-06-13-KantarPublic.png"
         length="396847"
         type="image/png"/>
-      <pubDate>Tue, 26 Feb 2019 20:10:49 +0100</pubDate>
-      <dc:date>2019-02-26T20:10:49.080552+01:00</dc:date>
+      <pubDate>Tue, 12 Mar 2019 23:05:01 +0100</pubDate>
+      <dc:date>2019-03-12T23:05:01.059212+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 4–10 June 2018 – Voting Intentions</title>
@@ -1499,6 +1499,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2019-03-11T23:08:56.607828+01:00</dc:date>
+    <dc:date>2019-03-12T23:05:01.059212+01:00</dc:date>
   </channel>
 </rss>
