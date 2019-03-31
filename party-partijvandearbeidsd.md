@@ -14,8 +14,8 @@ Last result: **9.4%** (General Election of 22 May 2014)
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 6.8% | 6.1–7.6% | 6.0–7.8% | 5.8–8.0% | 5.5–8.4% |
-| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 8.7% | N/A | N/A | N/A | N/A |
-| [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
+| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
+| [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 9.3% | 8.6–10.2% | 8.4–10.3% | 8.2–10.4% | 8.0–10.8% |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 6.5% | 5.8–7.3% | 5.6–7.5% | 5.5–7.7% | 5.2–8.1% |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
@@ -125,7 +125,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 2 |
-| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 2 | 2 | 2 | 1–2 | 1–2 |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -217,7 +217,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% |  |
 | 2 | 63% | 97% | Median |
-| 3 | 34% | 34% | Last Result |
+| 3 | 33% | 33% | Last Result |
 | 4 | 0% | 0% |  |
 
 
