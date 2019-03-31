@@ -15,12 +15,12 @@ Last result: **12.0%** (General Election of 22 May 2014)
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 14.7% | 13.9–15.5% | 13.6–15.8% | 13.4–16.0% | 13.1–16.4% |
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 15.8% | 14.8–16.9% | 14.5–17.2% | 14.3–17.4% | 13.8–17.9% |
 | [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
-| [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.3% | 14.3–16.5% | 14.0–16.7% | 13.6–17.1% |
+| [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 15.3% | 14.3–16.4% | 14.0–16.7% | 13.8–17.0% | 13.3–17.5% |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 14.7% | 13.9–15.5% | 13.6–15.8% | 13.4–16.0% | 13.1–16.4% |
 | [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.2–20.9% | 15.5–21.7% |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
-| [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 15.3% | N/A | N/A | N/A | N/A |
+| [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 14.7% | 13.9–15.5% | 13.6–15.8% | 13.4–16.0% | 13.1–16.4% |
 | [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 17.5% | 16.0–19.1% | 15.6–19.5% | 15.2–20.0% | 14.6–20.7% |
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 14.7% | 13.9–15.5% | 13.6–15.8% | 13.4–16.0% | 13.1–16.4% |
@@ -130,11 +130,11 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 5 | 5 | 5 | 5 | 5 |
 | [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5–6 | 5–6 |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–6 |
 | [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
 | [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
