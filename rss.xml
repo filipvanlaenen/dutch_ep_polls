@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Apr 2019 06:59:40 +0200</pubDate>
+    <pubDate>Wed, 03 Apr 2019 16:36:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 18–24 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-24-Peilnl.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-24-Peilnl.png"
         length="369346"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 17:32:55 +0100</pubDate>
-      <dc:date>2019-03-30T17:32:55.2817+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 16:36:43 +0200</pubDate>
+      <dc:date>2019-04-03T16:36:43.079658+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 11–17 March 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-10-Peilnl.png"
         length="378968"
         type="image/png"/>
-      <pubDate>Sun, 31 Mar 2019 10:30:32 +0200</pubDate>
-      <dc:date>2019-03-31T10:30:32.511963+02:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 15:15:50 +0200</pubDate>
+      <dc:date>2019-04-03T15:15:50.053061+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 25 February–3 March 2019 – Voting Intentions</title>
@@ -1529,6 +1529,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2019-04-03T06:59:40.149792+02:00</dc:date>
+    <dc:date>2019-04-03T16:36:43.079658+02:00</dc:date>
   </channel>
 </rss>
