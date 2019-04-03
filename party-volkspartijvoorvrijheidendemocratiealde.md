@@ -128,7 +128,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 5 | 5 | 5 | 5 | 5–6 |
-| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5–6 | 5–6 |
+| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–6 |
@@ -219,8 +219,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 0% | 100% |  |
-| 5 | 70% | 100% | Median |
+| 4 | 0.1% | 100% |  |
+| 5 | 69% | 99.9% | Median |
 | 6 | 24% | 30% |  |
 | 7 | 6% | 6% |  |
 | 8 | 0.1% | 0.1% |  |
