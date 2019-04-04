@@ -134,7 +134,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–6 |
 | [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
 | [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
