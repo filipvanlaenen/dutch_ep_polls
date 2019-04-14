@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 10 Apr 2019 18:43:17 +0200</pubDate>
+    <pubDate>Sun, 14 Apr 2019 13:02:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 1–7 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-04-07-Peilnl.html#seats</link>
@@ -130,14 +130,34 @@
       <dc:date>2019-04-10T16:52:43.961706+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by I&amp;O Research, 8–12 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-12-IOResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 5–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-12-IOResearch-seats.png"
+        length="298700"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 12:04:12 +0200</pubDate>
+      <dc:date>2019-04-14T12:04:12.417272+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 8–12 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-12-IOResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-12-IOResearch-coalitions-seats.png"
+        length="207341"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 12:04:12 +0200</pubDate>
+      <dc:date>2019-04-14T12:04:12.417272+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by I&amp;O Research, 8–12 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-12-IOResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 14.3–17.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 8.8–11.4%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.4–10.9%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 6.1–8.3%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 10.7–13.5%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 8.4–10.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 5.8–8.0%&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 4.6–6.6%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.9–4.5%&lt;/li&gt;&lt;li&gt;50Plus (*): 3.0–4.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–2.8%&lt;/li&gt;&lt;li&gt;Denk (*): 1.7–3.0%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 10.2–12.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-12-IOResearch.png"
         length="394600"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 18:25:08 +0200</pubDate>
-      <dc:date>2019-04-06T18:25:08.818538+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 12:04:12 +0200</pubDate>
+      <dc:date>2019-04-14T12:04:12.417272+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 4–10 March 2019 – Voting Intentions</title>
@@ -200,14 +220,34 @@
       <dc:date>2019-03-07T20:50:29.919223+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 22–24 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-24-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 5–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 3–5 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (*): 0–2 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Denk (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-24-Ipsos-seats.png"
+        length="328200"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 13:02:41 +0200</pubDate>
+      <dc:date>2019-04-14T13:02:41.917465+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 22–24 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-24-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-24-Ipsos-coalitions-seats.png"
+        length="222652"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 13:02:41 +0200</pubDate>
+      <dc:date>2019-04-14T13:02:41.917465+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 22–24 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-24-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 16.2–20.9%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ENF): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.0–10.5%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 7.5–11.1%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 8.9–12.7%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 6.0–9.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 4.8–7.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (ECR): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.0–5.5%&lt;/li&gt;&lt;li&gt;50Plus (*): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Denk (*): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 8.2–11.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-24-Ipsos.png"
         length="416042"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 19:27:46 +0200</pubDate>
-      <dc:date>2019-04-06T19:27:46.655445+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 13:02:41 +0200</pubDate>
+      <dc:date>2019-04-14T13:02:41.917465+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 11–17 February 2019 – Voting Intentions</title>
@@ -1609,6 +1649,6 @@
       <pubDate>Mon, 09 Apr 2018 12:42:20 +0200</pubDate>
       <dc:date>2018-04-09T12:42:20.8287+02:00</dc:date>
     </item>
-    <dc:date>2019-04-10T18:43:17.867955+02:00</dc:date>
+    <dc:date>2019-04-14T13:02:41.917465+02:00</dc:date>
   </channel>
 </rss>
