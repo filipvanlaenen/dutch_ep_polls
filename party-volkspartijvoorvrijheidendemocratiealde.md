@@ -10,7 +10,7 @@ Last result: **12.0%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 14.8–19.1% | 14.5–19.7% | 14.3–20.2% | 13.8–21.2% |
+| N/A | [Poll Average](average.html) | 15.9% | 14.3–19.1% | 14.0–19.7% | 13.8–20.2% | 13.3–21.2% |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 14.7% | 13.9–15.5% | 13.6–15.8% | 13.4–16.0% | 13.1–16.4% |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
@@ -105,11 +105,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% | Last Result |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 5% | 99.9% |  |
-| 14.5–15.5% | 28% | 94% |  |
-| 15.5–16.5% | 28% | 67% | Median |
-| 16.5–17.5% | 12% | 39% |  |
+| 12.5–13.5% | 1.3% | 100% |  |
+| 13.5–14.5% | 15% | 98.7% |  |
+| 14.5–15.5% | 27% | 84% |  |
+| 15.5–16.5% | 20% | 57% | Median |
+| 16.5–17.5% | 11% | 38% |  |
 | 17.5–18.5% | 11% | 27% |  |
 | 18.5–19.5% | 10% | 16% |  |
 | 19.5–20.5% | 5% | 6% |  |
@@ -223,8 +223,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 0.6% | 100% |  |
-| 5 | 66% | 99.4% | Median |
+| 4 | 2% | 100% |  |
+| 5 | 65% | 98% | Median |
 | 6 | 27% | 34% |  |
 | 7 | 6% | 6% |  |
 | 8 | 0.1% | 0.1% |  |
