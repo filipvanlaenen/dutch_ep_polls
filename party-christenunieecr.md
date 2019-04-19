@@ -120,8 +120,8 @@ Last result: **1** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
-| [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -216,8 +216,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 98% | 98% | Last Result, Median |
+| 0 | 18% | 100% |  |
+| 1 | 82% | 82% | Last Result, Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
