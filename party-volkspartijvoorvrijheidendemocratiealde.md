@@ -10,7 +10,7 @@ Last result: **12.0%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 14.1–16.5% | 13.8–16.8% | 13.6–17.2% | 13.2–17.7% |
+| N/A | [Poll Average](average.html) | 15.9% | 14.3–19.1% | 14.0–19.7% | 13.8–20.2% | 13.3–21.2% |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 14.7% | 13.9–15.5% | 13.6–15.8% | 13.4–16.0% | 13.1–16.4% |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.5% | 14.1–16.7% | 13.7–17.1% |
@@ -20,7 +20,7 @@ Last result: **12.0%** (General Election of 22 May 2014)
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 15.3% | N/A | N/A | N/A | N/A |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 15.3% | N/A | N/A | N/A | N/A |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 14.7% | N/A | N/A | N/A | N/A |
-| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 18.4% | N/A | N/A | N/A | N/A |
+| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.2–20.9% | 15.5–21.7% |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl | 15.3% | N/A | N/A | N/A | N/A |
 | [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 15.3% | N/A | N/A | N/A | N/A |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 14.7% | N/A | N/A | N/A | N/A |
@@ -105,13 +105,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% | Last Result |
-| 12.5–13.5% | 2% | 100% |  |
-| 13.5–14.5% | 22% | 98% |  |
-| 14.5–15.5% | 40% | 76% | Median |
-| 15.5–16.5% | 27% | 36% |  |
-| 16.5–17.5% | 8% | 9% |  |
-| 17.5–18.5% | 0.8% | 0.9% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 12.5–13.5% | 1.3% | 100% |  |
+| 13.5–14.5% | 15% | 98.7% |  |
+| 14.5–15.5% | 27% | 84% |  |
+| 15.5–16.5% | 20% | 57% | Median |
+| 16.5–17.5% | 11% | 38% |  |
+| 17.5–18.5% | 11% | 27% |  |
+| 18.5–19.5% | 10% | 16% |  |
+| 19.5–20.5% | 5% | 6% |  |
+| 20.5–21.5% | 1.3% | 2% |  |
+| 21.5–22.5% | 0.2% | 0.2% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -122,17 +126,17 @@ Last result: **3** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
-| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 4 | 4 | 4 | 4 | 4–5 |
+| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -219,9 +223,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 84% | 100% | Median |
-| 5 | 16% | 16% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 4 | 32% | 100% |  |
+| 5 | 57% | 68% | Median |
+| 6 | 4% | 11% |  |
+| 7 | 7% | 7% |  |
+| 8 | 0% | 0% |  |
 
 
