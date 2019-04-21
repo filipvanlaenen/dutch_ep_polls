@@ -127,18 +127,18 @@ Last result: **3** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
-| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -225,10 +225,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 32% | 100% |  |
-| 5 | 57% | 68% | Median |
-| 6 | 4% | 11% |  |
-| 7 | 7% | 7% |  |
+| 4 | 24% | 100% |  |
+| 5 | 70% | 76% | Median |
+| 6 | 5% | 6% |  |
+| 7 | 0.8% | 0.8% |  |
 | 8 | 0% | 0% |  |
 
 

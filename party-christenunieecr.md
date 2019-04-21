@@ -122,18 +122,18 @@ Last result: **1** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
+| [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
-| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 1–2 |
 | [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -219,9 +219,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 83% | 86% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 0 | 3% | 100% |  |
+| 1 | 96% | 97% | Last Result, Median |
+| 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% |  |
 
 
