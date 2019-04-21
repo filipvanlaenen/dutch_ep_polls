@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Apr 2019 17:04:03 +0200</pubDate>
+    <pubDate>Sun, 21 Apr 2019 15:51:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 8–14 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-04-14-Peilnl.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-04-14-Peilnl.png"
         length="364516"
         type="image/png"/>
-      <pubDate>Sat, 20 Apr 2019 17:04:03 +0200</pubDate>
-      <dc:date>2019-04-20T17:04:03.835605+02:00</dc:date>
+      <pubDate>Sun, 21 Apr 2019 15:07:28 +0200</pubDate>
+      <dc:date>2019-04-21T15:07:28.635853+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 1–7 April 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-03-12-IOResearch.png"
         length="395232"
         type="image/png"/>
-      <pubDate>Fri, 19 Apr 2019 17:17:08 +0200</pubDate>
-      <dc:date>2019-04-19T17:17:08.346418+02:00</dc:date>
+      <pubDate>Sun, 21 Apr 2019 15:30:06 +0200</pubDate>
+      <dc:date>2019-04-21T15:30:06.681879+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 22–24 February 2019 – Voting Intentions</title>
@@ -76,9 +76,9 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-02-24-Ipsos.png"
         length="416767"
         type="image/png"/>
-      <pubDate>Fri, 19 Apr 2019 17:36:01 +0200</pubDate>
-      <dc:date>2019-04-19T17:36:01.375513+02:00</dc:date>
+      <pubDate>Sun, 21 Apr 2019 15:51:41 +0200</pubDate>
+      <dc:date>2019-04-21T15:51:41.005751+02:00</dc:date>
     </item>
-    <dc:date>2019-04-20T17:04:03.835605+02:00</dc:date>
+    <dc:date>2019-04-21T15:51:41.005751+02:00</dc:date>
   </channel>
 </rss>
