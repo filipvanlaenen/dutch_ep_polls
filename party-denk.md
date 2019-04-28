@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.4% | 1.9–2.9% | 1.7–3.1% | 1.6–3.2% | 1.3–3.5% |
+| [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.2–2.4% | 1.0–2.7% |
+| [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
@@ -122,6 +124,8 @@ Last result: **0** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
+| [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
