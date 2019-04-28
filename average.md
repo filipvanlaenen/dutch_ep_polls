@@ -6,14 +6,14 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | D66 | CDA | PVV | VVD | SP | PvdA | CU | SGP | GL | PvdD | 50+ | PP | DENK | FvD | B1 |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 22 May 2014 | General Election | 15.5% <br> 4 | 15.2% <br> 5 | 13.3% <br> 4 | 12.0% <br> 3 | 9.6% <br> 2 | 9.4% <br> 3 | 7.7% <br> 1 | 7.7% <br> 1 | 7.0% <br> 2 | 4.2% <br> 1 | 3.7% <br> 0 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 6–11% <br> 2–3 | 7–11% <br> 2–3 | 5–14% <br> 1–4 | 14–20% <br> 4–6 | 5–11% <br> 1–3 | 5–9% <br> 1–3 | 3–6% <br> 0–1 | 1–3% <br> 0 | 9–13% <br> 3–4 | 3–6% <br> 0–2 | 2–5% <br> 0–1 | N/A <br> N/A | 2–3% <br> 0 | 9–20% <br> 3–6 | N/A <br> N/A |
-| [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 6–8% <br> 2 | 9–11% <br> 2–3 | 5–6% <br> 1–2 | 13–16% <br> 4–5 | 5–7% <br> 1–2 | 8–10% <br> 2–3 | 4–5% <br> 0–1 | 1–2% <br> 0 | 11–13% <br> 3–4 | 5–6% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 17–20% <br> 5–6 | N/A <br> N/A |
-| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 6–8% <br> 2 | 8–11% <br> 2–3 | 9–11% <br> 2–4 | 14–17% <br> 4–5 | 8–11% <br> 2–3 | 6–8% <br> 1–2 | 5–7% <br> 1 | 2–3% <br> 0 | 11–13% <br> 3–4 | 3–4% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | 2–3% <br> 0 | 10–13% <br> 3–4 | N/A <br> N/A |
-| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 8–11% <br> 2–3 | 7–10% <br> 2–3 | 11–15% <br> 3–4 | 16–21% <br> 5–6 | 6–9% <br> 2–3 | 5–8% <br> 1–2 | 3–6% <br> 0–1 | 2–4% <br> 0 | 9–13% <br> 2–4 | 3–6% <br> 0–1 | 3–6% <br> 0–2 | N/A <br> N/A | 1–3% <br> 0 | 8–12% <br> 2–4 | N/A <br> N/A |
-| 22 May 2014 | General Election | 15.5% <br> 4 | 15.2% <br> 5 | 13.3% <br> 4 | 12.0% <br> 3 | 9.6% <br> 2 | 9.4% <br> 3 | 7.7% <br> 1 | 7.7% <br> 1 | 7.0% <br> 2 | 4.2% <br> 1 | 3.7% <br> 0 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | D66 | CDA | PVV | VVD | SP | PvdA | CU–SGP | CU | SGP | GL | PvdD | 50+ | PP | DENK | FvD | B1 |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 22 May 2014 | General Election | 15.5% <br> 4 | 15.2% <br> 5 | 13.3% <br> 4 | 12.0% <br> 3 | 9.6% <br> 2 | 9.4% <br> 3 | 7.7% <br> 2 | 7.7% <br> 1 | 7.7% <br> 1 | 7.0% <br> 2 | 4.2% <br> 1 | 3.7% <br> 0 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 6–11% <br> 2–3 | 7–11% <br> 2–3 | 5–14% <br> 1–4 | 14–20% <br> 4–6 | 5–11% <br> 1–3 | 5–9% <br> 1–3 | N/A <br> N/A | 3–6% <br> 0–1 | 1–3% <br> 0 | 9–13% <br> 3–4 | 3–6% <br> 0–2 | 2–5% <br> 0–1 | N/A <br> N/A | 2–3% <br> 0 | 9–20% <br> 3–6 | N/A <br> N/A |
+| [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 6–8% <br> 2 | 9–11% <br> 2–3 | 5–6% <br> 1–2 | 13–16% <br> 4–5 | 5–7% <br> 1–2 | 8–10% <br> 2–3 | N/A <br> N/A | 4–5% <br> 0–1 | 1–2% <br> 0 | 11–13% <br> 3–4 | 5–6% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 17–20% <br> 5–6 | N/A <br> N/A |
+| [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 6–8% <br> 2 | 8–11% <br> 2–3 | 9–11% <br> 2–4 | 14–17% <br> 4–5 | 8–11% <br> 2–3 | 6–8% <br> 1–2 | N/A <br> N/A | 5–7% <br> 1 | 2–3% <br> 0 | 11–13% <br> 3–4 | 3–4% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | 2–3% <br> 0 | 10–13% <br> 3–4 | N/A <br> N/A |
+| [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 8–11% <br> 2–3 | 7–10% <br> 2–3 | 11–15% <br> 3–4 | 16–21% <br> 5–6 | 6–9% <br> 2–3 | 5–8% <br> 1–2 | N/A <br> N/A | 3–6% <br> 0–1 | 2–4% <br> 0 | 9–13% <br> 2–4 | 3–6% <br> 0–1 | 3–6% <br> 0–2 | N/A <br> N/A | 1–3% <br> 0 | 8–12% <br> 2–4 | N/A <br> N/A |
+| 22 May 2014 | General Election | 15.5% <br> 4 | 15.2% <br> 5 | 13.3% <br> 4 | 12.0% <br> 3 | 9.6% <br> 2 | 9.4% <br> 3 | 7.7% <br> 2 | 7.7% <br> 1 | 7.7% <br> 1 | 7.0% <br> 2 | 4.2% <br> 1 | 3.7% <br> 0 | 0.8% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -26,6 +26,7 @@ Only polls for which at least the sample size has been published are included in
 + **VVD:** Volkspartij voor Vrijheid en Democratie (ALDE)
 + **SP:** Socialistische Partij (GUE/NGL)
 + **PvdA:** Partij van de Arbeid (S&D)
++ **CU–SGP:** ChristenUnie–Staatkundig Gereformeerde Partij (ECR)
 + **CU:** ChristenUnie (ECR)
 + **SGP:** Staatkundig Gereformeerde Partij (ECR)
 + **GL:** GroenLinks (Greens/EFA)
@@ -52,6 +53,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#volkspartij-voor-vrijheid-en-democratie-(alde)">Volkspartij voor Vrijheid en Democratie (ALDE)</a> | 12.0% | 15.9% | 14.3–19.1% |14.0–19.7% | 13.8–20.2% | 13.3–21.2% |
 | <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 9.6% | 7.5% | 5.8–10.0% |5.6–10.3% | 5.4–10.6% | 5.1–11.1% |
 | <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 9.4% | 7.0% | 5.8–9.0% |5.4–9.2% | 5.2–9.4% | 4.7–9.8% |
+| <a href="#christenunie–staatkundig-gereformeerde-partij-(ecr)">ChristenUnie–Staatkundig Gereformeerde Partij (ECR)</a> | 7.7% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#christenunie-(ecr)">ChristenUnie (ECR)</a> | 7.7% | 4.8% | 3.9–5.8% |3.6–6.1% | 3.4–6.3% | 3.0–6.7% |
 | <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 7.7% | 2.0% | 1.2–2.9% |1.2–3.1% | 1.1–3.4% | 1.0–3.8% |
 | <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 7.0% | 11.7% | 10.2–12.7% |9.7–13.0% | 9.3–13.3% | 8.7–13.7% |
@@ -304,6 +306,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#volkspartij-voor-vrijheid-en-democratie-(alde)">Volkspartij voor Vrijheid en Democratie (ALDE)</a> | 3 | 5 | 4–5 |4–6 | 4–6 | 4–7 |
 | <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 2 | 2 | 2–3 |1–3 | 1–3 | 1–3 |
 | <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 3 | 2 | 1–2 |1–3 | 1–3 | 1–3 |
+| <a href="#christenunie–staatkundig-gereformeerde-partij-(ecr)">ChristenUnie–Staatkundig Gereformeerde Partij (ECR)</a> | 2 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#christenunie-(ecr)">ChristenUnie (ECR)</a> | 1 | 1 | 1 |1 | 0–1 | 0–2 |
 | <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 2 | 3 | 3–4 |3–4 | 3–4 | 2–4 |
@@ -609,6 +612,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 1,572,864
-+ **Error estimate:** 2.56%
++ **Lowest number of simulations done in a poll included in this average:** 0
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 2.09%
