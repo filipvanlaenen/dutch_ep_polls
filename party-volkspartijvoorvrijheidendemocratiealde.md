@@ -131,7 +131,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
+| [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
