@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 22 May 2014)
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 13.3% | 12.6–14.2% | 12.3–14.4% | 12.2–14.6% | 11.8–15.0% |
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 11.5% | 10.6–12.4% | 10.4–12.7% | 10.2–12.9% | 9.8–13.4% |
-| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
+| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 11.3% | N/A | N/A | N/A | N/A |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 10.5% | N/A | N/A | N/A | N/A |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
@@ -151,7 +151,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [11–17 March 2019](2019-03-17-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4–5 | 3–5 |
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3–4 | 3–4 |
-| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
