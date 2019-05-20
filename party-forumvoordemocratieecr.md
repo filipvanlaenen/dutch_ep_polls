@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 14.3–18.1% | 13.8–18.5% | 13.5–18.8% | 12.9–19.6% |
+| N/A | [Poll Average](average.html) | 17.1% | 14.5–19.1% | 14.0–19.8% | 13.6–20.3% | 13.0–21.3% |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
-| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 18.0% | N/A | N/A | N/A | N/A |
+| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 16.9% | 15.5–18.5% | 15.1–18.9% | 14.7–19.3% | 14.1–20.1% |
 | [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
-| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 18.6% | N/A | N/A | N/A | N/A |
+| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 18.6% | 17.1–20.3% | 16.7–20.8% | 16.3–21.2% | 15.6–22.1% |
 | [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 14.7% | 13.6–15.9% | 13.4–16.2% | 13.1–16.5% | 12.6–17.1% |
 | [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
@@ -125,16 +125,17 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 3% | 99.9% |  |
-| 13.5–14.5% | 12% | 97% |  |
-| 14.5–15.5% | 17% | 86% |  |
-| 15.5–16.5% | 18% | 69% |  |
-| 16.5–17.5% | 28% | 51% | Median |
-| 17.5–18.5% | 19% | 23% |  |
-| 18.5–19.5% | 4% | 4% |  |
-| 19.5–20.5% | 0.5% | 0.5% |  |
-| 20.5–21.5% | 0% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 9% | 98% |  |
+| 14.5–15.5% | 13% | 89% |  |
+| 15.5–16.5% | 14% | 77% |  |
+| 16.5–17.5% | 24% | 62% | Median |
+| 17.5–18.5% | 21% | 38% |  |
+| 18.5–19.5% | 10% | 17% |  |
+| 19.5–20.5% | 5% | 7% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.3% | 0.3% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -145,12 +146,12 @@ Last result: **0** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 5 | 5 | 5 | 5 | 5–6 |
 | [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -253,9 +254,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 29% | 99.9% |  |
-| 5 | 68% | 71% | Median |
-| 6 | 3% | 3% |  |
-| 7 | 0% | 0% |  |
+| 4 | 22% | 99.9% |  |
+| 5 | 75% | 78% | Median |
+| 6 | 2% | 2% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 

@@ -10,12 +10,12 @@ Last result: **15.5%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.1–10.4% | 5.8–10.8% | 5.5–11.1% | 5.0–11.7% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.0–10.2% | 5.7–10.6% | 5.4–11.0% | 5.0–11.6% |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
-| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 7.3% | N/A | N/A | N/A | N/A |
+| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.2–8.2% | 4.8–8.7% |
 | [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
-| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 6.7% | N/A | N/A | N/A | N/A |
+| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.5% | 4.9–9.0% |
 | [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 10.0% | 9.1–11.0% | 8.9–11.3% | 8.6–11.5% | 8.2–12.0% |
 | [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
@@ -114,13 +114,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 15% | 97% |  |
-| 6.5–7.5% | 33% | 82% | Median |
-| 7.5–8.5% | 15% | 48% |  |
-| 8.5–9.5% | 9% | 33% |  |
-| 9.5–10.5% | 17% | 25% |  |
-| 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 0.7% | 0.8% |  |
+| 5.5–6.5% | 20% | 96% |  |
+| 6.5–7.5% | 36% | 76% | Median |
+| 7.5–8.5% | 15% | 41% |  |
+| 8.5–9.5% | 7% | 25% |  |
+| 9.5–10.5% | 13% | 19% |  |
+| 10.5–11.5% | 5% | 6% |  |
+| 11.5–12.5% | 0.5% | 0.6% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% | Last Result |
@@ -134,12 +134,12 @@ Last result: **4** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
-| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 1–2 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
-| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2 | 1–2 |
 | [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
@@ -238,10 +238,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 58% | 90% | Median |
-| 3 | 31% | 31% |  |
-| 4 | 0.2% | 0.2% | Last Result |
+| 1 | 8% | 100% |  |
+| 2 | 68% | 92% | Median |
+| 3 | 23% | 24% |  |
+| 4 | 0.1% | 0.1% | Last Result |
 | 5 | 0% | 0% |  |
 
 
