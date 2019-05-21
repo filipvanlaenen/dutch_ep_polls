@@ -131,7 +131,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 0 | 0 | 0–1 | 0–1 | 0–1 |

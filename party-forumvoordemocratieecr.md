@@ -146,12 +146,12 @@ Last result: **0** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [22–28 April 2019](2019-04-28-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 5 | 5 | 5 | 5 | 5–6 |
+| [17–25 April 2019](2019-04-25-KantarPublic.html) | Kantar Public | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [19–24 April 2019](2019-04-24-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -255,8 +255,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 22% | 99.9% |  |
-| 5 | 75% | 78% | Median |
-| 6 | 2% | 2% |  |
+| 5 | 74% | 78% | Median |
+| 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
