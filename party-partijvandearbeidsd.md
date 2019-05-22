@@ -11,6 +11,9 @@ Last result: **9.4%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.7% | 7.3–9.8% | 6.9–10.1% | 6.7–10.3% | 6.1–10.8% |
+| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 13.2% | 12.4–14.0% | 12.2–14.3% | 12.0–14.5% | 11.7–14.9% |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 12.1% | N/A | N/A | N/A | N/A |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 11.1% | N/A | N/A | N/A | N/A |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 7.8% | 6.8–9.0% | 6.6–9.3% | 6.3–9.6% | 5.9–10.2% |
@@ -131,6 +134,9 @@ Last result: **3** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2 | 2 | 1–3 | 1–3 |

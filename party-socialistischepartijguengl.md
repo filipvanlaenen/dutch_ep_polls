@@ -11,6 +11,9 @@ Last result: **9.6%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.1% | 5.0–7.9% | 4.7–8.3% | 4.4–8.6% | 4.0–9.2% |
+| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 4.1% | 3.6–4.6% | 3.5–4.7% | 3.4–4.8% | 3.2–5.1% |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 4.8% | N/A | N/A | N/A | N/A |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 4.4% | N/A | N/A | N/A | N/A |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.3% | 4.1–7.8% |
@@ -132,6 +135,9 @@ Last result: **2** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1–2 | 1–2 |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

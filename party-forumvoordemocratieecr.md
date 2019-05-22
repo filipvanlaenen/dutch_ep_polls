@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.1% | 14.5–19.1% | 14.0–19.8% | 13.6–20.3% | 13.0–21.3% |
+| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 15.2% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 13.3% | N/A | N/A | N/A | N/A |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 15.5% | N/A | N/A | N/A | N/A |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 16.9% | 15.5–18.5% | 15.1–18.9% | 14.7–19.3% | 14.1–20.1% |
@@ -147,6 +150,9 @@ Last result: **0** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
