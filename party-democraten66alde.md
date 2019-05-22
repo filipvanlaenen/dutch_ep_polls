@@ -12,8 +12,8 @@ Last result: **15.5%** (General Election of 22 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.3% | 6.0–10.2% | 5.7–10.6% | 5.4–11.0% | 5.0–11.6% |
 | [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 7.6% | 7.0–8.3% | 6.8–8.4% | 6.7–8.6% | 6.4–8.9% |
-| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 7.3% | N/A | N/A | N/A | N/A |
-| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 8.9% | N/A | N/A | N/A | N/A |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 7.3% | 6.5–8.2% | 6.3–8.4% | 6.1–8.7% | 5.8–9.1% |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.2–8.2% | 4.8–8.7% |
@@ -138,9 +138,9 @@ Last result: **4** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
-| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research |  |  |  |  |  |
-| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
+| [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 2 | 2 | 2 | 1–2 | 1–2 |
+| [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [29 April–5 May 2019](2019-05-05-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [26–29 April 2019](2019-04-29-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
