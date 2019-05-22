@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 May 2019 02:43:11 +0200</pubDate>
+    <pubDate>Wed, 22 May 2019 20:08:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 13–19 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-05-19-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (ALDE): 14.0–16.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (EAPN): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 11.6–13.9%&lt;/li&gt;&lt;li&gt;Democraten 66 (ALDE): 6.7–8.6%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.2–9.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 12.0–14.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.9–5.4%&lt;/li&gt;&lt;li&gt;50Plus (*): 2.5–3.7%&lt;/li&gt;&lt;li&gt;Denk (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 14.0–16.6%&lt;/li&gt;&lt;li&gt;ChristenUnie–Staatkundig Gereformeerde Partij (ECR): 7.2–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-05-19-Peilnl.png"
+        length="327365"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 20:08:08 +0200</pubDate>
+      <dc:date>2019-05-22T20:08:08.364066+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 6–12 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-05-12-Peilnl.html#seats</link>
@@ -379,6 +389,6 @@
       <pubDate>Wed, 01 May 2019 11:28:19 +0200</pubDate>
       <dc:date>2019-05-01T11:28:19.040563+02:00</dc:date>
     </item>
-    <dc:date>2019-05-21T02:43:11.933479+02:00</dc:date>
+    <dc:date>2019-05-22T20:08:08.364066+02:00</dc:date>
   </channel>
 </rss>
