@@ -10,7 +10,7 @@ Last result: **13.3%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.6–9.3% | 5.4–9.8% | 5.2–10.2% | 4.8–11.0% |
+| N/A | [Poll Average](average.html) | 6.8% | 4.0–9.0% | 3.8–9.4% | 3.6–9.7% | 3.4–10.3% |
 | [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 4.1% | 3.6–4.6% | 3.5–4.7% | 3.4–4.8% | 3.2–5.1% |
 | [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 8.7% | 7.9–9.7% | 7.7–10.0% | 7.5–10.2% | 7.1–10.7% |
 | [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
@@ -115,16 +115,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 9% | 99.9% |  |
-| 5.5–6.5% | 38% | 91% |  |
-| 6.5–7.5% | 18% | 53% | Median |
-| 7.5–8.5% | 15% | 35% |  |
-| 8.5–9.5% | 13% | 20% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 1.2% | 1.3% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 21% | 98% |  |
+| 4.5–5.5% | 7% | 77% |  |
+| 5.5–6.5% | 16% | 71% |  |
+| 6.5–7.5% | 19% | 55% | Median |
+| 7.5–8.5% | 18% | 36% |  |
+| 8.5–9.5% | 14% | 18% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% | Last Result |
 
 
@@ -136,7 +137,7 @@ Last result: **4** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 0–3 | 0–3 |
 | [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–13 May 2019](2019-05-13-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -243,9 +244,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 16% | 100% |  |
-| 2 | 74% | 84% | Median |
-| 3 | 10% | 10% |  |
+| 0 | 3% | 100% |  |
+| 1 | 30% | 97% |  |
+| 2 | 62% | 67% | Median |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% | Last Result |
 
 
