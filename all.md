@@ -13,10 +13,10 @@ Only polls for which at least the sample size has been published are included in
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **D66:** Democraten 66 (ALDE)
++ **D66:** Democraten 66 (RE)
 + **CDA:** Christen-Democratisch Appèl (EPP)
-+ **PVV:** Partij voor de Vrijheid (EAPN)
-+ **VVD:** Volkspartij voor Vrijheid en Democratie (ALDE)
++ **PVV:** Partij voor de Vrijheid (ID)
++ **VVD:** Volkspartij voor Vrijheid en Democratie (RE)
 + **SP:** Socialistische Partij (GUE/NGL)
 + **PvdA:** Partij van de Arbeid (S&D)
 + **CU–SGP:** ChristenUnie–Staatkundig Gereformeerde Partij (ECR)
