@@ -1,10 +1,10 @@
-# Forum voor Democratie (ECR)
+# 50Plus (EPP)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 23 May 2019)
+Last result: **3.7%** (General Election of 23 May 2019)
 
 ### Confidence Intervals
 
