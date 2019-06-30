@@ -51,8 +51,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 
 ### Probability Mass Function
 
