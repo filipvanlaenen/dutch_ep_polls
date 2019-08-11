@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.8%** (General Election of 23 May 2019)
+Last result: **0.2%** (General Election of 23 May 2019)
 
 ### Confidence Intervals
 
