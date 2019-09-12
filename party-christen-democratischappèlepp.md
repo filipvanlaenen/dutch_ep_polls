@@ -11,7 +11,7 @@ Last result: **12.2%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.0% | 9.2–11.0% | 8.9–11.3% | 8.7–11.6% | 8.1–12.2% |
-| [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 10.7% | N/A | N/A | N/A | N/A |
+| [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 9.9% | N/A | N/A | N/A | N/A |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 10.7% | N/A | N/A | N/A | N/A |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 10.7% | N/A | N/A | N/A | N/A |
@@ -52,7 +52,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–3 | 2–4 |
-| [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
