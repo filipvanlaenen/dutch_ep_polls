@@ -15,7 +15,7 @@ Last result: **12.2%** (General Election of 23 May 2019)
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 9.9% | 9.0–10.9% | 8.8–11.2% | 8.6–11.5% | 8.2–12.0% |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.8% | 8.4–13.4% |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
-| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.7–11.7% | 9.6–11.8% | 9.3–12.2% |
+| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 10.0% | 9.2–10.9% | 9.0–11.1% | 8.8–11.3% | 8.5–11.7% |
@@ -54,9 +54,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–3 | 2–4 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 3 |
+| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
-| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3 | 2–3 |

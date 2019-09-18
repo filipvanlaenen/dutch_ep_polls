@@ -15,7 +15,7 @@ Last result: **3.9%** (General Election of 23 May 2019)
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 4.8% | 4.2–5.5% | 4.0–5.7% | 3.8–5.9% | 3.6–6.3% |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
-| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.7% | 3.3–4.8% | 3.2–5.0% |
+| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 3.3% | 2.9–3.9% | 2.8–4.0% | 2.7–4.2% | 2.5–4.4% |
@@ -53,9 +53,9 @@ Last result: **1** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 1 |
-| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0–1 | 0–1 |
