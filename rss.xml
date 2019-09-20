@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Sep 2019 07:55:48 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 16:34:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.png"
         length="331776"
         type="image/png"/>
-      <pubDate>Thu, 12 Sep 2019 07:03:43 +0200</pubDate>
-      <dc:date>2019-09-12T07:03:43.337711+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 15:58:28 +0200</pubDate>
+      <dc:date>2019-09-20T15:58:28.769528+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 29 August–3 September 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-08-31-Peilnl.png"
         length="327619"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 07:55:48 +0200</pubDate>
-      <dc:date>2019-09-20T07:55:48.853511+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 16:34:45 +0200</pubDate>
+      <dc:date>2019-09-20T16:34:45.491719+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 19–24 August 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-08-24-Peilnl.png"
         length="326962"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 13:42:30 +0200</pubDate>
-      <dc:date>2019-09-18T13:42:30.575631+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 14:38:16 +0200</pubDate>
+      <dc:date>2019-09-20T14:38:16.133669+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 29 July–4 August 2019 – Seat Projections for the Parties</title>
@@ -359,6 +359,6 @@
       <pubDate>Sun, 30 Jun 2019 16:57:27 +0200</pubDate>
       <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T07:55:48.853511+02:00</dc:date>
+    <dc:date>2019-09-20T16:34:45.491719+02:00</dc:date>
   </channel>
 </rss>
