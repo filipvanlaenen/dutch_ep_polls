@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 15:38:05 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 07:55:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-03-IOResearch.png"
         length="350535"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 19:26:42 +0200</pubDate>
-      <dc:date>2019-09-13T19:26:42.142503+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 07:54:31 +0200</pubDate>
+      <dc:date>2019-09-20T07:54:31.967597+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 30 August–2 September 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-08-31-Peilnl.png"
         length="327619"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 20:10:42 +0200</pubDate>
-      <dc:date>2019-09-13T20:10:42.115812+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 07:55:48 +0200</pubDate>
+      <dc:date>2019-09-20T07:55:48.853511+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 19–24 August 2019 – Voting Intentions</title>
@@ -359,6 +359,6 @@
       <pubDate>Sun, 30 Jun 2019 16:57:27 +0200</pubDate>
       <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T15:38:05.534908+02:00</dc:date>
+    <dc:date>2019-09-20T07:55:48.853511+02:00</dc:date>
   </channel>
 </rss>
