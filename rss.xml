@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 23:02:18 +0200</pubDate>
+    <pubDate>Fri, 27 Sep 2019 08:40:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 5–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl-seats.png"
+        length="307129"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 08:40:26 +0200</pubDate>
+      <dc:date>2019-09-27T08:40:26.372352+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl-coalitions-seats.png"
+        length="226680"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 08:40:26 +0200</pubDate>
+      <dc:date>2019-09-27T08:40:26.372352+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.png"
         length="331776"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 15:58:28 +0200</pubDate>
-      <dc:date>2019-09-20T15:58:28.769528+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 08:40:26 +0200</pubDate>
+      <dc:date>2019-09-27T08:40:26.372352+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 29 August–3 September 2019 – Seat Projections for the Parties</title>
@@ -419,6 +439,6 @@
       <pubDate>Sun, 30 Jun 2019 16:57:27 +0200</pubDate>
       <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T23:02:18.933002+02:00</dc:date>
+    <dc:date>2019-09-27T08:40:26.372352+02:00</dc:date>
   </channel>
 </rss>
