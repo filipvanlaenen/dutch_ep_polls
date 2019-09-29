@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 27 Sep 2019 08:40:26 +0200</pubDate>
+    <pubDate>Sun, 29 Sep 2019 16:43:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 20–23 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-23-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 18.7–23.7%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 9.1–13.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 8.2–11.9%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.7–11.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 4.8–7.8%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 6.8–10.3%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.2–5.7%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.2–3.0%&lt;/li&gt;&lt;li&gt;DENK (*): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 5.7–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-23-Ipsos.png"
+        length="369118"
+        type="image/png"/>
+      <pubDate>Sun, 29 Sep 2019 16:43:03 +0200</pubDate>
+      <dc:date>2019-09-29T16:43:03.00508+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-07-Peilnl.html#seats</link>
@@ -439,6 +449,6 @@
       <pubDate>Sun, 30 Jun 2019 16:57:27 +0200</pubDate>
       <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
     </item>
-    <dc:date>2019-09-27T08:40:26.372352+02:00</dc:date>
+    <dc:date>2019-09-29T16:43:03.00508+02:00</dc:date>
   </channel>
 </rss>
