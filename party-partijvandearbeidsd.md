@@ -65,7 +65,7 @@ Last result: **6** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–4 |
-| [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–4 |
+| [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -95,9 +95,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 20% | 99.9% |  |
-| 3 | 47% | 80% | Median |
-| 4 | 33% | 33% |  |
-| 5 | 0% | 0% |  |
+| 3 | 46% | 80% | Median |
+| 4 | 33% | 34% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% | Last Result |
 
 
