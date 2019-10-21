@@ -11,8 +11,8 @@ Last result: **12.2%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.3% | 9.2–11.3% | 8.8–11.6% | 8.6–11.8% | 8.0–12.4% |
-| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 10.6% | N/A | N/A | N/A | N/A |
-| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 10.7% | N/A | N/A | N/A | N/A |
+| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 10.6% | 9.7–11.6% | 9.4–11.9% | 9.2–12.1% | 8.8–12.6% |
+| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -60,8 +60,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research |  |  |  |  |  |
-| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–4 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
