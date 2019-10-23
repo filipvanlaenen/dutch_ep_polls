@@ -10,7 +10,8 @@ Last result: **14.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.4% | 18.1–21.8% | 17.8–22.5% | 17.5–23.0% | 17.0–24.0% |
+| N/A | [Poll Average](average.html) | 19.3% | 17.6–21.8% | 17.3–22.5% | 17.0–23.0% | 16.5–24.0% |
+| [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 19.3% | 18.1–20.5% | 17.8–20.9% | 17.5–21.2% | 17.0–21.8% |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
@@ -41,11 +42,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% | Last Result |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 3% | 99.9% |  |
-| 17.5–18.5% | 19% | 97% |  |
-| 18.5–19.5% | 31% | 78% | Median |
-| 19.5–20.5% | 21% | 47% |  |
+| 15.5–16.5% | 0.6% | 100% |  |
+| 16.5–17.5% | 9% | 99.4% |  |
+| 17.5–18.5% | 24% | 91% |  |
+| 18.5–19.5% | 23% | 67% | Median |
+| 19.5–20.5% | 18% | 44% |  |
 | 20.5–21.5% | 13% | 26% |  |
 | 21.5–22.5% | 8% | 13% |  |
 | 22.5–23.5% | 4% | 5% |  |
@@ -63,6 +64,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 5–7 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |

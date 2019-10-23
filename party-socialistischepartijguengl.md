@@ -11,6 +11,7 @@ Last result: **3.4%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.7% | 4.4–6.7% | 4.1–7.0% | 4.0–7.3% | 3.6–7.9% |
+| [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 4.6% | 4.0–5.3% | 3.9–5.5% | 3.7–5.7% | 3.5–6.1% |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
@@ -60,6 +61,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 1–2 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -92,8 +94,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 15% | 100% | Last Result |
-| 1 | 50% | 85% | Median |
-| 2 | 35% | 35% |  |
+| 1 | 39% | 85% | Median |
+| 2 | 46% | 46% |  |
 | 3 | 0% | 0% |  |
 
 
