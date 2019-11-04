@@ -10,12 +10,14 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.9% | 9.7–12.0% | 9.3–12.3% | 9.1–12.6% | 8.6–13.2% |
+| N/A | [Poll Average](average.html) | 10.2% | 9.3–11.2% | 9.1–11.4% | 8.9–11.7% | 8.5–12.2% |
+| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 11.1% | N/A | N/A | N/A | N/A |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 10.2% | 9.3–11.2% | 9.1–11.4% | 8.9–11.7% | 8.4–12.2% |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
+| [25–28 September 2019](2019-09-28-Ipsos.html) | Ipsos <br> EenVandaag | 10.3% | N/A | N/A | N/A | N/A |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
@@ -45,14 +47,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 8% | 99.6% |  |
-| 9.5–10.5% | 28% | 92% |  |
-| 10.5–11.5% | 41% | 64% | Median |
-| 11.5–12.5% | 20% | 23% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.7% | 100% |  |
+| 8.5–9.5% | 17% | 99.3% |  |
+| 9.5–10.5% | 50% | 82% | Median |
+| 10.5–11.5% | 29% | 33% |  |
+| 11.5–12.5% | 4% | 4% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -63,12 +64,14 @@ Last result: **0** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
+| [25–28 September 2019](2019-09-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -99,8 +102,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 5% | 100% |  |
-| 3 | 73% | 95% | Median |
-| 4 | 23% | 23% |  |
+| 3 | 88% | 95% | Median |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 
