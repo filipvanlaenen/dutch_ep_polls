@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Nov 2019 11:08:31 +0100</pubDate>
+    <pubDate>Tue, 26 Nov 2019 20:04:54 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 18–23 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-23-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 14.7–17.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 10.9–13.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.3–10.4%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 7.7–9.7%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.7–9.7%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 4.6–6.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 12.2–14.6%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.1–3.3%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.0–5.5%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.0–1.8%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 10.2–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-23-Peilnl.png"
+        length="336956"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 19:18:43 +0100</pubDate>
+      <dc:date>2019-11-26T19:18:43.409438+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 11–16 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-16-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 14.7–17.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 10.9–13.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.3–10.4%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 7.7–9.7%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.7–9.7%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 4.6–6.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 12.2–14.6%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.1–3.3%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.0–5.5%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.0–1.8%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 10.2–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-16-Peilnl.png"
+        length="336265"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 20:04:54 +0100</pubDate>
+      <dc:date>2019-11-26T20:04:54.626362+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 21–26 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-10-26-Peilnl.html</link>
@@ -649,6 +669,6 @@
       <pubDate>Sun, 30 Jun 2019 16:57:27 +0200</pubDate>
       <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
     </item>
-    <dc:date>2019-11-24T11:08:31.607059+01:00</dc:date>
+    <dc:date>2019-11-26T20:04:54.626362+01:00</dc:date>
   </channel>
 </rss>
