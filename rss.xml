@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Nov 2019 18:08:45 +0100</pubDate>
+    <pubDate>Thu, 28 Nov 2019 20:32:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 18–23 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-23-Peilnl.html</link>
@@ -60,6 +60,16 @@
       <dc:date>2019-11-27T13:42:27.701125+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 1 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-01-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 17.6–22.7%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 10.0–14.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 6.4–9.9%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 5.3–8.5%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 9.5–13.5%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 4.6–7.7%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 8.9–12.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.5–6.1%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.8–3.9%&lt;/li&gt;&lt;li&gt;DENK (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 6.4–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-01-KantarPublic.png"
+        length="375034"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 18:49:13 +0100</pubDate>
+      <dc:date>2019-11-28T18:49:13.906644+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 25–28 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-10-28-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 19.2–24.2%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.6–12.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.2–11.9%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 7.4–11.0%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 8.0–11.6%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.1–4.3%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 3.2–5.8%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.2–2.9%&lt;/li&gt;&lt;li&gt;DENK (*): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 6.4–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -108,6 +118,16 @@
         type="image/png"/>
       <pubDate>Fri, 01 Nov 2019 21:24:49 +0100</pubDate>
       <dc:date>2019-11-01T21:24:49.818527+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 15 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-10-15-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 18.3–23.3%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 5.8–9.1%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 8.9–12.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;DENK (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.1–10.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-10-15-KantarPublic.png"
+        length="370497"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 19:44:18 +0100</pubDate>
+      <dc:date>2019-11-28T19:44:18.246921+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 10–15 October 2019 – Seat Projections for the Parties</title>
@@ -268,6 +288,16 @@
         type="image/png"/>
       <pubDate>Sun, 29 Sep 2019 19:24:39 +0200</pubDate>
       <dc:date>2019-09-29T19:24:39.210941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 15 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-15-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 15.1–19.8%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.6–11.3%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.1–10.6%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.6–6.2%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.9–3.9%&lt;/li&gt;&lt;li&gt;DENK (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.1–10.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-15-KantarPublic.png"
+        length="387577"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 20:32:55 +0100</pubDate>
+      <dc:date>2019-11-28T20:32:55.113507+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–14 September 2019 – Voting Intentions</title>
@@ -709,6 +739,6 @@
       <pubDate>Sun, 30 Jun 2019 16:57:27 +0200</pubDate>
       <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
     </item>
-    <dc:date>2019-11-27T18:08:45.269262+01:00</dc:date>
+    <dc:date>2019-11-28T20:32:55.113507+01:00</dc:date>
   </channel>
 </rss>
