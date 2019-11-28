@@ -10,24 +10,24 @@ Last result: **12.2%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.8–10.9% | 8.5–11.3% | 8.3–11.6% | 7.9–12.3% |
+| N/A | [Poll Average](average.html) | 9.4% | 7.8–10.7% | 7.3–11.1% | 7.0–11.5% | 6.3–12.2% |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 9.9% | 8.9–11.1% | 8.7–11.4% | 8.4–11.7% | 8.0–12.2% |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 8.0% | N/A | N/A | N/A | N/A |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.4–9.9% | 6.0–10.5% |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 10.1% | 9.4–10.9% | 9.2–11.1% | 9.1–11.2% | 8.7–11.6% |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
-| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 8.0% | N/A | N/A | N/A | N/A |
+| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.5% |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 10.6% | 9.7–11.6% | 9.4–11.9% | 9.2–12.1% | 8.8–12.6% |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 9.3% | N/A | N/A | N/A | N/A |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.6–11.3% | 7.1–11.9% |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 9.9% | 9.0–10.9% | 8.8–11.2% | 8.6–11.5% | 8.2–12.0% |
@@ -51,13 +51,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 5% | 99.9% |  |
-| 8.5–9.5% | 38% | 95% |  |
-| 9.5–10.5% | 40% | 57% | Median |
-| 10.5–11.5% | 15% | 18% |  |
-| 11.5–12.5% | 3% | 3% | Last Result |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.9% | 100% |  |
+| 6.5–7.5% | 6% | 99.1% |  |
+| 7.5–8.5% | 15% | 93% |  |
+| 8.5–9.5% | 34% | 78% | Median |
+| 9.5–10.5% | 31% | 44% |  |
+| 10.5–11.5% | 11% | 13% |  |
+| 11.5–12.5% | 2% | 2% | Last Result |
 | 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -76,18 +77,18 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3–4 | 2–4 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–4 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2 | 2 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–4 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -113,9 +114,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 28% | 100% |  |
-| 3 | 68% | 72% | Median |
-| 4 | 4% | 4% | Last Result |
+| 2 | 43% | 100% |  |
+| 3 | 54% | 57% | Median |
+| 4 | 3% | 3% | Last Result |
 | 5 | 0% | 0% |  |
 
 
