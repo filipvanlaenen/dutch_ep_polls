@@ -75,14 +75,14 @@ Last result: **6** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–5 | 3–5 |
-| [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4–5 | 4–5 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -92,7 +92,7 @@ Last result: **6** seats (General Election of 23 May 2019)
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2 | 2 |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–4 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -118,10 +118,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 18% | 100% |  |
-| 3 | 58% | 82% | Median |
-| 4 | 23% | 24% |  |
-| 5 | 0.4% | 0.4% |  |
+| 2 | 5% | 100% |  |
+| 3 | 66% | 95% | Median |
+| 4 | 29% | 29% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% | Last Result |
 
 
