@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 21:04:50 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 12:22:30 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 18–23 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-23-Peilnl.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-16-Peilnl.png"
         length="336265"
         type="image/png"/>
-      <pubDate>Tue, 26 Nov 2019 20:04:54 +0100</pubDate>
-      <dc:date>2019-11-26T20:04:54.626362+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 12:22:30 +0100</pubDate>
+      <dc:date>2019-11-30T12:22:30.883833+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 7–13 November 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-09-Peilnl.png"
         length="333209"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 11:56:26 +0100</pubDate>
-      <dc:date>2019-11-27T11:56:26.05064+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 12:12:51 +0100</pubDate>
+      <dc:date>2019-11-30T12:12:51.387548+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 28 October–2 November 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-02-Peilnl.png"
         length="327984"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 13:42:27 +0100</pubDate>
-      <dc:date>2019-11-27T13:42:27.701125+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 10:26:47 +0100</pubDate>
+      <dc:date>2019-11-30T10:26:47.341824+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 1 November 2019 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-10-15-KantarPublic.png"
         length="370497"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:44:18 +0100</pubDate>
-      <dc:date>2019-11-28T19:44:18.246921+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 11:45:32 +0100</pubDate>
+      <dc:date>2019-11-30T11:45:32.329276+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 10–15 October 2019 – Seat Projections for the Parties</title>
@@ -739,6 +739,6 @@
       <pubDate>Sun, 30 Jun 2019 16:57:27 +0200</pubDate>
       <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T21:04:50.959045+01:00</dc:date>
+    <dc:date>2019-11-30T12:22:30.883833+01:00</dc:date>
   </channel>
 </rss>
