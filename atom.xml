@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/dutch_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-12-09T20:08:28.270207+01:00</updated>
+  <updated>2019-12-09T23:09:59.927669+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie (RE): 13.4–16.0%, 4–5 seats</li><li>Partij voor de Vrijheid (ID): 10.9–13.2%, 3–4 seats</li><li>Christen-Democratisch Appèl (EPP): 9.0–11.1%, 3 seats</li><li>Democraten 66 (RE): 7.1–9.0%, 2–3 seats</li><li>GroenLinks (Greens/EFA): 7.7–9.7%, 2–3 seats</li><li>Socialistische Partij (GUE/NGL): 5.2–6.9%, 1–2 seats</li><li>Partij van de Arbeid (S&amp;D): 11.5–13.9%, 3–4 seats</li><li>ChristenUnie (EPP): 4.0–5.5%, 1 seats</li><li>Partij voor de Dieren (GUE/NGL): 2.7–4.0%, 0–1 seats</li><li>50Plus (EPP): 4.0–5.5%, 1 seats</li><li>Staatkundig Gereformeerde Partij (ECR): 1.0–1.8%, 0 seats</li><li>DENK (*): 1.6–2.6%, 0 seats</li><li>Forum voor Democratie (ECR): 10.2–12.5%, 3–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-30-Peilnl.html</id>
@@ -30,6 +30,14 @@
     <title>Opinion Poll by Peil.nl, 11–16 November 2019</title>
     <updated>2019-12-06T17:45:21.827042+01:00</updated>
     <dc:date>2019-12-06T17:45:21.827042+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie (RE): 15.1–19.1%, 4–6 seats</li><li>Partij voor de Vrijheid (ID): 10.2–13.7%, 3–4 seats</li><li>Christen-Democratisch Appèl (EPP): 8.4–11.7%, 2–3 seats</li><li>Democraten 66 (RE): 5.8–8.6%, 2–3 seats</li><li>GroenLinks (Greens/EFA): 10.5–14.0%, 3–4 seats</li><li>Socialistische Partij (GUE/NGL): 5.2–7.9%, 1–2 seats</li><li>Partij van de Arbeid (S&amp;D): 8.4–11.7%, 2–3 seats</li><li>ChristenUnie (EPP): 3.9–6.2%, 1 seats</li><li>Partij voor de Dieren (GUE/NGL): 2.6–4.6%, 0–1 seats</li><li>50Plus (EPP): 3.1–5.2%, 0–1 seats</li><li>Staatkundig Gereformeerde Partij (ECR): 2.1–4.0%, 0 seats</li><li>DENK (*): 0.5–1.6%, 0 seats</li><li>Forum voor Democratie (ECR): 7.7–10.9%, 2–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-13-IOResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_ep_polls/2019-11-13-IOResearch.html"/>
+    <title>Opinion Poll by I&amp;O Research, 7–13 November 2019</title>
+    <updated>2019-12-09T23:09:59.927669+01:00</updated>
+    <dc:date>2019-12-09T23:09:59.927669+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie (RE): 16.0–18.7%, 5–6 seats</li><li>Partij voor de Vrijheid (ID): 10.9–13.2%, 3–4 seats</li><li>Christen-Democratisch Appèl (EPP): 8.3–10.4%, 2–3 seats</li><li>Democraten 66 (RE): 7.7–9.7%, 2–3 seats</li><li>GroenLinks (Greens/EFA): 7.1–9.0%, 2–3 seats</li><li>Socialistische Partij (GUE/NGL): 5.2–6.9%, 1–2 seats</li><li>Partij van de Arbeid (S&amp;D): 12.2–14.6%, 4 seats</li><li>ChristenUnie (EPP): 3.4–4.8%, 0–1 seats</li><li>Partij voor de Dieren (GUE/NGL): 2.1–3.3%, 0 seats</li><li>50Plus (EPP): 4.0–5.5%, 1 seats</li><li>Staatkundig Gereformeerde Partij (ECR): 1.0–1.8%, 0 seats</li><li>DENK (*): 1.6–2.6%, 0 seats</li><li>Forum voor Democratie (ECR): 9.0–11.1%, 2–3 seats</li></ul></div></content>
@@ -199,5 +207,5 @@
     <updated>2019-06-30T16:57:27.260702+02:00</updated>
     <dc:date>2019-06-30T16:57:27.260702+02:00</dc:date>
   </entry>
-  <dc:date>2019-12-09T20:08:28.270207+01:00</dc:date>
+  <dc:date>2019-12-09T23:09:59.927669+01:00</dc:date>
 </feed>
