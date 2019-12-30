@@ -10,7 +10,7 @@ Last result: **10.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.9% | 8.5–12.7% | 8.3–13.1% | 8.0–13.5% | 7.7–14.2% |
+| N/A | [Poll Average](average.html) | 10.9% | 7.9–12.7% | 7.6–13.1% | 7.4–13.5% | 7.0–14.2% |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
@@ -57,10 +57,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 10% | 99.7% |  |
-| 8.5–9.5% | 18% | 90% |  |
-| 9.5–10.5% | 15% | 72% |  |
+| 6.5–7.5% | 4% | 100% |  |
+| 7.5–8.5% | 18% | 96% |  |
+| 8.5–9.5% | 8% | 78% |  |
+| 9.5–10.5% | 14% | 71% |  |
 | 10.5–11.5% | 23% | 57% | Last Result, Median |
 | 11.5–12.5% | 21% | 34% |  |
 | 12.5–13.5% | 10% | 12% |  |
@@ -125,8 +125,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 20% | 100% |  |
-| 3 | 62% | 80% | Last Result, Median |
+| 2 | 26% | 100% |  |
+| 3 | 56% | 74% | Last Result, Median |
 | 4 | 18% | 18% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
