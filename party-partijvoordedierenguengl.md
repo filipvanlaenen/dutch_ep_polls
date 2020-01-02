@@ -91,7 +91,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
+| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–2 |

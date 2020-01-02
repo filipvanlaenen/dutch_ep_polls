@@ -89,14 +89,14 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
+| [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3–4 | 2–4 |
-| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
+| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
+| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
