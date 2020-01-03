@@ -10,8 +10,9 @@ Last result: **10.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.9% | 7.9–12.7% | 7.6–13.1% | 7.4–13.5% | 7.0–14.2% |
+| N/A | [Poll Average](average.html) | 10.8% | 7.9–12.7% | 7.6–13.1% | 7.4–13.5% | 7.0–14.2% |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
+| [19–21 December 2019](2019-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 10.3% | 9.2–11.6% | 8.9–12.0% | 8.6–12.3% | 8.1–13.0% |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [25–30 November 2019](2019-11-30-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
@@ -60,9 +61,9 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 4% | 100% |  |
 | 7.5–8.5% | 18% | 96% |  |
 | 8.5–9.5% | 8% | 78% |  |
-| 9.5–10.5% | 14% | 71% |  |
-| 10.5–11.5% | 23% | 57% | Last Result, Median |
-| 11.5–12.5% | 21% | 34% |  |
+| 9.5–10.5% | 15% | 70% |  |
+| 10.5–11.5% | 23% | 55% | Last Result, Median |
+| 11.5–12.5% | 21% | 32% |  |
 | 12.5–13.5% | 10% | 12% |  |
 | 13.5–14.5% | 2% | 2% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
@@ -79,6 +80,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [19–21 December 2019](2019-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 2–4 |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–30 November 2019](2019-11-30-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -105,7 +107,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–4 |
-| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
+| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–4 |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -125,9 +127,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 26% | 100% |  |
-| 3 | 56% | 74% | Last Result, Median |
-| 4 | 18% | 18% |  |
+| 2 | 23% | 100% |  |
+| 3 | 60% | 77% | Last Result, Median |
+| 4 | 17% | 17% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
