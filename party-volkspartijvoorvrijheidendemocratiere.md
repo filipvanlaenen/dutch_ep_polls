@@ -10,9 +10,9 @@ Last result: **14.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 12.4–18.6% | 12.1–19.2% | 11.8–19.6% | 11.4–20.5% |
-| [10 January–14 November 2020](2020-11-14-IOResearch.html) | I&O Research | 17.6% | 16.6–18.7% | 16.3–19.0% | 16.1–19.3% | 15.6–19.8% |
+| N/A | [Poll Average](average.html) | 17.7% | 12.5–20.5% | 12.2–21.2% | 11.9–21.8% | 11.5–22.8% |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
+| [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 17.6% | 16.6–18.7% | 16.3–19.0% | 16.1–19.3% | 15.6–19.8% |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [19–21 December 2019](2019-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 17.7% | 16.3–19.3% | 15.9–19.8% | 15.5–20.2% | 14.9–21.0% |
@@ -61,18 +61,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.9% | 100% |  |
-| 11.5–12.5% | 13% | 99.1% |  |
-| 12.5–13.5% | 17% | 86% |  |
-| 13.5–14.5% | 3% | 69% |  |
-| 14.5–15.5% | 3% | 66% | Last Result |
-| 15.5–16.5% | 12% | 64% |  |
-| 16.5–17.5% | 22% | 52% | Median |
-| 17.5–18.5% | 19% | 30% |  |
-| 18.5–19.5% | 9% | 11% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.4% | 0.4% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.7% | 100% |  |
+| 11.5–12.5% | 10% | 99.3% |  |
+| 12.5–13.5% | 13% | 90% |  |
+| 13.5–14.5% | 2% | 77% |  |
+| 14.5–15.5% | 0.7% | 75% | Last Result |
+| 15.5–16.5% | 5% | 74% |  |
+| 16.5–17.5% | 17% | 69% |  |
+| 17.5–18.5% | 21% | 52% | Median |
+| 18.5–19.5% | 13% | 32% |  |
+| 19.5–20.5% | 9% | 19% |  |
+| 20.5–21.5% | 6% | 9% |  |
+| 21.5–22.5% | 3% | 3% |  |
+| 22.5–23.5% | 0.7% | 0.8% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -83,9 +86,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [10 January–14 November 2020](2020-11-14-IOResearch.html) | I&O Research | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–21 December 2019](2019-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -136,10 +139,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 33% | 98% | Last Result |
-| 5 | 32% | 64% | Median |
-| 6 | 32% | 32% |  |
-| 7 | 0.4% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 4 | 23% | 98% | Last Result |
+| 5 | 28% | 75% | Median |
+| 6 | 43% | 47% |  |
+| 7 | 3% | 3% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
