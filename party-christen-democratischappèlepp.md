@@ -55,7 +55,7 @@ Last result: **12.2%** (General Election of 23 May 2019)
 | [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
-| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 10.0% | N/A | N/A | N/A | N/A |
+| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 
 ### Probability Mass Function
 
@@ -126,7 +126,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
 | [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
-| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 
 ### Probability Mass Function
 
