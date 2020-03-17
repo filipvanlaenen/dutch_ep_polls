@@ -11,7 +11,7 @@ Last result: **7.1%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.4% | 7.0–9.7% | 6.7–10.0% | 6.5–10.2% | 6.1–10.7% |
-| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 6.5% | N/A | N/A | N/A | N/A |
+| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.6% | 5.3–8.0% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 8.3% | 7.3–9.6% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
@@ -87,7 +87,7 @@ Last result: **2** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 1–2 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
