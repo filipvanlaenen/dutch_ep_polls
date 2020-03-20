@@ -10,7 +10,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 13.0–18.4% | 12.7–18.8% | 12.5–19.2% | 12.0–19.9% |
+| N/A | [Poll Average](average.html) | 16.9% | 13.0–18.7% | 12.7–19.1% | 12.5–19.4% | 12.0–20.1% |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 18.0% | 16.9–19.1% | 16.7–19.4% | 16.4–19.7% | 15.9–20.2% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 13.3% | 12.6–14.2% | 12.3–14.4% | 12.2–14.6% | 11.8–15.0% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 17.1% | 15.6–18.7% | 15.2–19.1% | 14.9–19.5% | 14.2–20.3% |
@@ -72,12 +72,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 3% | 100% |  |
 | 12.5–13.5% | 18% | 97% |  |
 | 13.5–14.5% | 12% | 79% |  |
-| 14.5–15.5% | 4% | 67% | Last Result |
-| 15.5–16.5% | 10% | 64% |  |
-| 16.5–17.5% | 23% | 53% | Median |
-| 17.5–18.5% | 22% | 30% |  |
-| 18.5–19.5% | 7% | 8% |  |
-| 19.5–20.5% | 1.0% | 1.1% |  |
+| 14.5–15.5% | 3% | 67% | Last Result |
+| 15.5–16.5% | 9% | 64% |  |
+| 16.5–17.5% | 19% | 55% | Median |
+| 17.5–18.5% | 23% | 36% |  |
+| 18.5–19.5% | 11% | 12% |  |
+| 19.5–20.5% | 2% | 2% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -150,8 +150,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 33% | 100% | Last Result |
-| 5 | 5% | 67% |  |
+| 4 | 31% | 100% | Last Result |
+| 5 | 7% | 69% |  |
 | 6 | 59% | 62% | Median |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |

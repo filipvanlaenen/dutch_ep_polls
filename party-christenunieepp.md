@@ -10,7 +10,7 @@ Last result: **6.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.7–6.1% | 3.5–6.4% | 3.4–6.6% | 3.1–7.0% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.6–4.8% | 3.4–5.1% | 3.3–5.3% | 3.0–5.8% |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
@@ -69,12 +69,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% |  |
-| 3.5–4.5% | 46% | 94% | Median |
-| 4.5–5.5% | 22% | 48% |  |
-| 5.5–6.5% | 23% | 25% |  |
-| 6.5–7.5% | 3% | 3% | Last Result |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 9% | 100% |  |
+| 3.5–4.5% | 71% | 91% | Median |
+| 4.5–5.5% | 18% | 20% |  |
+| 5.5–6.5% | 1.3% | 1.3% |  |
+| 6.5–7.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -85,7 +84,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 0–1 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -145,9 +144,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 71% | 99.7% | Last Result, Median |
-| 2 | 28% | 28% |  |
+| 0 | 2% | 100% |  |
+| 1 | 98% | 98% | Last Result, Median |
+| 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
 
