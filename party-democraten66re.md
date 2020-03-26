@@ -14,11 +14,13 @@ Last result: **7.1%** (General Election of 23 May 2019)
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.6% | 5.3–8.0% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 8.3% | 7.3–9.6% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 9.3% | N/A | N/A | N/A | N/A |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.2–10.6% | 6.7–11.2% |
+| [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl | 8.7% | N/A | N/A | N/A | N/A |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 7.3% | 6.6–8.1% | 6.4–8.3% | 6.3–8.5% | 6.0–8.8% |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
@@ -89,13 +91,15 @@ Last result: **2** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 1–2 |
-| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
+| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -115,7 +119,7 @@ Last result: **2** seats (General Election of 23 May 2019)
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -149,7 +153,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
 | 2 | 62% | 99.8% | Last Result, Median |
-| 3 | 37% | 38% |  |
+| 3 | 38% | 38% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

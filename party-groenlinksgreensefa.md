@@ -14,11 +14,13 @@ Last result: **10.9%** (General Election of 23 May 2019)
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 11.1% | 10.3–12.0% | 10.0–12.3% | 9.8–12.5% | 9.5–12.9% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.5–12.2% |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 8.0% | N/A | N/A | N/A | N/A |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.6% |
+| [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl | 8.0% | N/A | N/A | N/A | N/A |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 11.8% | 11.0–12.7% | 10.7–13.0% | 10.5–13.2% | 10.1–13.7% |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
@@ -89,13 +91,15 @@ Last result: **3** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 2–4 |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -115,7 +119,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
-| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3–4 | 3–4 |
+| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -147,8 +151,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 25% | 100% |  |
-| 3 | 71% | 75% | Last Result, Median |
+| 2 | 32% | 100% |  |
+| 3 | 64% | 68% | Last Result, Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
