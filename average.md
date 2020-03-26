@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PvdA | VVD | CDA | FvD | GL | D66 | CU | SGP | PvdD | 50+ | PVV | SP | DENK | PP | B1 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 8–12% <br> 2–4 | 12–19% <br> 4–7 | 8–11% <br> 2–3 | 8–12% <br> 3–4 | 7–12% <br> 2–4 | 6–10% <br> 2–3 | 3–5% <br> 1 | 1–3% <br> 0 | 3–5% <br> 0–1 | 6–8% <br> 2 | 6–13% <br> 2–4 | 4–7% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 8–12% <br> 2–4 | 12–19% <br> 4–7 | 8–11% <br> 2–3 | 8–12% <br> 3–4 | 7–12% <br> 2–4 | 6–10% <br> 2–3 | 3–5% <br> 1 | 1–3% <br> 0 | 3–5% <br> 0–1 | 6–8% <br> 2 | 10–14% <br> 3–4 | 4–7% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 8–11% <br> 3 | 16–20% <br> 6 | 8–11% <br> 3 | 9–11% <br> 3 | 10–12% <br> 3–4 | 6–8% <br> 2 | 3–5% <br> 1 | 2–3% <br> 0 | 3–5% <br> 1 | 6–8% <br> 2 | 10–12% <br> 3–4 | 5–7% <br> 1–2 | 1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 10–13% <br> 3–4 | 12–15% <br> 4–5 | 8–10% <br> 2–3 | 10–12% <br> 3–4 | 7–9% <br> 2–3 | 8–10% <br> 3 | 3–5% <br> 0–1 | 2–3% <br> 0 | 3–5% <br> 1 | 6–8% <br> 2 | 6–8% <br> 2 | 6–8% <br> 2 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 10–13% <br> 4 | 12–15% <br> 4 | 8–10% <br> 2–3 | 10–12% <br> 3–4 | 7–9% <br> 2–3 | 8–10% <br> 3 | 3–5% <br> 1 | 2–3% <br> 0 | 3–5% <br> 0–1 | 6–8% <br> 2 | 12–14% <br> 4 | 6–8% <br> 2 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 8–11% <br> 2–3 | 15–19% <br> 5–7 | 8–11% <br> 2–4 | 8–12% <br> 2–4 | 8–12% <br> 3 | 7–10% <br> 2–3 | 3–6% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 0–1 | 5–9% <br> 2 | 10–14% <br> 3–4 | 4–6% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 |
 
@@ -56,7 +56,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 6.8% | 2.5% | 1.8–3.0% |1.6–3.2% | 1.4–3.3% | 1.2–3.5% |
 | <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 4.0% | 4.0% | 3.4–4.6% |3.3–4.8% | 3.1–5.0% | 2.8–5.4% |
 | <a href="#50plus-(epp)">50Plus (EPP)</a> | 3.9% | 6.7% | 6.0–7.5% |5.8–7.8% | 5.6–8.1% | 5.2–8.7% |
-| <a href="#partij-voor-de-vrijheid-(id)">Partij voor de Vrijheid (ID)</a> | 3.5% | 10.8% | 6.5–12.5% |6.2–13.0% | 6.0–13.4% | 5.7–14.2% |
+| <a href="#partij-voor-de-vrijheid-(id)">Partij voor de Vrijheid (ID)</a> | 3.5% | 11.9% | 10.5–13.2% |10.2–13.5% | 10.0–13.8% | 9.5–14.3% |
 | <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 3.4% | 6.0% | 4.7–7.0% |4.3–7.2% | 4.1–7.4% | 3.7–7.7% |
 | <a href="#denk-(*)">DENK (*)</a> | 1.1% | 1.6% | 0.8–2.2% |0.7–2.4% | 0.7–2.5% | 0.6–2.7% |
 | <a href="#piratenpartij-(*)">Piratenpartij (*)</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
@@ -228,17 +228,17 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% | Last Result |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 13% | 99.9% |  |
-| 6.5–7.5% | 19% | 87% |  |
-| 7.5–8.5% | 1.2% | 68% |  |
-| 8.5–9.5% | 0.6% | 67% |  |
-| 9.5–10.5% | 10% | 66% |  |
-| 10.5–11.5% | 28% | 56% | Median |
-| 11.5–12.5% | 19% | 28% |  |
-| 12.5–13.5% | 7% | 9% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.6% | 100% |  |
+| 9.5–10.5% | 10% | 99.4% |  |
+| 10.5–11.5% | 29% | 89% |  |
+| 11.5–12.5% | 32% | 61% | Median |
+| 12.5–13.5% | 24% | 29% |  |
+| 13.5–14.5% | 4% | 5% |  |
+| 14.5–15.5% | 0.2% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 ### Socialistische Partij (GUE/NGL)
@@ -281,15 +281,15 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 6 | 3 | 3–4 |3–4 | 2–4 | 2–4 |
 | <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 4 | 6 | 4–6 |4–6 | 4–7 | 4–7 |
-| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 4 | 3 | 3 |2–3 | 2–3 | 2–4 |
-| <a href="#forum-voor-democratie-(ecr)">Forum voor Democratie (ECR)</a> | 3 | 3 | 3 |3–4 | 3–4 | 2–4 |
+| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 4 | 3 | 3 |3 | 2–3 | 2–4 |
+| <a href="#forum-voor-democratie-(ecr)">Forum voor Democratie (ECR)</a> | 3 | 3 | 3–4 |3–4 | 3–4 | 2–4 |
 | <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 3 | 3 | 2–3 |2–3 | 2–4 | 2–4 |
 | <a href="#democraten-66-(re)">Democraten 66 (RE)</a> | 2 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#christenunie-(epp)">ChristenUnie (EPP)</a> | 1 | 1 | 1 |1 | 1 | 0–2 |
 | <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 1 | 0 | 0 |0 | 0 | 0 |
-| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 1 | 1 | 1 |1 | 0–1 | 0–1 |
+| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#50plus-(epp)">50Plus (EPP)</a> | 1 | 2 | 2 |2 | 2 | 1–2 |
-| <a href="#partij-voor-de-vrijheid-(id)">Partij voor de Vrijheid (ID)</a> | 0 | 3 | 2–4 |2–4 | 2–4 | 2–5 |
+| <a href="#partij-voor-de-vrijheid-(id)">Partij voor de Vrijheid (ID)</a> | 0 | 4 | 3–4 |3–4 | 3–4 | 3–5 |
 | <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#denk-(*)">DENK (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#piratenpartij-(*)">Piratenpartij (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
