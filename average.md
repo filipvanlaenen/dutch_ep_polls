@@ -295,3 +295,303 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#piratenpartij-(*)">Piratenpartij (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bij1-(*)">Bij1 (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
+### Partij van de Arbeid (S&D)
+
+*For a full overview of the results for this party, see the [Partij van de Arbeid (S&D)](party-partijvandearbeidsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partijvandearbeidsd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 4% | 100% |  |
+| 3 | 63% | 96% | Median |
+| 4 | 33% | 33% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% | Last Result |
+
+### Volkspartij voor Vrijheid en Democratie (RE)
+
+*For a full overview of the results for this party, see the [Volkspartij voor Vrijheid en Democratie (RE)](party-volkspartijvoorvrijheidendemocratiere.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-volkspartijvoorvrijheidendemocratiere.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 33% | 100% | Last Result |
+| 5 | 5% | 67% |  |
+| 6 | 59% | 62% | Median |
+| 7 | 3% | 3% |  |
+| 8 | 0% | 0% |  |
+
+### Christen-Democratisch Appèl (EPP)
+
+*For a full overview of the results for this party, see the [Christen-Democratisch Appèl (EPP)](party-christen-democratischappèlepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-christen-democratischappèlepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 4% | 100% |  |
+| 3 | 95% | 96% | Median |
+| 4 | 1.3% | 1.3% | Last Result |
+| 5 | 0% | 0% |  |
+
+### Forum voor Democratie (ECR)
+
+*For a full overview of the results for this party, see the [Forum voor Democratie (ECR)](party-forumvoordemocratieecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-forumvoordemocratieecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 1.3% | 100% |  |
+| 3 | 80% | 98.7% | Last Result, Median |
+| 4 | 19% | 19% |  |
+| 5 | 0% | 0% |  |
+
+### GroenLinks (Greens/EFA)
+
+*For a full overview of the results for this party, see the [GroenLinks (Greens/EFA)](party-groenlinksgreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-groenlinksgreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 32% | 100% |  |
+| 3 | 64% | 68% | Last Result, Median |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
+
+### Democraten 66 (RE)
+
+*For a full overview of the results for this party, see the [Democraten 66 (RE)](party-democraten66re.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-democraten66re.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0.2% | 100% |  |
+| 2 | 62% | 99.8% | Last Result, Median |
+| 3 | 38% | 38% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
+
+### ChristenUnie (EPP)
+
+*For a full overview of the results for this party, see the [ChristenUnie (EPP)](party-christenunieepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-christenunieepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.6% | 100% |  |
+| 1 | 98.6% | 99.4% | Last Result, Median |
+| 2 | 0.9% | 0.9% |  |
+| 3 | 0% | 0% |  |
+
+### Staatkundig Gereformeerde Partij (ECR)
+
+*For a full overview of the results for this party, see the [Staatkundig Gereformeerde Partij (ECR)](party-staatkundiggereformeerdepartijecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-staatkundiggereformeerdepartijecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.7% | 100% | Median |
+| 1 | 0.3% | 0.3% | Last Result |
+| 2 | 0% | 0% |  |
+
+### Partij voor de Dieren (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Partij voor de Dieren (GUE/NGL)](party-partijvoordedierenguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partijvoordedierenguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 19% | 100% |  |
+| 1 | 81% | 81% | Last Result, Median |
+| 2 | 0% | 0% |  |
+
+### 50Plus (EPP)
+
+*For a full overview of the results for this party, see the [50Plus (EPP)](party-50plusepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-50plusepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 1.2% | 100% | Last Result |
+| 2 | 98.6% | 98.8% | Median |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
+
+### Partij voor de Vrijheid (ID)
+
+*For a full overview of the results for this party, see the [Partij voor de Vrijheid (ID)](party-partijvoordevrijheidid.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partijvoordevrijheidid.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 35% | 100% |  |
+| 4 | 64% | 65% | Median |
+| 5 | 0.6% | 0.6% |  |
+| 6 | 0% | 0% |  |
+
+### Socialistische Partij (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Socialistische Partij (GUE/NGL)](party-socialistischepartijguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-socialistischepartijguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 32% | 99.9% |  |
+| 2 | 68% | 68% | Median |
+| 3 | 0% | 0% |  |
+
+### DENK (*)
+
+*For a full overview of the results for this party, see the [DENK (*)](party-denk.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-denk.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Piratenpartij (*)
+
+*For a full overview of the results for this party, see the [Piratenpartij (*)](party-piratenpartij.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-piratenpartij.png "Seats Probability Mass Function")
+
+### Bij1 (*)
+
+*For a full overview of the results for this party, see the [Bij1 (*)](party-bij1.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-bij1.png "Seats Probability Mass Function")
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Volkspartij voor Vrijheid en Democratie (RE) – Democraten 66 (RE) | 6 | 8 | 0% | 7–8 | 7–9 | 7–9 | 7–9 |
+| Christen-Democratisch Appèl (EPP) – ChristenUnie (EPP) – 50Plus (EPP) | 6 | 6 | 0% | 6 | 5–6 | 5–6 | 5–7 |
+| Forum voor Democratie (ECR) – Staatkundig Gereformeerde Partij (ECR) | 4 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–4 |
+| Partij voor de Vrijheid (ID) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
+| GroenLinks (Greens/EFA) | 3 | 3 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
+| Partij van de Arbeid (S&D) | 6 | 3 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
+| Partij voor de Dieren (GUE/NGL) – Socialistische Partij (GUE/NGL) | 1 | 3 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
+| DENK (*) – Piratenpartij (*) – Bij1 (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Volkspartij voor Vrijheid en Democratie (RE) – Democraten 66 (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vvd–d66.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 6 | 0% | 100% | Last Result |
+| 7 | 35% | 100% |  |
+| 8 | 59% | 65% | Median |
+| 9 | 5% | 5% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% |  |
+
+### Christen-Democratisch Appèl (EPP) – ChristenUnie (EPP) – 50Plus (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cda–cu–50.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0.1% | 100% |  |
+| 5 | 5% | 99.9% |  |
+| 6 | 93% | 95% | Last Result, Median |
+| 7 | 2% | 2% |  |
+| 8 | 0.2% | 0.2% |  |
+| 9 | 0% | 0% |  |
+
+### Forum voor Democratie (ECR) – Staatkundig Gereformeerde Partij (ECR)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-fvd–sgp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 1.3% | 100% |  |
+| 3 | 79% | 98.7% | Median |
+| 4 | 19% | 19% | Last Result |
+| 5 | 0% | 0% |  |
+
+### Partij voor de Vrijheid (ID)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pvv.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 35% | 100% |  |
+| 4 | 64% | 65% | Median |
+| 5 | 0.6% | 0.6% |  |
+| 6 | 0% | 0% |  |
+
+### GroenLinks (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-gl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 32% | 100% |  |
+| 3 | 64% | 68% | Last Result, Median |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
+
+### Partij van de Arbeid (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 4% | 100% |  |
+| 3 | 63% | 96% | Median |
+| 4 | 33% | 33% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% | Last Result |
+
+### Partij voor de Dieren (GUE/NGL) – Socialistische Partij (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pvdd–sp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 2% | 100% | Last Result |
+| 2 | 48% | 98% |  |
+| 3 | 51% | 51% | Median |
+| 4 | 0% | 0% |  |
+
+### DENK (*) – Piratenpartij (*) – Bij1 (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-denk–pp–b1.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 3
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 2.42%
