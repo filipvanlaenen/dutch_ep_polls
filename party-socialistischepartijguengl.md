@@ -10,7 +10,9 @@ Last result: **3.4%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.7–7.0% | 4.3–7.2% | 4.1–7.4% | 3.7–7.7% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.3–7.0% | 4.0–7.2% | 3.8–7.4% | 3.4–7.7% |
+| [1–31 March 2020](2020-03-31-Ipsos.html) | Ipsos <br> EenVandaag | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.1–7.0% | 4.8–7.4% |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.1–7.1% | 4.8–7.5% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 4.9% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.4–7.0% |
@@ -71,12 +73,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% | Last Result |
-| 3.5–4.5% | 8% | 99.7% |  |
-| 4.5–5.5% | 23% | 92% |  |
-| 5.5–6.5% | 42% | 68% | Median |
-| 6.5–7.5% | 25% | 26% |  |
-| 7.5–8.5% | 1.3% | 1.3% |  |
+| 2.5–3.5% | 1.2% | 100% | Last Result |
+| 3.5–4.5% | 13% | 98.8% |  |
+| 4.5–5.5% | 21% | 85% |  |
+| 5.5–6.5% | 39% | 64% | Median |
+| 6.5–7.5% | 24% | 25% |  |
+| 7.5–8.5% | 1.2% | 1.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -89,6 +91,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 March 2020](2020-03-31-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 2 | 2 | 2 | 1–2 | 1–2 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
