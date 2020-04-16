@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 12 Apr 2020 23:07:07 +0200</pubDate>
+    <pubDate>Thu, 16 Apr 2020 18:57:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 27–30 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-03-30-Ipsos.html#seats</link>
@@ -128,6 +128,16 @@
         type="image/png"/>
       <pubDate>Thu, 26 Mar 2020 18:24:06 +0100</pubDate>
       <dc:date>2020-03-26T18:24:06.321549+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 23 February–1 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-03-01-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 12.1–14.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 11.5–13.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.7–9.7%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 8.3–10.4%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.1–9.0%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.8–7.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 10.2–12.5%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.4–4.8%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 5.8–7.6%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 2.1–3.3%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 9.6–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-03-01-Peilnl.png"
+        length="339057"
+        type="image/png"/>
+      <pubDate>Thu, 16 Apr 2020 07:35:42 +0200</pubDate>
+      <dc:date>2020-04-16T07:35:42.787195+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 21–24 February 2020 – Seat Projections for the Parties</title>
@@ -892,12 +902,12 @@
     <item>
       <title>Opinion Poll by Kantar Public, 15 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-10-15-KantarPublic.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 18.3–23.3%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 5.8–9.1%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 8.9–12.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;DENK (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.1–10.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 18.2–23.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.2–12.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 6.4–9.9%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 5.9–9.2%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 8.9–12.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.6–7.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;DENK (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.1–10.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-10-15-KantarPublic.png"
-        length="370561"
+        length="374133"
         type="image/png"/>
-      <pubDate>Mon, 03 Feb 2020 20:34:31 +0100</pubDate>
-      <dc:date>2020-02-03T20:34:31.642922+01:00</dc:date>
+      <pubDate>Thu, 16 Apr 2020 07:44:00 +0200</pubDate>
+      <dc:date>2020-04-16T07:44:00.831857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 10–15 October 2019 – Voting Intentions</title>
@@ -962,12 +972,12 @@
     <item>
       <title>Opinion Poll by Kantar Public, 15 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-15-KantarPublic.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 15.1–19.8%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.6–11.3%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.1–10.6%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.6–6.2%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.9–3.9%&lt;/li&gt;&lt;li&gt;DENK (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.1–10.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 15.0–19.9%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.2–12.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.7–11.4%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 6.4–9.9%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 10.0–14.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.3–8.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.1–10.7%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.5–6.1%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 4.6–7.7%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.8–3.9%&lt;/li&gt;&lt;li&gt;DENK (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.1–10.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-09-15-KantarPublic.png"
-        length="387636"
+        length="393050"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2020 23:31:29 +0100</pubDate>
-      <dc:date>2020-03-06T23:31:29.272091+01:00</dc:date>
+      <pubDate>Thu, 16 Apr 2020 18:57:27 +0200</pubDate>
+      <dc:date>2020-04-16T18:57:27.609591+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–14 September 2019 – Voting Intentions</title>
@@ -1038,6 +1048,16 @@
         type="image/png"/>
       <pubDate>Fri, 14 Feb 2020 17:58:13 +0100</pubDate>
       <dc:date>2020-02-14T17:58:13.40554+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 29 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2019-07-29-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 16.7–19.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 6.4–8.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 9.6–11.8%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 5.8–7.6%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 9.0–11.1%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 11.5–13.9%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 4.0–5.5%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 2.7–4.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.0–1.8%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 12.2–14.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2019-07-29-Peilnl.png"
+        length="324835"
+        type="image/png"/>
+      <pubDate>Thu, 16 Apr 2020 18:53:40 +0200</pubDate>
+      <dc:date>2020-04-16T18:53:40.374702+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 26–29 July 2019 – Voting Intentions</title>
@@ -1149,6 +1169,6 @@
       <pubDate>Mon, 17 Feb 2020 19:47:56 +0100</pubDate>
       <dc:date>2020-02-17T19:47:56.308955+01:00</dc:date>
     </item>
-    <dc:date>2020-04-12T23:07:07.000834+02:00</dc:date>
+    <dc:date>2020-04-16T18:57:27.609591+02:00</dc:date>
   </channel>
 </rss>
