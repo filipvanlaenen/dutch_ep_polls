@@ -15,6 +15,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 24.0% | 22.8–25.1% | 22.5–25.5% | 22.3–25.7% | 21.7–26.3% |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 18.0% | 16.9–19.1% | 16.7–19.4% | 16.4–19.7% | 15.9–20.2% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 13.3% | 12.6–14.2% | 12.3–14.4% | 12.2–14.6% | 11.8–15.0% |
+| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 17.1% | 15.6–18.7% | 15.2–19.1% | 14.9–19.5% | 14.2–20.3% |
 | [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 13.3% | 12.6–14.2% | 12.3–14.4% | 12.2–14.6% | 11.8–15.0% |
@@ -41,14 +42,14 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 21.6% | 20.0–23.3% | 19.6–23.8% | 19.2–24.2% | 18.4–25.1% |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 18.2% | 17.3–19.1% | 17.0–19.4% | 16.8–19.6% | 16.4–20.0% |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
-| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.5–24.1% |
+| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 20.7% | 19.1–22.4% | 18.6–22.9% | 18.2–23.4% | 17.5–24.2% |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 19.3% | 18.1–20.5% | 17.8–20.9% | 17.5–21.2% | 17.0–21.8% |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.5% |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 17.3% | 15.8–19.0% | 15.4–19.4% | 15.0–19.9% | 14.3–20.7% |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 18.7% | 17.8–19.6% | 17.5–19.9% | 17.3–20.1% | 16.9–20.6% |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 20.6% | 19.3–21.9% | 19.0–22.3% | 18.7–22.6% | 18.1–23.3% |
@@ -56,6 +57,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
+| [29 July 2019](2019-07-29-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 20.1% | 18.6–21.8% | 18.2–22.3% | 17.8–22.7% | 17.1–23.5% |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 19.3% | 18.3–20.4% | 18.0–20.7% | 17.7–21.0% | 17.2–21.5% |
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
@@ -105,6 +107,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 8 | 8 | 8 | 8–9 | 8–9 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 6 | 6 | 6 | 6 | 6–7 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
+| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
@@ -131,14 +134,14 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 6 | 6–8 | 6–9 | 6–9 | 6–9 |
+| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7 | 7 | 6–7 | 6–7 | 6–8 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 4 | 4–5 | 4–6 | 4–6 | 4–7 |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6–7 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6–7 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -146,6 +149,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6–7 |
 | [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6–7 |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6–7 | 6–7 |
+| [29 July 2019](2019-07-29-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6–7 | 6–7 |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7 | 7 | 7 | 6–8 |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
