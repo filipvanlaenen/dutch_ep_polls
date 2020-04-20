@@ -35,7 +35,7 @@ Last result: **6.8%** (General Election of 23 May 2019)
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
-| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 2.6% | N/A | N/A | N/A | N/A |
+| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.9% | 1.5–4.3% |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.1–4.0% | 1.9–4.3% |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
@@ -117,7 +117,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
