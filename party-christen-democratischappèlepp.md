@@ -97,7 +97,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3 | 2–3 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3 | 3 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -117,14 +117,14 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–4 |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–4 |
-| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3–4 | 2–4 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
-| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |

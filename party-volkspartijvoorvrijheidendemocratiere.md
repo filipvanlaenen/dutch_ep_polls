@@ -107,7 +107,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 8 | 8 | 8 | 8–9 | 8–9 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 6 | 6 | 6 | 6 | 6–7 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
-| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
@@ -127,14 +127,14 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7 | 7 | 6–7 | 6–7 | 6–8 |
+| [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
