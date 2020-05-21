@@ -11,6 +11,7 @@ Last result: **6.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.7% | 1.8–3.3% | 1.6–3.5% | 1.5–3.7% | 1.2–4.0% |
+| [17 May 2020](2020-05-17-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 3.1% | 2.6–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [1–2 May 2020](2020-05-02-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
@@ -98,13 +99,14 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [17 May 2020](2020-05-17-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
 | [1–2 May 2020](2020-05-02-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
 | [26 April 2020](2020-04-26-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [24–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [27–30 March 2020](2020-03-30-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0–1 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0–1 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
