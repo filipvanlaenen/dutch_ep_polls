@@ -36,18 +36,18 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 4 | 6 | 6 |5–6 |5–6 |5–7 |
-| <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 3 | 3 | 3 |3–4 |3–4 |3–4 |
-| <a href="#partij-voor-de-vrijheid-(id)">Partij voor de Vrijheid (ID)</a> | 0 | 3 | 3 |3 |2–3 |2–4 |
-| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 4 | 3 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 6 | 3 | 3 |3 |2–3 |2–4 |
-| <a href="#forum-voor-democratie-(ecr)">Forum voor Democratie (ECR)</a> | 3 | 3 | 2–3 |2–3 |2–3 |2–4 |
+| <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 4 | 6 | 5–6 |5–6 |4–6 |4–7 |
+| <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 3 | 3 | 3–5 |3–5 |3–5 |3–5 |
+| <a href="#partij-voor-de-vrijheid-(id)">Partij voor de Vrijheid (ID)</a> | 0 | 3 | 2–4 |2–4 |2–4 |2–4 |
+| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 4 | 3 | 2–4 |2–4 |2–4 |2–4 |
+| <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 6 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#forum-voor-democratie-(ecr)">Forum voor Democratie (ECR)</a> | 3 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#democraten-66-(re)">Democraten 66 (RE)</a> | 2 | 2 | 2–3 |2–3 |2–3 |1–3 |
-| <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0 | 2 | 2 |2 |1–2 |1–3 |
-| <a href="#50plus-(epp)">50Plus (EPP)</a> | 1 | 2 | 2 |2 |1–2 |1–2 |
+| <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0 | 2 | 2 |2–3 |1–3 |1–3 |
+| <a href="#50plus-(epp)">50Plus (EPP)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#christenunie-(epp)">ChristenUnie (EPP)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 1 | 1 | 1 |1 |1–2 |0–2 |
-| <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 1 | 0 | 0 |0 |0 |0–1 |
+| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 1 | 1 | 1 |1–2 |1–2 |0–2 |
+| <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 1 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#denk-(*)">DENK (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Volkspartij voor Vrijheid en Democratie (RE)
@@ -58,10 +58,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 5% | 100% |  |
-| 6 | 93% | 95% | Median |
-| 7 | 2% | 2% |  |
+| 4 | 4% | 100% | Last Result |
+| 5 | 22% | 96% |  |
+| 6 | 72% | 73% | Median |
+| 7 | 0.9% | 0.9% |  |
 | 8 | 0% | 0% |  |
 
 ### GroenLinks (Greens/EFA)
@@ -72,9 +72,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 95% | 100% | Last Result, Median |
-| 4 | 5% | 5% |  |
-| 5 | 0% | 0% |  |
+| 3 | 59% | 100% | Last Result, Median |
+| 4 | 30% | 41% |  |
+| 5 | 12% | 12% |  |
+| 6 | 0% | 0% |  |
 
 ### Partij voor de Vrijheid (ID)
 
@@ -86,11 +87,10 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 96% | 97% | Median |
-| 4 | 0.7% | 1.0% |  |
-| 5 | 0.3% | 0.3% |  |
-| 6 | 0% | 0% |  |
+| 2 | 13% | 100% |  |
+| 3 | 74% | 87% | Median |
+| 4 | 13% | 13% |  |
+| 5 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl (EPP)
 
@@ -101,8 +101,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 28% | 100% |  |
-| 3 | 72% | 72% | Median |
-| 4 | 0.1% | 0.1% | Last Result |
+| 3 | 37% | 72% | Median |
+| 4 | 35% | 35% | Last Result |
 | 5 | 0% | 0% |  |
 
 ### Partij van de Arbeid (S&D)
@@ -113,9 +113,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 96% | 96% | Median |
-| 4 | 0.5% | 0.5% |  |
+| 2 | 56% | 100% | Median |
+| 3 | 44% | 44% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% | Last Result |
 
@@ -127,9 +127,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 26% | 100% |  |
-| 3 | 73% | 74% | Last Result, Median |
-| 4 | 0.7% | 0.7% |  |
+| 2 | 51% | 100% | Median |
+| 3 | 48% | 49% | Last Result |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Democraten 66 (RE)
@@ -140,9 +140,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.6% | 100% |  |
-| 2 | 71% | 99.4% | Last Result, Median |
-| 3 | 28% | 28% |  |
+| 1 | 1.4% | 100% |  |
+| 2 | 51% | 98.6% | Last Result, Median |
+| 3 | 48% | 48% |  |
 | 4 | 0% | 0% |  |
 
 ### Socialistische Partij (GUE/NGL)
@@ -154,9 +154,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 95% | 97% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 5% | 100% |  |
+| 2 | 86% | 95% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
 ### 50Plus (EPP)
@@ -167,10 +167,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 4% | 99.9% | Last Result |
-| 2 | 96% | 96% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 19% | 100% | Last Result |
+| 2 | 81% | 81% | Median |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 ### ChristenUnie (EPP)
 
@@ -180,8 +180,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 69% | 100% | Last Result, Median |
-| 2 | 31% | 31% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 66% | 99.7% | Last Result, Median |
+| 2 | 34% | 34% |  |
 | 3 | 0% | 0% |  |
 
 ### Partij voor de Dieren (GUE/NGL)
@@ -192,9 +193,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% |  |
-| 1 | 95% | 98.9% | Last Result, Median |
-| 2 | 4% | 4% |  |
+| 0 | 1.3% | 100% |  |
+| 1 | 90% | 98.7% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Staatkundig Gereformeerde Partij (ECR)
@@ -205,8 +206,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Median |
-| 1 | 2% | 2% | Last Result |
+| 0 | 97% | 100% | Median |
+| 1 | 3% | 3% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### DENK (*)
@@ -228,13 +229,13 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Volkspartij voor Vrijheid en Democratie (RE) – Democraten 66 (RE) | 6 | 8 | 0% | 8–9 | 8–9 | 7–9 | 7–9 |
-| Christen-Democratisch Appèl (EPP) – 50Plus (EPP) – ChristenUnie (EPP) | 6 | 6 | 0% | 6 | 6 | 5–6 | 5–7 |
-| GroenLinks (Greens/EFA) | 3 | 3 | 0% | 3 | 3–4 | 3–4 | 3–4 |
-| Socialistische Partij (GUE/NGL) – Partij voor de Dieren (GUE/NGL) | 1 | 3 | 0% | 3 | 3–4 | 2–4 | 2–4 |
+| Volkspartij voor Vrijheid en Democratie (RE) – Democraten 66 (RE) | 6 | 8 | 0% | 7–9 | 7–9 | 6–9 | 6–9 |
+| Christen-Democratisch Appèl (EPP) – 50Plus (EPP) – ChristenUnie (EPP) | 6 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–8 |
+| GroenLinks (Greens/EFA) | 3 | 3 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Socialistische Partij (GUE/NGL) – Partij voor de Dieren (GUE/NGL) | 1 | 3 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
+| Partij voor de Vrijheid (ID) | 0 | 3 | 0% | 2–4 | 2–4 | 2–4 | 2–4 |
 | Forum voor Democratie (ECR) – Staatkundig Gereformeerde Partij (ECR) | 4 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
-| Partij van de Arbeid (S&D) | 6 | 3 | 0% | 3 | 3 | 2–3 | 2–4 |
-| Partij voor de Vrijheid (ID) | 0 | 3 | 0% | 3 | 3 | 2–3 | 2–4 |
+| Partij van de Arbeid (S&D) | 6 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Volkspartij voor Vrijheid en Democratie (RE) – Democraten 66 (RE)
 
@@ -242,11 +243,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0% | 100% | Last Result |
-| 7 | 3% | 100% |  |
-| 8 | 71% | 97% | Median |
-| 9 | 27% | 27% |  |
-| 10 | 0% | 0.1% |  |
+| 6 | 5% | 100% | Last Result |
+| 7 | 17% | 95% |  |
+| 8 | 37% | 79% | Median |
+| 9 | 41% | 42% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl (EPP) – 50Plus (EPP) – ChristenUnie (EPP)
@@ -255,11 +256,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 4% | 99.8% |  |
-| 6 | 94% | 96% | Last Result, Median |
-| 7 | 2% | 2% |  |
-| 8 | 0% | 0% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 14% | 99.6% |  |
+| 6 | 50% | 86% | Last Result, Median |
+| 7 | 35% | 36% |  |
+| 8 | 0.9% | 0.9% |  |
+| 9 | 0% | 0% |  |
 
 ### GroenLinks (Greens/EFA)
 
@@ -267,9 +269,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 95% | 100% | Last Result, Median |
-| 4 | 5% | 5% |  |
-| 5 | 0% | 0% |  |
+| 3 | 59% | 100% | Last Result, Median |
+| 4 | 30% | 41% |  |
+| 5 | 12% | 12% |  |
+| 6 | 0% | 0% |  |
 
 ### Socialistische Partij (GUE/NGL) – Partij voor de Dieren (GUE/NGL)
 
@@ -277,35 +280,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% | Last Result |
-| 2 | 3% | 99.8% |  |
-| 3 | 91% | 97% | Median |
-| 4 | 5% | 5% |  |
-| 5 | 0% | 0% |  |
-
-### Forum voor Democratie (ECR) – Staatkundig Gereformeerde Partij (ECR)
-
-![Graph with seats probability mass function not yet produced](2019-09-15-KantarPublic-coalitions-seats-pmf-fvd–sgp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 26% | 100% |  |
-| 3 | 72% | 74% | Median |
-| 4 | 1.2% | 2% | Last Result |
-| 5 | 0.5% | 0.5% |  |
+| 1 | 0.1% | 100% | Last Result |
+| 2 | 5% | 99.9% |  |
+| 3 | 78% | 95% | Median |
+| 4 | 17% | 17% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
-
-### Partij van de Arbeid (S&D)
-
-![Graph with seats probability mass function not yet produced](2019-09-15-KantarPublic-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 96% | 96% | Median |
-| 4 | 0.5% | 0.5% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% | Last Result |
 
 ### Partij voor de Vrijheid (ID)
 
@@ -315,11 +295,33 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 96% | 97% | Median |
-| 4 | 0.7% | 1.0% |  |
-| 5 | 0.3% | 0.3% |  |
-| 6 | 0% | 0% |  |
+| 2 | 13% | 100% |  |
+| 3 | 74% | 87% | Median |
+| 4 | 13% | 13% |  |
+| 5 | 0% | 0% |  |
+
+### Forum voor Democratie (ECR) – Staatkundig Gereformeerde Partij (ECR)
+
+![Graph with seats probability mass function not yet produced](2019-09-15-KantarPublic-coalitions-seats-pmf-fvd–sgp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 50% | 100% | Median |
+| 3 | 49% | 50% |  |
+| 4 | 2% | 2% | Last Result |
+| 5 | 0% | 0% |  |
+
+### Partij van de Arbeid (S&D)
+
+![Graph with seats probability mass function not yet produced](2019-09-15-KantarPublic-coalitions-seats-pmf-pvda.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 56% | 100% | Median |
+| 3 | 44% | 44% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% | Last Result |
 
 
 ## Technical Information
@@ -333,6 +335,6 @@
 ### Calculations
 
 + **Sample size:** 953
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.95%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.64%
 
