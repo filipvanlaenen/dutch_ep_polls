@@ -70,7 +70,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
 | [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 20.0% | 18.5–21.7% | 18.1–22.2% | 17.7–22.6% | 17.0–23.4% |
-| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.6–19.4% | 16.2–19.9% |
+| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
 | [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
@@ -153,7 +153,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -172,10 +172,10 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 5–6 | 5–7 |
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
-| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 5–7 |
+| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 
 ### Probability Mass Function
 

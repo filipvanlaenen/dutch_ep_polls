@@ -70,7 +70,7 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 7.1% | 6.2–8.2% | 5.9–8.6% | 5.7–8.8% | 5.3–9.4% |
-| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 6.0% | 5.4–6.6% | 5.3–6.8% | 5.2–7.0% | 4.9–7.2% |
+| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
@@ -144,7 +144,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
+| [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
