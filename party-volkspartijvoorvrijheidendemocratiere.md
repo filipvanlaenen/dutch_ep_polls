@@ -154,7 +154,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -163,8 +163,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6–7 |
-| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6–7 |
+| [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 5–6 |
+| [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 5–7 |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [29 July 2019](2019-07-29-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
