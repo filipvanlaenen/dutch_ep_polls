@@ -157,7 +157,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [29 July 2019](2019-07-29-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
+| [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
