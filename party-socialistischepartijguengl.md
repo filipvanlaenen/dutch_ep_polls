@@ -158,7 +158,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [29 July 2019](2019-07-29-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -167,7 +167,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1–2 |
 | [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1–2 | 1–2 |
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1–2 | 1–2 |
 | [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
