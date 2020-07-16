@@ -10,10 +10,14 @@ Last result: **1.1%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.6% | 0.1–1.8% | 0.1–2.0% | 0.1–2.3% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.7% | 0.4–1.9% | 0.4–2.1% | 0.3–2.5% |
+| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
+| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 1.3% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
+| [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 1.3% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.6–2.7% |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
-| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% |
+| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 0.4% | 0.3–0.6% | 0.2–0.6% | 0.2–0.7% | 0.2–0.8% |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 1.3% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.7–2.5% |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
@@ -85,10 +89,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 39% | 100% |  |
-| 0.5–1.5% | 50% | 61% | Last Result, Median |
-| 1.5–2.5% | 11% | 11% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 16% | 100% |  |
+| 0.5–1.5% | 67% | 84% | Last Result, Median |
+| 1.5–2.5% | 17% | 17% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -101,7 +105,11 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
+| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |

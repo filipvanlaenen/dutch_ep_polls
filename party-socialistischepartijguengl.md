@@ -10,10 +10,14 @@ Last result: **3.4%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.6–7.2% | 5.3–7.4% | 5.1–7.6% | 4.6–8.0% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.8–8.3% | 5.6–8.8% | 5.4–9.3% | 5.0–10.1% |
+| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 6.1% | 5.5–6.8% | 5.3–7.0% | 5.2–7.2% | 4.9–7.6% |
+| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.3–8.3% | 4.9–8.9% |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
+| [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 8.0% | 6.9–9.3% | 6.6–9.6% | 6.4–10.0% | 5.9–10.6% |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
-| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 6.6% | 6.1–7.2% | 5.9–7.4% | 5.8–7.5% | 5.6–7.8% |
+| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 6.3% | 5.8–6.9% | 5.6–7.0% | 5.5–7.2% | 5.3–7.5% |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
@@ -86,13 +90,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% | Last Result |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 8% | 99.6% |  |
-| 5.5–6.5% | 44% | 92% |  |
-| 6.5–7.5% | 45% | 48% | Median |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 5% | 100% |  |
+| 5.5–6.5% | 36% | 95% |  |
+| 6.5–7.5% | 37% | 59% | Median |
+| 7.5–8.5% | 15% | 22% |  |
+| 8.5–9.5% | 6% | 8% |  |
+| 9.5–10.5% | 1.3% | 1.5% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,10 +109,14 @@ Last result: **0** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
+| [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
-| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 1–2 |
+| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 2 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 1–2 |
 | [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
@@ -181,9 +191,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 95% | 96% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 1 | 15% | 100% |  |
+| 2 | 75% | 85% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 
