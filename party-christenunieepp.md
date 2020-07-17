@@ -107,12 +107,12 @@ Last result: **1** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 1 | 1 | 1 | 0–1 | 0–2 |
-| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1–2 |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 0–2 |
+| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
-| [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 1 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -188,9 +188,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 90% | 92% | Last Result, Median |
-| 2 | 3% | 3% |  |
+| 0 | 11% | 100% |  |
+| 1 | 87% | 89% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
