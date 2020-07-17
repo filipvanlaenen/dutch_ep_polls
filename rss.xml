@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Jul 2020 20:20:20 +0200</pubDate>
+    <pubDate>Fri, 17 Jul 2020 20:15:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by I&amp;O Research, 3–6 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-06-IOResearch.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-06-IOResearch.png"
         length="411506"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 16:41:06 +0200</pubDate>
-      <dc:date>2020-07-16T16:41:06.922486+02:00</dc:date>
+      <pubDate>Fri, 17 Jul 2020 20:15:12 +0200</pubDate>
+      <dc:date>2020-07-17T20:15:12.279527+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 5 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-05-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 7–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-05-Peilnl-seats.png"
+        length="309891"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 17:57:52 +0200</pubDate>
+      <dc:date>2020-07-17T17:57:52.538643+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 5 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-05-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-05-Peilnl-coalitions-seats.png"
+        length="180309"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 17:57:52 +0200</pubDate>
+      <dc:date>2020-07-17T17:57:52.538643+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 5 July 2020 – Voting Intentions</title>
@@ -26,8 +46,28 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-05-Peilnl.png"
         length="407838"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 17:00:49 +0200</pubDate>
-      <dc:date>2020-07-16T17:00:49.516213+02:00</dc:date>
+      <pubDate>Fri, 17 Jul 2020 17:57:52 +0200</pubDate>
+      <dc:date>2020-07-17T17:57:52.538643+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 27–30 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-30-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8–11 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-30-Ipsos-seats.png"
+        length="352345"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jul 2020 20:38:38 +0200</pubDate>
+      <dc:date>2020-07-16T20:38:38.300259+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 27–30 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-30-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-30-Ipsos-coalitions-seats.png"
+        length="202893"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jul 2020 20:38:38 +0200</pubDate>
+      <dc:date>2020-07-16T20:38:38.300259+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 27–30 June 2020 – Voting Intentions</title>
@@ -36,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-30-Ipsos.png"
         length="436111"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 20:20:20 +0200</pubDate>
-      <dc:date>2020-07-16T20:20:20.920786+02:00</dc:date>
+      <pubDate>Thu, 16 Jul 2020 20:38:38 +0200</pubDate>
+      <dc:date>2020-07-16T20:38:38.300259+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 28 June 2020 – Seat Projections for the Parties</title>
@@ -70,14 +110,34 @@
       <dc:date>2020-07-04T14:02:19.277766+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 23–26 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-26-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8–10 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 2–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2–4 seats&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-26-KantarPublic-seats.png"
+        length="345206"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jul 2020 21:13:33 +0200</pubDate>
+      <dc:date>2020-07-16T21:13:33.74791+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 23–26 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-26-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-26-KantarPublic-coalitions-seats.png"
+        length="175207"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jul 2020 21:13:33 +0200</pubDate>
+      <dc:date>2020-07-16T21:13:33.74791+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Public, 23–26 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-26-KantarPublic.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 23.9–29.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 8.2–12.1%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.6–11.4%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 6.4–10.0%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 8.2–12.1%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 6.4–10.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 6.4–10.0%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 2.3–4.7%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1.8–3.9%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;DENK (*): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 7.0–10.7%&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0.3–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-06-26-KantarPublic.png"
         length="440464"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 19:08:27 +0200</pubDate>
-      <dc:date>2020-07-16T19:08:27.677198+02:00</dc:date>
+      <pubDate>Thu, 16 Jul 2020 21:13:33 +0200</pubDate>
+      <dc:date>2020-07-16T21:13:33.74791+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 21 June 2020 – Seat Projections for the Parties</title>
@@ -1999,6 +2059,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2020-07-16T20:20:20.920786+02:00</dc:date>
+    <dc:date>2020-07-17T20:15:12.279527+02:00</dc:date>
   </channel>
 </rss>
