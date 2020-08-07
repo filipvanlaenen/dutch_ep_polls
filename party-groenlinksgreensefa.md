@@ -11,6 +11,8 @@ Last result: **10.9%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.3% | 7.7–10.9% | 7.5–11.3% | 7.3–11.6% | 6.9–12.3% |
+| [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 10.3% | 9.5–11.2% | 9.3–11.5% | 9.1–11.7% | 8.7–12.1% |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
@@ -93,7 +95,7 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 6% | 99.9% |  |
-| 7.5–8.5% | 28% | 94% |  |
+| 7.5–8.5% | 27% | 94% |  |
 | 8.5–9.5% | 23% | 66% | Median |
 | 9.5–10.5% | 26% | 44% |  |
 | 10.5–11.5% | 15% | 18% | Last Result |
@@ -111,6 +113,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
