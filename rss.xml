@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 04 Aug 2020 23:52:01 +0200</pubDate>
+    <pubDate>Sat, 08 Aug 2020 12:37:21 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 26 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-26-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 7–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-26-Peilnl-seats.png"
+        length="302199"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 12:37:21 +0200</pubDate>
+      <dc:date>2020-08-08T12:37:21.269281+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 26 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-26-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-26-Peilnl-coalitions-seats.png"
+        length="169670"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 12:37:21 +0200</pubDate>
+      <dc:date>2020-08-08T12:37:21.269281+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 26 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-26-Peilnl.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-07-26-Peilnl.png"
         length="408778"
         type="image/png"/>
-      <pubDate>Tue, 28 Jul 2020 22:27:35 +0200</pubDate>
-      <dc:date>2020-07-28T22:27:35.194605+02:00</dc:date>
+      <pubDate>Sat, 08 Aug 2020 12:37:21 +0200</pubDate>
+      <dc:date>2020-08-08T12:37:21.269281+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos, 24–26 July 2020 – Voting Intentions</title>
@@ -2189,6 +2209,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2020-08-04T23:52:01.833767+02:00</dc:date>
+    <dc:date>2020-08-08T12:37:21.269281+02:00</dc:date>
   </channel>
 </rss>
