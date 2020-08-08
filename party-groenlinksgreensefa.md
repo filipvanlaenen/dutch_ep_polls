@@ -113,7 +113,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
+| [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
