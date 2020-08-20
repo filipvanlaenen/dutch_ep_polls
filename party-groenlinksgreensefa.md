@@ -11,6 +11,7 @@ Last result: **10.9%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.3% | 7.7–10.9% | 7.5–11.3% | 7.3–11.6% | 6.9–12.3% |
+| [16 August 2020](2020-08-16-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
@@ -113,6 +114,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [16 August 2020](2020-08-16-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -196,8 +198,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 32% | 100% |  |
-| 3 | 57% | 68% | Last Result, Median |
+| 2 | 31% | 100% |  |
+| 3 | 58% | 69% | Last Result, Median |
 | 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
