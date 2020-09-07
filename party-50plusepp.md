@@ -127,7 +127,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0–1 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |

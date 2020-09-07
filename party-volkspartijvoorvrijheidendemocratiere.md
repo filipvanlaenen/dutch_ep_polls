@@ -130,7 +130,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -140,7 +140,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 8 | 8 | 7–8 | 7–9 | 7–9 |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 11 | 10–11 | 9–11 | 9–11 | 9–11 |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 10 | 9–10 | 9–10 | 8–11 | 8–11 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–8 |

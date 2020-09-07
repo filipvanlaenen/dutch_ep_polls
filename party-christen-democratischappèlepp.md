@@ -122,17 +122,17 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–4 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |

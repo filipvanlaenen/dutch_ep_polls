@@ -119,11 +119,11 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0–1 |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
