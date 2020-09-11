@@ -10,8 +10,9 @@ Last result: **1.1%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.6% | 0.4–1.8% | 0.4–2.0% | 0.3–2.4% |
-| [30 August 2020](2020-08-30-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.6% | 0.4–1.9% | 0.3–2.0% | 0.3–2.4% |
+| [4–5 September 2020](2020-09-05-Peilnl.html) | Peil.nl | 1.3% | N/A | N/A | N/A | N/A |
+| [28–29 August 2020](2020-08-29-Peilnl.html) | Peil.nl | 1.3% | N/A | N/A | N/A | N/A |
 | [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
@@ -96,10 +97,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 16% | 100% |  |
-| 0.5–1.5% | 70% | 84% | Last Result, Median |
-| 1.5–2.5% | 14% | 14% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 21% | 100% |  |
+| 0.5–1.5% | 67% | 79% | Last Result, Median |
+| 1.5–2.5% | 12% | 12% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -112,7 +113,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [30 August 2020](2020-08-30-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [4–5 September 2020](2020-09-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [28–29 August 2020](2020-08-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
