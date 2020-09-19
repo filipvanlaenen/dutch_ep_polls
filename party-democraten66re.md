@@ -10,12 +10,14 @@ Last result: **7.1%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.8–10.2% | 7.3–10.5% | 6.9–10.9% | 6.3–11.6% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.5–10.1% | 7.1–10.5% | 6.8–10.8% | 6.3–11.6% |
+| [3–7 September 2020](2020-09-07-IOResearch.html) | I&O Research | 8.6% | 7.9–9.5% | 7.7–9.7% | 7.5–9.9% | 7.1–10.3% |
 | [4–5 September 2020](2020-09-05-Peilnl.html) | Peil.nl | 9.3% | 8.6–10.0% | 8.5–10.2% | 8.3–10.4% | 8.0–10.7% |
 | [28–29 August 2020](2020-08-29-Peilnl.html) | Peil.nl | 9.3% | 8.6–10.0% | 8.5–10.2% | 8.3–10.4% | 8.0–10.7% |
 | [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 9.5% | 8.5–10.8% | 8.2–11.2% | 7.9–11.5% | 7.4–12.1% |
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.7% | 7.4–10.1% |
+| [9 August 2020](2020-08-09-IOResearch.html) | I&O Research | 8.2% | 7.3–9.3% | 7.1–9.6% | 6.9–9.8% | 6.4–10.3% |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 8.8% | 7.8–10.0% | 7.5–10.4% | 7.3–10.7% | 6.8–11.3% |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
@@ -98,12 +100,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 6% | 99.0% | Last Result |
-| 7.5–8.5% | 19% | 93% |  |
-| 8.5–9.5% | 45% | 73% | Median |
-| 9.5–10.5% | 24% | 29% |  |
-| 10.5–11.5% | 4% | 5% |  |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 10% | 98.8% | Last Result |
+| 7.5–8.5% | 27% | 89% |  |
+| 8.5–9.5% | 38% | 61% | Median |
+| 9.5–10.5% | 19% | 24% |  |
+| 10.5–11.5% | 4% | 4% |  |
 | 11.5–12.5% | 0.5% | 0.5% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -117,11 +119,13 @@ Last result: **2** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [3–7 September 2020](2020-09-07-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–5 September 2020](2020-09-05-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [28–29 August 2020](2020-08-29-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
 | [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 3 | 2–4 |
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
+| [9 August 2020](2020-08-09-IOResearch.html) | I&O Research | 3 | 3 | 3 | 2–3 | 2–3 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
