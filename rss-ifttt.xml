@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:34:20 +0200</pubDate>
     <item>
+      <title>Opinion Poll by I&amp;O Research, 9–16 November 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by I&O Research, 9–16 November 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch-seating-plan.png" length="396547" type="image/png"/>
+      <pubDate>Sat, 21 Nov 2020 10:49:05 +0100</pubDate>
+      <dc:date>2020-11-21T10:49:05.244551+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 9–16 November 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by I&O Research, 9–16 November 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch-seats.png" length="331636" type="image/png"/>
+      <pubDate>Sat, 21 Nov 2020 10:49:05 +0100</pubDate>
+      <dc:date>2020-11-21T10:49:05.244551+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 9–16 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by I&O Research, 9–16 November 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.png" length="405713" type="image/png"/>
+      <pubDate>Sat, 21 Nov 2020 10:49:05 +0100</pubDate>
+      <dc:date>2020-11-21T10:49:05.244551+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 15 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-15-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 15 November 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-15-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-15-Peilnl-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-29-KantarPublic.png" length="431591" type="image/png"/>
       <pubDate>Mon, 26 Oct 2020 09:25:46 +0100</pubDate>
       <dc:date>2020-10-26T09:25:46.816316+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 27 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 27 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl-seating-plan.png" length="409495" type="image/png"/>
-      <pubDate>Mon, 5 Oct 2020 20:16:57 +0200</pubDate>
-      <dc:date>2020-10-05T20:16:57.462766+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 27 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 27 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl-seats.png" length="334884" type="image/png"/>
-      <pubDate>Mon, 5 Oct 2020 20:16:57 +0200</pubDate>
-      <dc:date>2020-10-05T20:16:57.462766+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 27 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 27 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-09-27-Peilnl.png" length="411623" type="image/png"/>
-      <pubDate>Mon, 5 Oct 2020 20:16:57 +0200</pubDate>
-      <dc:date>2020-10-05T20:16:57.462766+02:00</dc:date>
     </item>
   </channel>
 </rss>
