@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 21 Nov 2020 10:49:05 +0100</pubDate>
+    <pubDate>Tue, 24 Nov 2020 19:28:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 20–21 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-21-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 5–6 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-21-Peilnl-seats.png"
+        length="329941"
+        type="image/png"/>
+      <pubDate>Tue, 24 Nov 2020 19:28:09 +0100</pubDate>
+      <dc:date>2020-11-24T19:28:09.815691+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 20–21 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-21-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-21-Peilnl-coalitions-seats.png"
+        length="188220"
+        type="image/png"/>
+      <pubDate>Tue, 24 Nov 2020 19:28:09 +0100</pubDate>
+      <dc:date>2020-11-24T19:28:09.815691+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 20–21 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-21-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 22.5–25.5%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 14.7–17.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 7.1–9.0%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 7.7–9.7%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.1–9.0%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.8–7.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.7–9.7%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.4–4.8%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 2.1–3.3%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 4.6–6.2%&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0.1–0.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-21-Peilnl.png"
+        length="405924"
+        type="image/png"/>
+      <pubDate>Tue, 24 Nov 2020 19:28:09 +0100</pubDate>
+      <dc:date>2020-11-24T19:28:09.815691+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 9–16 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-11-16-IOResearch.html#seats</link>
@@ -2829,6 +2859,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2020-11-21T10:49:05.244551+01:00</dc:date>
+    <dc:date>2020-11-24T19:28:09.815691+01:00</dc:date>
   </channel>
 </rss>
