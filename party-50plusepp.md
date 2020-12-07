@@ -10,7 +10,9 @@ Last result: **3.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% | 0.4–2.3% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.6–1.6% | 0.5–1.8% | 0.5–1.9% | 0.4–2.3% |
+| [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 1.3% | 1.0–1.6% | 1.0–1.7% | 0.9–1.7% | 0.8–1.9% |
+| [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 0.7% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% |
 | [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
@@ -113,9 +115,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 9% | 100% |  |
-| 0.5–1.5% | 78% | 91% | Median |
-| 1.5–2.5% | 13% | 13% |  |
+| 0.0–0.5% | 5% | 100% |  |
+| 0.5–1.5% | 80% | 95% | Median |
+| 1.5–2.5% | 14% | 14% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% | Last Result |
 
@@ -129,6 +131,8 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
