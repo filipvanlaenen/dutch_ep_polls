@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:34:20 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 13 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-12-13-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 13 December 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-12-13-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-12-13-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-12-13-Peilnl.png" length="389115" type="image/png"/>
+      <pubDate>Wed, 16 Dec 2020 21:40:36 +0100</pubDate>
+      <dc:date>2020-12-16T21:40:36.186469+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 5 December 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-12-05-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 5 December 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-12-05-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-12-05-Peilnl-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-26-Ipsos.png" length="414027" type="image/png"/>
       <pubDate>Sun, 8 Nov 2020 20:24:02 +0100</pubDate>
       <dc:date>2020-11-08T20:24:02.976426+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 16–17 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 16–17 October 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl-seating-plan.png" length="400853" type="image/png"/>
-      <pubDate>Mon, 26 Oct 2020 14:39:16 +0100</pubDate>
-      <dc:date>2020-10-26T14:39:16.097253+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 16–17 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 16–17 October 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl-seats.png" length="350549" type="image/png"/>
-      <pubDate>Mon, 26 Oct 2020 14:39:16 +0100</pubDate>
-      <dc:date>2020-10-26T14:39:16.097253+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 16–17 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 16–17 October 2020<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2020-10-17-Peilnl.png" length="410817" type="image/png"/>
-      <pubDate>Mon, 26 Oct 2020 14:39:16 +0100</pubDate>
-      <dc:date>2020-10-26T14:39:16.097253+01:00</dc:date>
     </item>
   </channel>
 </rss>
