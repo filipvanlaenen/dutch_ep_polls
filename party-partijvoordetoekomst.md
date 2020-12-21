@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–1.0% | 0.1–1.2% | 0.1–1.3% | 0.0–1.6% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.1–1.1% | 0.1–1.2% | 0.1–1.4% | 0.0–1.7% |
+| [20 December 2020](2020-12-20-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
+| [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 0.0% | N/A | N/A | N/A | N/A |
 | [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
@@ -117,9 +119,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 69% | 100% | Last Result, Median |
-| 0.5–1.5% | 30% | 31% |  |
-| 1.5–2.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 54% | 100% | Last Result, Median |
+| 0.5–1.5% | 45% | 46% |  |
+| 1.5–2.5% | 0.9% | 0.9% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -132,6 +134,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20 December 2020](2020-12-20-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl |  |  |  |  |  |
