@@ -13,11 +13,11 @@ Last result: **3.4%** (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 6.1% | 5.3–7.0% | 5.1–7.3% | 4.9–7.6% | 4.5–8.2% |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 5.8% | 5.0–6.8% | 4.8–7.0% | 4.6–7.3% | 4.3–7.7% |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.0% | 4.7–8.6% |
-| [20 December 2020](2020-12-20-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
+| [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.4–7.9% |
-| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
-| [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
-| [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 6.6% | 6.0–7.4% | 5.8–7.6% | 5.7–7.7% | 5.4–8.1% |
@@ -143,11 +143,11 @@ Last result: **0** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [20 December 2020](2020-12-20-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 1–2 | 1–2 |
-| [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 1–2 | 1–2 |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 1–2 |
@@ -160,7 +160,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 1–2 |
 | [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [25–29 September 2020](2020-09-29-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [25–29 September 2020](2020-09-29-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2–3 | 2–3 |
 | [27 September 2020](2020-09-27-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [25–27 September 2020](2020-09-27-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [18–19 September 2020](2020-09-19-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
