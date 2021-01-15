@@ -154,9 +154,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
-| [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
-| [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8 | 7–8 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
+| [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
+| [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -274,10 +274,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.6% | 100% |  |
-| 8 | 29% | 99.4% |  |
-| 9 | 34% | 70% | Median |
-| 10 | 34% | 37% |  |
+| 7 | 7% | 100% |  |
+| 8 | 22% | 93% |  |
+| 9 | 32% | 71% | Median |
+| 10 | 36% | 39% |  |
 | 11 | 3% | 3% |  |
 | 12 | 0% | 0% |  |
 
