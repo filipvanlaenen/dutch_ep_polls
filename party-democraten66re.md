@@ -154,9 +154,9 @@ Last result: **2** seats (General Election of 23 May 2019)
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
-| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 3 | 2–3 | 2–4 |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |

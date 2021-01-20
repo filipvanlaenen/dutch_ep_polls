@@ -165,18 +165,18 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
-| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8–9 | 8–9 |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
-| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8–9 | 8–9 |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [7–15 November 2020](2020-11-15-KantarPublic.html) | Kantar Public | 10 | 10 | 9–10 | 9–11 | 9–11 |
-| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8–9 | 8–9 |
-| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8–9 | 8–9 |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
-| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8 | 8 |
+| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 9 | 9 | 9 | 9 | 9–10 |
 | [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |

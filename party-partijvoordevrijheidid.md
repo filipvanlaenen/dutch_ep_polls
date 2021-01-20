@@ -162,16 +162,16 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
-| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6–7 |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4 | 4 | 3–4 | 3–4 |
-| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5–6 | 5–6 |
+| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [7–15 November 2020](2020-11-15-KantarPublic.html) | Kantar Public | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 4 | 4 | 4 | 4 | 4–5 |
