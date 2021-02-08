@@ -10,7 +10,8 @@ Last result: **7.1%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.2–10.7% | 7.0–11.1% | 6.8–11.5% | 6.4–12.2% |
+| N/A | [Poll Average](average.html) | 9.3% | 8.2–10.7% | 7.9–11.1% | 7.7–11.5% | 7.4–12.2% |
+| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 8.4% | 7.8–9.1% | 7.6–9.3% | 7.5–9.5% | 7.2–9.8% |
 | [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 9.3% | 8.3–10.5% | 8.0–10.8% | 7.8–11.1% | 7.3–11.7% |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.5–12.1% | 7.9–12.8% |
@@ -132,12 +133,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 16% | 99.0% | Last Result |
-| 7.5–8.5% | 15% | 83% |  |
-| 8.5–9.5% | 30% | 68% | Median |
-| 9.5–10.5% | 26% | 38% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.1% | 100% | Last Result |
+| 7.5–8.5% | 20% | 98.9% |  |
+| 8.5–9.5% | 40% | 78% | Median |
+| 9.5–10.5% | 27% | 39% |  |
 | 10.5–11.5% | 10% | 12% |  |
 | 11.5–12.5% | 2% | 2% |  |
 | 12.5–13.5% | 0.2% | 0.2% |  |
@@ -153,6 +153,7 @@ Last result: **2** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -276,8 +277,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 24% | 100% | Last Result |
-| 3 | 58% | 76% | Median |
+| 2 | 14% | 100% | Last Result |
+| 3 | 67% | 86% | Median |
 | 4 | 18% | 18% |  |
 | 5 | 0% | 0% |  |
 
