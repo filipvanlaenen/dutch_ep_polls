@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:51 +0100</pubDate>
     <item>
+      <title>Opinion Poll by I&amp;O Research, 12–15 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-IOResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by I&O Research, 12–15 February 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-IOResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-IOResearch.png" length="428368" type="image/png"/>
+      <pubDate>Sat, 20 Feb 2021 16:55:50 +0100</pubDate>
+      <dc:date>2021-02-20T16:55:50.23829+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 12–15 February 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 12–15 February 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.png" length="419838" type="image/png"/>
       <pubDate>Thu, 28 Jan 2021 08:33:53 +0100</pubDate>
       <dc:date>2021-01-28T08:33:53.980243+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 15–16 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 15–16 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl-seating-plan.png" length="401838" type="image/png"/>
-      <pubDate>Wed, 27 Jan 2021 18:17:46 +0100</pubDate>
-      <dc:date>2021-01-27T18:17:46.744759+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 15–16 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 15–16 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl-seats.png" length="308097" type="image/png"/>
-      <pubDate>Wed, 27 Jan 2021 18:17:46 +0100</pubDate>
-      <dc:date>2021-01-27T18:17:46.744759+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 15–16 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 15–16 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-16-Peilnl.png" length="422809" type="image/png"/>
-      <pubDate>Wed, 27 Jan 2021 18:17:46 +0100</pubDate>
-      <dc:date>2021-01-27T18:17:46.744759+01:00</dc:date>
     </item>
   </channel>
 </rss>
