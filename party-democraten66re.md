@@ -156,9 +156,9 @@ Last result: **2** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 3 | 3 | 3 | 2–3 | 2–4 |
 | [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 2 | 2 | 2 | 2 | 2–3 |
@@ -285,9 +285,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% | Last Result |
-| 3 | 60% | 95% | Median |
-| 4 | 36% | 36% |  |
+| 2 | 2% | 100% | Last Result |
+| 3 | 79% | 98% | Median |
+| 4 | 20% | 20% |  |
 | 5 | 0% | 0% |  |
 
 
