@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 Feb 2021 19:29:14 +0100</pubDate>
+    <pubDate>Fri, 26 Feb 2021 17:05:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 19–20 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 5–6 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst (*): 0 seats&lt;/li&gt;&lt;li&gt;Bij1 (*): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Code Oranje (*): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl-seats.png"
+        length="415309"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 11:38:43 +0100</pubDate>
+      <dc:date>2021-02-26T11:38:43.63294+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 19–20 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl-coalitions-seats.png"
+        length="226542"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 11:38:43 +0100</pubDate>
+      <dc:date>2021-02-26T11:38:43.63294+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 19–20 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl.html</link>
@@ -16,8 +36,38 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl.png"
         length="480759"
         type="image/png"/>
-      <pubDate>Thu, 25 Feb 2021 19:29:14 +0100</pubDate>
-      <dc:date>2021-02-25T19:29:14.31298+01:00</dc:date>
+      <pubDate>Fri, 26 Feb 2021 11:38:43 +0100</pubDate>
+      <dc:date>2021-02-26T11:38:43.63294+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 14–15 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8–10 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 4–6 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos-seats.png"
+        length="322438"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 12:09:37 +0100</pubDate>
+      <dc:date>2021-02-26T12:09:37.209033+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 14–15 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos-coalitions-seats.png"
+        length="201757"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 12:09:37 +0100</pubDate>
+      <dc:date>2021-02-26T12:09:37.209033+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 14–15 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 21.9–27.2%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 11.9–16.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 11.1–15.2%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 8.0–11.6%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 6.2–9.4%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 2.9–5.2%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.4–6.0%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.2–3.0%&lt;/li&gt;&lt;li&gt;DENK (*): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-15-Ipsos.png"
+        length="447434"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 12:09:37 +0100</pubDate>
+      <dc:date>2021-02-26T12:09:37.209033+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 12–15 February 2021 – Seat Projections for the Parties</title>
@@ -50,6 +100,66 @@
       <dc:date>2021-02-20T20:49:23.933215+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peil.nl, 12–13 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-13-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 5–6 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Bij1 (*): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Code Oranje (*): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-13-Peilnl-seats.png"
+        length="340086"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 17:05:39 +0100</pubDate>
+      <dc:date>2021-02-26T17:05:39.21572+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12–13 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-13-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-13-Peilnl-coalitions-seats.png"
+        length="178692"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 17:05:39 +0100</pubDate>
+      <dc:date>2021-02-26T17:05:39.21572+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12–13 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-13-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 21.8–24.8%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 14.7–17.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 10.9–13.2%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 7.7–9.7%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.7–9.7%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 4.0–5.5%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK (*): 1.0–1.8%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2.1–3.3%&lt;/li&gt;&lt;li&gt;Bij1 (*): 0.1–0.4%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Code Oranje (*): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-13-Peilnl.png"
+        length="454904"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 17:05:39 +0100</pubDate>
+      <dc:date>2021-02-26T17:05:39.21572+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 5–6 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-06-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 5–6 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-06-Peilnl-seats.png"
+        length="336725"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 13:21:03 +0100</pubDate>
+      <dc:date>2021-02-26T13:21:03.981555+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 5–6 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-06-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-06-Peilnl-coalitions-seats.png"
+        length="194816"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 13:21:03 +0100</pubDate>
+      <dc:date>2021-02-26T13:21:03.981555+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 5–6 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-06-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 21.8–24.9%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 14.7–17.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 10.9–13.2%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 7.7–9.7%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.7–9.7%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 4.0–5.5%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK (*): 1.0–1.8%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2.7–4.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-06-Peilnl.png"
+        length="425643"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 13:21:03 +0100</pubDate>
+      <dc:date>2021-02-26T13:21:03.981555+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by I&amp;O Research for De Volkskrant, 29 January–2 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-02-IOResearch.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 9–10 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij (*): 0 seats&lt;/li&gt;&lt;li&gt;Bij1 (*): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Code Oranje (*): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -78,6 +188,36 @@
         type="image/png"/>
       <pubDate>Sun, 14 Feb 2021 21:54:30 +0100</pubDate>
       <dc:date>2021-02-14T21:54:30.164597+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 29–30 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-30-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 5–6 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Bij1 (*): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-30-Peilnl-seats.png"
+        length="325696"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 12:46:35 +0100</pubDate>
+      <dc:date>2021-02-26T12:46:35.784013+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 29–30 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-30-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-30-Peilnl-coalitions-seats.png"
+        length="181109"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 12:46:35 +0100</pubDate>
+      <dc:date>2021-02-26T12:46:35.784013+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 29–30 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-30-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 21.8–24.9%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 14.7–17.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 11.5–13.9%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 6.4–8.3%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.8–7.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.1–9.0%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 4.0–5.5%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2.1–3.3%&lt;/li&gt;&lt;li&gt;Bij1 (*): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-30-Peilnl.png"
+        length="438622"
+        type="image/png"/>
+      <pubDate>Fri, 26 Feb 2021 12:46:35 +0100</pubDate>
+      <dc:date>2021-02-26T12:46:35.784013+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 23–26 January 2021 – Seat Projections for the Parties</title>
@@ -3469,6 +3609,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2021-02-25T19:29:14.31298+01:00</dc:date>
+    <dc:date>2021-02-26T17:05:39.21572+01:00</dc:date>
   </channel>
 </rss>
