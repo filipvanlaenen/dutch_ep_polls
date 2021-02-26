@@ -10,14 +10,14 @@ Last result: **11.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.0% | 1.7–3.1% | 1.5–3.3% | 1.3–3.5% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.0% | 1.6–3.1% | 1.5–3.2% | 1.3–3.5% |
 | [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 2.6% | 2.3–3.0% | 2.2–3.1% | 2.1–3.2% | 1.9–3.4% |
-| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 2.1% | N/A | N/A | N/A | N/A |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.4% | 1.9–3.6% |
-| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
-| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
-| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 2.6% | 2.3–3.1% | 2.1–3.3% | 2.0–3.4% | 1.9–3.7% |
@@ -139,10 +139,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 50% | 97% |  |
-| 2.5–3.5% | 46% | 47% | Median |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 56% | 96% | Median |
+| 2.5–3.5% | 40% | 41% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -160,14 +160,14 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0–1 |
-| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 0 | 0 | 0 | 0 | 0 |
-| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0–1 |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0–1 |
@@ -290,8 +290,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Median |
-| 1 | 3% | 3% |  |
+| 0 | 98% | 100% | Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
