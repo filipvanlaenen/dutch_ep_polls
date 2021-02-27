@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:51 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Kantar Public, 22–24 February 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Kantar Public, 22–24 February 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic-seating-plan.png" length="411851" type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 15:42:53 +0100</pubDate>
+      <dc:date>2021-02-27T15:42:53.079651+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 22–24 February 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Kantar Public, 22–24 February 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic-seats.png" length="359782" type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 15:42:53 +0100</pubDate>
+      <dc:date>2021-02-27T15:42:53.079651+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 22–24 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar Public, 22–24 February 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.png" length="453810" type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 15:42:53 +0100</pubDate>
+      <dc:date>2021-02-27T15:42:53.079651+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 19–20 February 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 19–20 February 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-20-Peilnl-seating-plan.png"/>]]></description>
@@ -220,54 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-IOResearch.png" length="409429" type="image/png"/>
       <pubDate>Sat, 6 Feb 2021 20:08:02 +0100</pubDate>
       <dc:date>2021-02-06T20:08:02.551763+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 22–25 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 22–25 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos-seating-plan.png" length="412390" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 08:00:02 +0100</pubDate>
-      <dc:date>2021-01-28T08:00:02.987588+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 22–25 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 22–25 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos-seats.png" length="332398" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 08:00:02 +0100</pubDate>
-      <dc:date>2021-01-28T08:00:02.987588+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 22–25 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for EenVandaag, 22–25 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-25-Ipsos.png" length="439514" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 08:00:02 +0100</pubDate>
-      <dc:date>2021-01-28T08:00:02.987588+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 22–23 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 22–23 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl-seating-plan.png" length="407836" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 08:33:53 +0100</pubDate>
-      <dc:date>2021-01-28T08:33:53.980243+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 22–23 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 22–23 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl-seats.png" length="322229" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 08:33:53 +0100</pubDate>
-      <dc:date>2021-01-28T08:33:53.980243+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 22–23 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 22–23 January 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-01-23-Peilnl.png" length="419838" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 08:33:53 +0100</pubDate>
-      <dc:date>2021-01-28T08:33:53.980243+01:00</dc:date>
     </item>
   </channel>
 </rss>
