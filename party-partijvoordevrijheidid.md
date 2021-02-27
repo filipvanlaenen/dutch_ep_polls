@@ -10,7 +10,8 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 11.1–15.4% | 10.6–15.7% | 10.2–16.0% | 9.6–16.6% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.1–15.4% | 10.6–15.7% | 10.2–16.0% | 9.5–16.6% |
+| [22–24 February 2021](2021-02-24-KantarPublic.html) | Kantar Public | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.6–13.3% | 9.1–13.9% |
 | [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 15.0% | 14.2–15.9% | 14.0–16.1% | 13.8–16.3% | 13.4–16.8% |
 | [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 12.7% | 11.8–13.5% | 11.6–13.8% | 11.4–14.0% | 11.0–14.4% |
@@ -163,7 +164,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
+| [22–24 February 2021](2021-02-24-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -296,9 +298,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.8% | 100% |  |
-| 4 | 36% | 99.2% |  |
-| 5 | 54% | 63% | Median |
+| 3 | 6% | 100% |  |
+| 4 | 29% | 94% |  |
+| 5 | 56% | 65% | Median |
 | 6 | 10% | 10% |  |
 | 7 | 0% | 0% |  |
 
