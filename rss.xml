@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Feb 2021 15:42:53 +0100</pubDate>
+    <pubDate>Fri, 05 Mar 2021 20:14:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 1–2 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-02-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 22.3–26.1%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 11.7–14.6%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 9.9–12.6%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 8.1–10.6%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 7.5–9.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 5.7–7.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 6.6–9.0%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 2.8–4.4%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.5–5.3%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.4–2.6%&lt;/li&gt;&lt;li&gt;DENK (*): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2.4–3.9%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.6–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-02-Ipsos.png"
+        length="440271"
+        type="image/png"/>
+      <pubDate>Fri, 05 Mar 2021 20:14:31 +0100</pubDate>
+      <dc:date>2021-03-05T20:14:31.421128+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Public, 22–24 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-02-24-KantarPublic.html#seats</link>
@@ -3639,6 +3649,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2021-02-27T15:42:53.079651+01:00</dc:date>
+    <dc:date>2021-03-05T20:14:31.421128+01:00</dc:date>
   </channel>
 </rss>
