@@ -2,15 +2,15 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PvdA | VVD | CDA | FvD | GL | D66 | CU | SGP | PvdD | 50+ | PVV | SP | DENK | PP | B1 | PvdT | JA21 | CO | Volt |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 6–10% <br> 2–3 | 20–28% <br> 7–10 | 9–14% <br> 4 | 2–4% <br> 0–1 | 5–9% <br> 1–3 | 8–12% <br> 3–4 | 3–5% <br> 0–1 | 1–3% <br> 0 | 3–5% <br> 0–1 | 0–3% <br> 0 | 10–17% <br> 3–5 | 6–9% <br> 2–3 | 0–2% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 |
-| [12–13 March 2021](2021-03-13-Peilnl.html) | Peil.nl | 6–8% <br> 2–3 | 19–22% <br> 7–8 | 11–13% <br> 4 | 3–5% <br> 1 | 5–6% <br> 1–2 | 10–12% <br> 3–4 | 3–5% <br> 1 | 2–3% <br> 0 | 3–5% <br> 1 | 0–1% <br> 0 | 15–17% <br> 5–6 | 6–8% <br> 2 | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 0% <br> 0 | 2–3% <br> 0 |
-| [6–8 March 2021](2021-03-08-KantarPublic.html) | Kantar Public | 7–10% <br> 3 | 25–29% <br> 8–10 | 11–14% <br> 4 | 1–3% <br> 0 | 6–9% <br> 2–3 | 9–12% <br> 3–4 | 3–5% <br> 0–1 | 1–2% <br> 0 | 3–5% <br> 1 | 1–3% <br> 0 | 10–13% <br> 3–4 | 7–9% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
-| [5–8 March 2021](2021-03-08-Ipsos.html) | Ipsos <br> EenVandaag | 6–9% <br> 2–3 | 23–27% <br> 8–10 | 10–13% <br> 3–4 | 2–4% <br> 0–1 | 7–9% <br> 2–3 | 8–10% <br> 2–4 | 3–5% <br> 1 | 1–3% <br> 0 | 3–5% <br> 1 | 1–2% <br> 0 | 12–15% <br> 4–5 | 6–8% <br> 2 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
-| [5–8 March 2021](2021-03-08-IOResearch.html) | I&O Research | 8–10% <br> 3 | 21–24% <br> 9 | 9–11% <br> 4 | 2–4% <br> 0 | 6–8% <br> 3 | 9–11% <br> 3–4 | 3–5% <br> 0 | 2–3% <br> 0 | 3–4% <br> 0 | 1–2% <br> 0 | 11–13% <br> 4 | 6–8% <br> 2 | 1–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 2–3% <br> 0 |
-| 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PvdA | VVD | CDA | FvD | GL | D66 | CU | SGP | PvdD | 50+ | PVV | SP | DENK | PP | B1 | PvdT | JA21 | CO | Volt | BBB | Spl |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 6–8% <br> 2–3 | 19–22% <br> 7–9 | 9–13% <br> 3–5 | 3–5% <br> 0–1 | 5–8% <br> 1–3 | 10–13% <br> 3–5 | 3–5% <br> 0–1 | 2–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 12–17% <br> 4–6 | 6–8% <br> 2–3 | 1–2% <br> 0 | 0% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0% <br> 0 | 2–4% <br> 0–1 | 1% <br> 0 | N/A <br> N/A |
+| [14–16 March 2021](2021-03-16-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> EenVandaag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–15 March 2021](2021-03-15-IOResearch.html) | I&O Research | 6–8% <br> 2–3 | 20–23% <br> 7–9 | 9–11% <br> 3–5 | 3–4% <br> 0–1 | 6–8% <br> 2–3 | 11–13% <br> 4–5 | 3–5% <br> 0–1 | 2–3% <br> 0 | 3–4% <br> 0–1 | 1% <br> 0 | 11–14% <br> 4–5 | 6–8% <br> 2–3 | 1–2% <br> 0 | 0% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 3–4% <br> 0–1 | 1% <br> 0 | N/A <br> N/A |
+| [12–13 March 2021](2021-03-13-Peilnl.html) | Peil.nl | 6–8% <br> 2–3 | 19–22% <br> 7–8 | 11–13% <br> 4 | 3–5% <br> 1 | 5–6% <br> 1–2 | 10–12% <br> 3–4 | 3–5% <br> 1 | 2–3% <br> 0 | 3–5% <br> 1 | 0–1% <br> 0 | 15–17% <br> 5–6 | 6–8% <br> 2 | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 0% <br> 0 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -36,6 +36,8 @@ Only polls for which at least the sample size has been published are included in
 + **JA21:** Juiste Antwoord 2021 (ECR)
 + **CO:** Code Oranje (*)
 + **Volt:** Volt Europa (Greens/EFA)
++ **BBB:** BoerBurgerBeweging (*)
++ **Spl:** Splinter (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
