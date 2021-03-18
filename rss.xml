@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 17 Mar 2021 18:28:05 +0100</pubDate>
+    <pubDate>Wed, 17 Mar 2021 19:46:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 16 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-16-Peilnl.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2021-03-17T18:28:05.187701+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 14–16 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-16-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Bij1 (*): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (*): 0 seats&lt;/li&gt;&lt;li&gt;Splinter (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-16-KantarPublic-seats.png"
+        length="353299"
+        type="image/png"/>
+      <pubDate>Wed, 17 Mar 2021 19:46:10 +0100</pubDate>
+      <dc:date>2021-03-17T19:46:10.974857+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 14–16 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-16-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-16-KantarPublic-coalitions-seats.png"
+        length="176707"
+        type="image/png"/>
+      <pubDate>Wed, 17 Mar 2021 19:46:10 +0100</pubDate>
+      <dc:date>2021-03-17T19:46:10.974857+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Public, 14–16 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-16-KantarPublic.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 22.4–25.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 10.8–13.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 8.9–11.2%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 10.2–12.5%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 7.1–9.1%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 7.1–9.1%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 3.3–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.3–4.8%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.5–2.6%&lt;/li&gt;&lt;li&gt;DENK (*): 1.0–1.8%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2.7–4.1%&lt;/li&gt;&lt;li&gt;Bij1 (*): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 1.0–1.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1.5–2.6%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (*): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Splinter (*): 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-03-16-KantarPublic.png"
         length="472268"
         type="image/png"/>
-      <pubDate>Wed, 17 Mar 2021 09:38:25 +0100</pubDate>
-      <dc:date>2021-03-17T09:38:25.903913+01:00</dc:date>
+      <pubDate>Wed, 17 Mar 2021 19:46:10 +0100</pubDate>
+      <dc:date>2021-03-17T19:46:10.974857+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 15–16 March 2021 – Seat Projections for the Parties</title>
@@ -3979,6 +3999,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2021-03-17T18:28:05.187701+01:00</dc:date>
+    <dc:date>2021-03-17T19:46:10.974857+01:00</dc:date>
   </channel>
 </rss>
