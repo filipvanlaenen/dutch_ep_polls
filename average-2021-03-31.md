@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 6–9% <br> 2–3 | 20–25% <br> 7–9 | 9–12% <br> 3–4 | 3–4% <br> 0–1 | 5–8% <br> 2–3 | 10–14% <br> 4 | 3–5% <br> 0–2 | 2–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 11–15% <br> 4–5 | 6–9% <br> 2–3 | 1–2% <br> 0 | 0% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0% <br> 0 | 1–4% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [16 March 2021](2021-03-16-Peilnl.html) | Peil.nl | 6–8% <br> 2 | 20–23% <br> 7–9 | 10–12% <br> 3–4 | 3–5% <br> 1 | 5–6% <br> 1–2 | 11–14% <br> 4 | 3–5% <br> 1 | 2–3% <br> 0 | 3–5% <br> 0–1 | 0% <br> 0 | 13–16% <br> 5 | 6–8% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 0% <br> 0 | 2–3% <br> 0 | 0–1% <br> 0 | 0% <br> 0 |
-| [14–16 March 2021](2021-03-16-KantarPublic.html) | Kantar Public | 7–9% <br> 3 | 22–26% <br> 8–9 | 9–11% <br> 3 | 3–4% <br> 0–1 | 5–7% <br> 2 | 10–13% <br> 4 | 3–5% <br> 0–1 | 2–3% <br> 0 | 3–5% <br> 1 | 0–1% <br> 0 | 11–13% <br> 4 | 7–9% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [14–16 March 2021](2021-03-16-KantarPublic.html) | Kantar Public | 7–9% <br> 3 | 22–26% <br> 8–9 | 9–11% <br> 3 | 3–4% <br> 0–1 | 5–7% <br> 2 | 10–13% <br> 4 | 3–5% <br> 0–1 | 2–3% <br> 0 | 3–5% <br> 0–1 | 0–1% <br> 0 | 11–13% <br> 4 | 7–9% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [15–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> EenVandaag | 6–8% <br> 2–3 | 22–25% <br> 7–9 | 10–13% <br> 3–4 | 3–4% <br> 0–1 | 6–8% <br> 2–3 | 11–14% <br> 4 | 3–5% <br> 1–2 | 2–3% <br> 0 | 3–5% <br> 0–1 | 0% <br> 0 | 11–14% <br> 3–5 | 6–8% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 0% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A |
 | [12–15 March 2021](2021-03-15-IOResearch.html) | I&O Research | 6–8% <br> 2–3 | 20–23% <br> 7–9 | 9–11% <br> 3–5 | 3–4% <br> 0–1 | 6–8% <br> 2–3 | 11–13% <br> 4–5 | 3–5% <br> 0–1 | 2–3% <br> 0 | 3–4% <br> 0–1 | 1% <br> 0 | 11–14% <br> 4–5 | 6–8% <br> 2–3 | 1–2% <br> 0 | 0% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 3–4% <br> 0–1 | 1% <br> 0 | N/A <br> N/A |
 | 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -471,8 +471,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0% | 100% |  |
-| 4 | 98% | 100% | Median |
+| 3 | 0.1% | 100% |  |
+| 4 | 98% | 99.9% | Median |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
@@ -484,8 +484,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% |  |
-| 1 | 70% | 73% | Last Result, Median |
+| 0 | 26% | 100% |  |
+| 1 | 71% | 74% | Last Result, Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
@@ -508,8 +508,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% |  |
-| 1 | 55% | 55% | Last Result, Median |
+| 0 | 47% | 100% |  |
+| 1 | 53% | 53% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### 50Plus (EPP)
@@ -672,8 +672,8 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 9% | 100% |  |
-| 12 | 39% | 91% |  |
+| 11 | 10% | 100% |  |
+| 12 | 39% | 90% |  |
 | 13 | 49% | 51% | Median |
 | 14 | 2% | 2% |  |
 | 15 | 0% | 0% | Majority |
@@ -699,9 +699,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 26% | 100% |  |
-| 4 | 59% | 74% | Median |
-| 5 | 12% | 15% |  |
+| 3 | 25% | 100% |  |
+| 4 | 60% | 75% | Median |
+| 5 | 13% | 15% |  |
 | 6 | 2% | 2% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -713,8 +713,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 29% | 100% |  |
-| 3 | 44% | 71% | Median |
-| 4 | 28% | 28% |  |
+| 3 | 45% | 71% | Median |
+| 4 | 26% | 26% |  |
 | 5 | 0% | 0% |  |
 
 ### GroenLinks (Greens/EFA) – Volt Europa (Greens/EFA)
@@ -773,6 +773,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 262,144
-+ **Total number of simulations done in the polls included in this average:** 3,407,872
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 2.93%
