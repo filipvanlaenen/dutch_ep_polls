@@ -10,7 +10,9 @@ Last result: **1.1%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 1.1–1.7% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.2% | 1.0–2.4% | 0.9–2.6% |
+| [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [16 March 2021](2021-03-16-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [14–16 March 2021](2021-03-16-KantarPublic.html) | Kantar Public | 1.3% | 1.1–1.7% | 1.0–1.8% | 1.0–1.8% | 0.9–2.0% |
 | [15–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> EenVandaag | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% |
@@ -152,9 +154,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 81% | 100% | Last Result, Median |
-| 1.5–2.5% | 19% | 19% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.5–1.5% | 61% | 100% | Last Result, Median |
+| 1.5–2.5% | 38% | 39% |  |
+| 2.5–3.5% | 0.7% | 0.7% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -166,6 +169,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [16 March 2021](2021-03-16-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [14–16 March 2021](2021-03-16-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [15–16 March 2021](2021-03-16-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
