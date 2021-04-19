@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.2–0.9% | 0.1–1.0% | 0.1–1.0% | 0.1–1.2% |
+| [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
+| [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research | 0.6% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
 | [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
@@ -154,8 +156,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 36% | 100% | Last Result |
-| 0.5–1.5% | 64% | 64% | Median |
+| 0.0–0.5% | 39% | 100% | Last Result |
+| 0.5–1.5% | 61% | 61% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -168,6 +170,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
