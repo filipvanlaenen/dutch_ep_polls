@@ -6,12 +6,28 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:51 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos, 16–19 April 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos, 16–19 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos-seating-plan.png" length="422213" type="image/png"/>
+      <pubDate>Fri, 23 Apr 2021 07:59:16 +0200</pubDate>
+      <dc:date>2021-04-23T07:59:16.593952+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 16–19 April 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos, 16–19 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos-seats.png" length="437107" type="image/png"/>
+      <pubDate>Fri, 23 Apr 2021 07:59:16 +0200</pubDate>
+      <dc:date>2021-04-23T07:59:16.593952+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos, 16–19 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos, 16–19 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-19-Ipsos.png" length="509980" type="image/png"/>
-      <pubDate>Thu, 22 Apr 2021 07:31:11 +0200</pubDate>
-      <dc:date>2021-04-22T07:31:11.48781+02:00</dc:date>
+      <pubDate>Fri, 23 Apr 2021 07:59:16 +0200</pubDate>
+      <dc:date>2021-04-23T07:59:16.593952+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 16–17 April 2021 – Seating Plan Projection</title>
@@ -36,6 +52,30 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-17-Peilnl.png" length="466769" type="image/png"/>
       <pubDate>Mon, 19 Apr 2021 19:10:15 +0200</pubDate>
       <dc:date>2021-04-19T19:10:15.653873+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 9–12 April 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by I&O Research, 9–12 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch-seating-plan.png" length="422497" type="image/png"/>
+      <pubDate>Fri, 23 Apr 2021 16:54:31 +0200</pubDate>
+      <dc:date>2021-04-23T16:54:31.079773+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 9–12 April 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by I&O Research, 9–12 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch-seats.png" length="420306" type="image/png"/>
+      <pubDate>Fri, 23 Apr 2021 16:54:31 +0200</pubDate>
+      <dc:date>2021-04-23T16:54:31.079773+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 9–12 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by I&O Research, 9–12 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-04-12-IOResearch.png" length="487595" type="image/png"/>
+      <pubDate>Fri, 23 Apr 2021 16:54:31 +0200</pubDate>
+      <dc:date>2021-04-23T16:54:31.079773+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–10 April 2021 – Seating Plan Projection</title>
