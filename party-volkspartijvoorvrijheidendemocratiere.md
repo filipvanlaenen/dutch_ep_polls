@@ -11,6 +11,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.2% | 20.6–24.4% | 20.3–24.8% | 20.0–25.1% | 19.4–25.8% |
+| [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 21.3% | 20.3–22.3% | 20.1–22.5% | 19.8–22.8% | 19.4–23.3% |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 22.5% | 20.9–24.2% | 20.4–24.7% | 20.0–25.2% | 19.3–26.0% |
 | [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 21.3% | 20.3–22.3% | 20.1–22.5% | 19.8–22.8% | 19.4–23.3% |
 | [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research | 21.6% | 20.5–22.8% | 20.1–23.2% | 19.9–23.5% | 19.3–24.1% |
@@ -182,6 +183,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 6–9 |
+| [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 8 | 8 | 7–8 | 7–8 | 7–8 |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 9 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
@@ -334,8 +336,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.7% | 100% |  |
 | 7 | 7% | 99.3% |  |
-| 8 | 45% | 92% | Median |
-| 9 | 47% | 47% |  |
+| 8 | 47% | 92% | Median |
+| 9 | 45% | 46% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
