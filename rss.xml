@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 10 May 2021 19:07:29 +0200</pubDate>
+    <pubDate>Tue, 11 May 2021 19:24:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 7–9 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-01-Peilnl.png"
         length="467306"
         type="image/png"/>
-      <pubDate>Mon, 10 May 2021 17:17:48 +0200</pubDate>
-      <dc:date>2021-05-10T17:17:48.271092+02:00</dc:date>
+      <pubDate>Tue, 11 May 2021 19:24:54 +0200</pubDate>
+      <dc:date>2021-05-11T19:24:54.028276+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 23–24 April 2021 – Seat Projections for the Parties</title>
@@ -4259,6 +4259,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2021-05-10T19:07:29.867766+02:00</dc:date>
+    <dc:date>2021-05-11T19:24:54.028276+02:00</dc:date>
   </channel>
 </rss>
