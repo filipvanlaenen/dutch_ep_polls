@@ -188,7 +188,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 6–9 |
 | [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
-| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 7 | 7 | 7–8 | 7–8 | 7–8 |
+| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 8 | 8 | 7–8 | 7–8 | 7–8 |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 9 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
