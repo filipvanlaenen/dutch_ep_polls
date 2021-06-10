@@ -11,6 +11,7 @@ Last result: **6.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.7–2.7% | 1.6–3.0% | 1.5–3.2% | 1.4–3.6% |
+| [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -184,6 +185,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |

@@ -11,6 +11,7 @@ Last result: **10.9%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.7% | 3.9–5.4% | 3.7–5.7% | 3.5–5.9% | 3.1–6.3% |
+| [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
@@ -186,6 +187,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -343,8 +345,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
-| 1 | 79% | 96% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 56% | 96% | Median |
+| 2 | 40% | 40% |  |
 | 3 | 0% | 0% | Last Result |
 
 
