@@ -10,7 +10,9 @@ Last result: **1.1%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.3–2.5% | 1.2–2.6% | 1.1–2.8% | 0.8–3.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.4% | 1.2–2.5% | 1.1–2.6% | 0.8–2.9% |
+| [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [4–7 June 2021](2021-06-07-IOResearch.html) | I&O Research | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.7% | 1.3–3.0% |
 | [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
@@ -167,9 +169,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 18% | 100% | Last Result |
-| 1.5–2.5% | 74% | 82% | Median |
-| 2.5–3.5% | 8% | 8% |  |
+| 0.5–1.5% | 20% | 100% | Last Result |
+| 1.5–2.5% | 76% | 80% | Median |
+| 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -182,6 +184,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [4–7 June 2021](2021-06-07-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
