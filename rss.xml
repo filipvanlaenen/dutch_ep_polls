@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 16 Jun 2021 19:12:17 +0200</pubDate>
+    <pubDate>Wed, 16 Jun 2021 19:41:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 12 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-12-Peilnl.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2021-06-16T17:20:21.903876+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by I&amp;O Research, 4–7 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-07-IOResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Bij1 (*): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-07-IOResearch-seats.png"
+        length="409114"
+        type="image/png"/>
+      <pubDate>Wed, 16 Jun 2021 19:41:38 +0200</pubDate>
+      <dc:date>2021-06-16T19:41:38.016663+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 4–7 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-07-IOResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-07-IOResearch-coalitions-seats.png"
+        length="209390"
+        type="image/png"/>
+      <pubDate>Wed, 16 Jun 2021 19:41:38 +0200</pubDate>
+      <dc:date>2021-06-16T19:41:38.016663+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by I&amp;O Research, 4–7 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-07-IOResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 20.9–24.7%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 7.9–10.6%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 6.7–9.2%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 12.0–15.1%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 4.7–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3.9–5.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 5.4–7.7%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 2.8–4.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 4.1–6.1%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–3.0%&lt;/li&gt;&lt;li&gt;DENK (*): 1.4–2.7%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2.8–4.5%&lt;/li&gt;&lt;li&gt;Bij1 (*): 1.0–2.1%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 3.1–4.9%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 3.5–5.4%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (*): 1.7–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-07-IOResearch.png"
         length="486285"
         type="image/png"/>
-      <pubDate>Wed, 16 Jun 2021 19:12:17 +0200</pubDate>
-      <dc:date>2021-06-16T19:12:17.133998+02:00</dc:date>
+      <pubDate>Wed, 16 Jun 2021 19:41:38 +0200</pubDate>
+      <dc:date>2021-06-16T19:41:38.016663+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 4–5 June 2021 – Seat Projections for the Parties</title>
@@ -4489,6 +4509,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2021-06-16T19:12:17.133998+02:00</dc:date>
+    <dc:date>2021-06-16T19:41:38.016663+02:00</dc:date>
   </channel>
 </rss>
