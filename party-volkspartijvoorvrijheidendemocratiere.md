@@ -11,6 +11,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.0% | 21.6–24.3% | 21.2–24.7% | 20.8–25.1% | 20.1–25.9% |
+| [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.0–24.6% | 21.8–24.8% | 21.3–25.3% |
 | [20 June 2021](2021-06-20-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.0–24.6% | 21.8–24.8% | 21.3–25.3% |
 | [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.0–24.6% | 21.8–24.8% | 21.3–25.3% |
 | [4–7 June 2021](2021-06-07-IOResearch.html) | I&O Research | 22.8% | 21.5–24.1% | 21.2–24.4% | 20.9–24.7% | 20.3–25.4% |
@@ -194,6 +195,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8–9 | 8–9 |
 | [20 June 2021](2021-06-20-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8–9 | 8–9 |
 | [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8 | 8–9 |
 | [4–7 June 2021](2021-06-07-IOResearch.html) | I&O Research | 9 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -358,8 +360,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 9% | 100% |  |
-| 8 | 66% | 91% | Median |
-| 9 | 25% | 25% |  |
+| 8 | 67% | 91% | Median |
+| 9 | 24% | 24% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
