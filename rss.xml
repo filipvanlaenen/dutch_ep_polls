@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 29 Jun 2021 10:37:00 +0200</pubDate>
+    <pubDate>Wed, 30 Jun 2021 12:51:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 27 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 4–5 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Bij1 (*): 0 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl-seats.png"
+        length="389627"
+        type="image/png"/>
+      <pubDate>Wed, 30 Jun 2021 12:51:00 +0200</pubDate>
+      <dc:date>2021-06-30T12:51:00.590786+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 27 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl-coalitions-seats.png"
+        length="214553"
+        type="image/png"/>
+      <pubDate>Wed, 30 Jun 2021 12:51:00 +0200</pubDate>
+      <dc:date>2021-06-30T12:51:00.590786+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 27 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl.png"
         length="462668"
         type="image/png"/>
-      <pubDate>Tue, 29 Jun 2021 10:37:00 +0200</pubDate>
-      <dc:date>2021-06-29T10:37:00.717732+02:00</dc:date>
+      <pubDate>Wed, 30 Jun 2021 12:51:00 +0200</pubDate>
+      <dc:date>2021-06-30T12:51:00.590786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 20 June 2021 – Voting Intentions</title>
@@ -4529,6 +4549,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2021-06-29T10:37:00.717732+02:00</dc:date>
+    <dc:date>2021-06-30T12:51:00.590786+02:00</dc:date>
   </channel>
 </rss>
