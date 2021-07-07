@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 30 Jun 2021 20:58:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 25–28 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-28-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for EenVandaag, 25–28 June 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-28-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-28-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-28-Ipsos.png" length="502330" type="image/png"/>
+      <pubDate>Wed, 7 Jul 2021 10:21:07 +0200</pubDate>
+      <dc:date>2021-07-07T10:21:07.515452+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 27 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 27 June 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-15-Peilnl.png" length="464612" type="image/png"/>
       <pubDate>Wed, 19 May 2021 15:26:21 +0200</pubDate>
       <dc:date>2021-05-19T15:26:21.921766+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 7–9 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 7–9 May 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl-seating-plan.png" length="427912" type="image/png"/>
-      <pubDate>Tue, 11 May 2021 21:29:34 +0200</pubDate>
-      <dc:date>2021-05-11T21:29:34.089592+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 7–9 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 7–9 May 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl-seats.png" length="421382" type="image/png"/>
-      <pubDate>Tue, 11 May 2021 21:29:34 +0200</pubDate>
-      <dc:date>2021-05-11T21:29:34.089592+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 7–9 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 7–9 May 2021<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-05-09-Peilnl.png" length="462983" type="image/png"/>
-      <pubDate>Tue, 11 May 2021 21:29:34 +0200</pubDate>
-      <dc:date>2021-05-11T21:29:34.089592+02:00</dc:date>
     </item>
   </channel>
 </rss>
