@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 30 Jun 2021 19:20:33 +0200</pubDate>
+    <pubDate>Wed, 07 Jul 2021 10:21:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 25–28 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-28-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 22.1–27.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (ID): 9.0–12.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 4.8–7.8%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 12.2–16.5%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 4.8–7.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.9–6.7%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–3.5%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ECR): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Bij1 (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 2.1–4.2%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (*): 1.9–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-28-Ipsos.png"
+        length="502330"
+        type="image/png"/>
+      <pubDate>Wed, 07 Jul 2021 10:21:07 +0200</pubDate>
+      <dc:date>2021-07-07T10:21:07.515452+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 27 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2021-06-27-Peilnl.html#seats</link>
@@ -4569,6 +4579,6 @@
       <pubDate>Mon, 08 Jun 2020 17:51:08 +0200</pubDate>
       <dc:date>2020-06-08T17:51:08.032284+02:00</dc:date>
     </item>
-    <dc:date>2021-06-30T19:20:33.341509+02:00</dc:date>
+    <dc:date>2021-07-07T10:21:07.515452+02:00</dc:date>
   </channel>
 </rss>
