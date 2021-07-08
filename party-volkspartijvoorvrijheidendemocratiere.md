@@ -198,7 +198,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| [25–28 June 2021](2021-06-28-Ipsos.html) | Ipsos <br> EenVandaag | 10 | 10 | 10 | 9–11 | 8–11 |
+| [25–28 June 2021](2021-06-28-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [20 June 2021](2021-06-20-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8 | 8–9 |
@@ -364,9 +364,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 8% | 100% |  |
-| 8 | 14% | 92% |  |
-| 9 | 46% | 78% | Median |
-| 10 | 31% | 32% |  |
+| 8 | 19% | 92% |  |
+| 9 | 57% | 72% | Median |
+| 10 | 14% | 15% |  |
 | 11 | 1.3% | 1.3% |  |
 | 12 | 0% | 0% |  |
 
