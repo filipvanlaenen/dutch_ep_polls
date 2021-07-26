@@ -11,6 +11,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.1% | 21.1–25.4% | 20.6–26.1% | 20.3–26.6% | 19.6–27.7% |
+| [23–24 July 2021](2021-07-24-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.0–24.6% | 21.8–24.8% | 21.3–25.3% |
 | [9–12 July 2021](2021-07-12-IOResearch.html) | I&O Research | 21.5% | 20.4–22.7% | 20.1–23.0% | 19.8–23.3% | 19.3–23.9% |
 | [25–28 June 2021](2021-06-28-Ipsos.html) | Ipsos <br> EenVandaag | 24.6% | 23.0–26.4% | 22.5–26.9% | 22.1–27.4% | 21.3–28.3% |
 | [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.0–24.6% | 21.8–24.8% | 21.3–25.3% |
@@ -199,6 +200,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [23–24 July 2021](2021-07-24-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [9–12 July 2021](2021-07-12-IOResearch.html) | I&O Research | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [25–28 June 2021](2021-06-28-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -367,7 +369,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 4% | 100% |  |
 | 8 | 27% | 96% |  |
-| 9 | 53% | 69% | Median |
+| 9 | 54% | 69% | Median |
 | 10 | 14% | 15% |  |
 | 11 | 1.3% | 1.3% |  |
 | 12 | 0% | 0% |  |
