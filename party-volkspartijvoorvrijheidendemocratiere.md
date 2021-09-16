@@ -11,7 +11,8 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.0% | 21.1–25.7% | 20.6–26.2% | 20.3–26.7% | 19.6–27.7% |
-| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 24.6% | 23.6–25.6% | 23.3–25.9% | 23.1–26.2% | 22.6–26.7% |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 24.6% | 23.6–25.6% | 23.3–25.9% | 23.1–26.2% | 22.6–26.7% |
+| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 24.6% | N/A | N/A | N/A | N/A |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 24.6% | 22.9–26.4% | 22.5–26.9% | 22.0–27.4% | 21.2–28.2% |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 23.9% | 23.0–25.0% | 22.7–25.3% | 22.4–25.5% | 22.0–26.0% |
 | [23–26 July 2021](2021-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 23.3% | 21.7–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
@@ -203,8 +204,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 7–10 | 7–11 |
-| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [23–26 July 2021](2021-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 8–9 | 8–9 | 8–10 | 7–11 |
@@ -377,8 +379,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 4% | 100% |  |
 | 8 | 32% | 96% |  |
-| 9 | 55% | 64% | Median |
-| 10 | 6% | 9% |  |
+| 9 | 51% | 64% | Median |
+| 10 | 11% | 13% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0% | 0% |  |
 
