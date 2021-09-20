@@ -10,7 +10,8 @@ Last result: **3.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 0.4% | 0.3–0.7% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% |
 | [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
@@ -178,8 +179,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 92% | 100% | Median |
-| 0.5–1.5% | 8% | 8% |  |
+| 0.0–0.5% | 86% | 100% | Median |
+| 0.5–1.5% | 14% | 14% |  |
 | 1.5–2.5% | 0% | 0% |  |
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% | Last Result |
@@ -194,6 +195,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
