@@ -10,7 +10,10 @@ Last result: **10.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.4–7.7% | 5.2–8.1% | 4.9–8.5% | 4.4–9.2% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.4–7.7% | 5.1–8.1% | 4.9–8.5% | 4.4–9.2% |
+| [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 6.0% | 5.4–6.6% | 5.3–6.7% | 5.2–6.9% | 4.9–7.2% |
+| [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.5–7.4% | 4.1–7.9% |
+| [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 6.0% | 5.4–6.6% | 5.3–6.7% | 5.2–6.9% | 4.9–7.2% |
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 6.0% | 5.4–6.6% | 5.3–6.7% | 5.2–6.9% | 4.9–7.2% |
 | [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 6.8% | 6.1–7.5% | 6.0–7.7% | 5.8–7.9% | 5.5–8.3% |
@@ -182,9 +185,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.8% | 100% |  |
-| 4.5–5.5% | 12% | 99.2% |  |
-| 5.5–6.5% | 42% | 87% | Median |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 12% | 99.1% |  |
+| 5.5–6.5% | 41% | 87% | Median |
 | 6.5–7.5% | 32% | 45% |  |
 | 7.5–8.5% | 11% | 13% |  |
 | 8.5–9.5% | 2% | 2% |  |
@@ -200,7 +203,10 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
+| [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 2 | 2 | 2 | 1–2 | 1–3 |
+| [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 1–2 |
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -373,8 +379,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% |  |
-| 2 | 85% | 93% | Median |
+| 1 | 0.9% | 100% |  |
+| 2 | 90% | 99.1% | Median |
 | 3 | 9% | 9% | Last Result |
 | 4 | 0% | 0% |  |
 
