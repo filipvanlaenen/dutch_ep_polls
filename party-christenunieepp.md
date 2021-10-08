@@ -203,8 +203,8 @@ Last result: **1** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
-| [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–1 | 0–2 |
-| [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 1 | 1 | 1 | 1 | 0–1 |
 | [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -377,8 +377,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 66% | 76% | Last Result, Median |
+| 0 | 14% | 100% |  |
+| 1 | 77% | 86% | Last Result, Median |
 | 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
