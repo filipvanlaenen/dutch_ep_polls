@@ -215,7 +215,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
