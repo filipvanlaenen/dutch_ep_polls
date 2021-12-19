@@ -11,6 +11,7 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.7% | 9.7–13.3% | 9.4–13.7% | 9.2–14.0% | 8.7–14.8% |
+| [17–18 December 2021](2021-12-18-Peilnl.html) | Peil.nl | 12.6% | 11.9–13.4% | 11.7–13.7% | 11.5–13.9% | 11.1–14.3% |
 | [12 December 2021](2021-12-12-Peilnl.html) | Peil.nl | 12.6% | 11.9–13.4% | 11.7–13.7% | 11.5–13.9% | 11.1–14.3% |
 | [3–6 December 2021](2021-12-06-IOResearch.html) | I&O Research | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.9% |
 | [3–5 December 2021](2021-12-05-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
@@ -223,6 +224,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [17–18 December 2021](2021-12-18-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
 | [12 December 2021](2021-12-12-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–6 December 2021](2021-12-06-IOResearch.html) | I&O Research | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [3–5 December 2021](2021-12-05-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -416,8 +418,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 33% | 99.9% |  |
-| 4 | 26% | 67% | Median |
-| 5 | 40% | 40% |  |
+| 4 | 47% | 67% | Median |
+| 5 | 19% | 20% |  |
 | 6 | 0% | 0% |  |
 
 
