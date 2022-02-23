@@ -11,6 +11,7 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.3% | 9.4–11.5% | 9.1–11.9% | 8.8–12.2% | 8.3–13.0% |
+| [18–19 February 2022](2022-02-19-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 10.3% | 9.6–11.2% | 9.3–11.4% | 9.2–11.7% | 8.8–12.1% |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 10.0% | N/A | N/A | N/A | N/A |
@@ -234,6 +235,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [18–19 February 2022](2022-02-19-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 3 | 3 | 3 | 3–4 | 3–4 |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -439,8 +441,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 79% | 99.9% | Median |
-| 4 | 19% | 21% |  |
+| 3 | 65% | 99.9% | Median |
+| 4 | 33% | 35% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
