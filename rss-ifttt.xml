@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 30 Jun 2021 20:58:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 18–19 March 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 18–19 March 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl-seating-plan.png" length="410037" type="image/png"/>
+      <pubDate>Mon, 21 Mar 2022 16:15:18 +0100</pubDate>
+      <dc:date>2022-03-21T16:15:18.427926+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 18–19 March 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 18–19 March 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl-seats.png" length="353990" type="image/png"/>
+      <pubDate>Mon, 21 Mar 2022 16:15:18 +0100</pubDate>
+      <dc:date>2022-03-21T16:15:18.427926+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 18–19 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 18–19 March 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-19-Peilnl.png" length="505915" type="image/png"/>
+      <pubDate>Mon, 21 Mar 2022 16:15:18 +0100</pubDate>
+      <dc:date>2022-03-21T16:15:18.427926+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 4–5 March 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-05-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 4–5 March 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-05-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-03-05-Peilnl-seating-plan.png"/>]]></description>
@@ -172,54 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-31-Kantar.png" length="530073" type="image/png"/>
       <pubDate>Sat, 19 Feb 2022 16:24:03 +0100</pubDate>
       <dc:date>2022-02-19T16:24:03.760419+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 28–29 January 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 28–29 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl-seating-plan.png" length="345533" type="image/png"/>
-      <pubDate>Sat, 19 Feb 2022 16:44:02 +0100</pubDate>
-      <dc:date>2022-02-19T16:44:02.863255+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 28–29 January 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 28–29 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl-seats.png" length="309293" type="image/png"/>
-      <pubDate>Sat, 19 Feb 2022 16:44:02 +0100</pubDate>
-      <dc:date>2022-02-19T16:44:02.863255+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 28–29 January 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 28–29 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-29-Peilnl.png" length="507949" type="image/png"/>
-      <pubDate>Sat, 19 Feb 2022 16:44:02 +0100</pubDate>
-      <dc:date>2022-02-19T16:44:02.863255+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 21–24 January 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 21–24 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos-seating-plan.png" length="466098" type="image/png"/>
-      <pubDate>Wed, 26 Jan 2022 16:30:15 +0100</pubDate>
-      <dc:date>2022-01-26T16:30:15.744953+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 21–24 January 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 21–24 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos-seats.png" length="453935" type="image/png"/>
-      <pubDate>Wed, 26 Jan 2022 16:30:15 +0100</pubDate>
-      <dc:date>2022-01-26T16:30:15.744953+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 21–24 January 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for EenVandaag, 21–24 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-01-24-Ipsos.png" length="538575" type="image/png"/>
-      <pubDate>Wed, 26 Jan 2022 16:30:15 +0100</pubDate>
-      <dc:date>2022-01-26T16:30:15.744953+01:00</dc:date>
     </item>
   </channel>
 </rss>
