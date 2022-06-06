@@ -11,6 +11,7 @@ Last result: **14.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.6% | 16.1–21.8% | 15.8–22.5% | 15.6–23.1% | 15.1–24.0% |
+| [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 18.9% | N/A | N/A | N/A | N/A |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 17.4% | 16.2–18.6% | 15.9–19.0% | 15.6–19.3% | 15.1–19.9% |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 16.6% | 15.8–17.5% | 15.5–17.8% | 15.3–18.0% | 14.9–18.5% |
 | [22–25 April 2022](2022-04-25-Ipsos.html) | Ipsos <br> EenVandaag | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.8% | 18.0–24.6% |
@@ -250,6 +251,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [25–27 May 2022](2022-05-27-Kantar.html) | Kantar |  |  |  |  |  |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6 |
 | [22–25 April 2022](2022-04-25-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 8 | 7–8 | 7–9 | 7–9 |
