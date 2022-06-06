@@ -10,8 +10,8 @@ Last result: **12.2%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.4–6.5% | 4.2–6.9% | 4.1–7.2% | 3.9–7.8% |
-| [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 6.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 5.4% | 4.5–6.7% | 4.3–7.1% | 4.2–7.4% | 3.9–7.9% |
+| [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 6.0% | 5.2–7.1% | 5.0–7.4% | 4.8–7.6% | 4.4–8.1% |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [22–25 April 2022](2022-04-25-Ipsos.html) | Ipsos <br> EenVandaag | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -228,11 +228,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 16% | 100% |  |
-| 4.5–5.5% | 48% | 84% | Median |
-| 5.5–6.5% | 26% | 36% |  |
-| 6.5–7.5% | 8% | 9% |  |
-| 7.5–8.5% | 1.1% | 1.1% |  |
+| 3.5–4.5% | 12% | 100% |  |
+| 4.5–5.5% | 42% | 88% | Median |
+| 5.5–6.5% | 32% | 46% |  |
+| 6.5–7.5% | 12% | 14% |  |
+| 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -247,8 +247,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [25–27 May 2022](2022-05-27-Kantar.html) | Kantar |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [22–25 April 2022](2022-04-25-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -466,9 +466,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 68% | 100% | Median |
-| 2 | 32% | 32% |  |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 51% | 100% | Median |
+| 2 | 47% | 49% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% | Last Result |
 
 
