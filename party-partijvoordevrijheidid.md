@@ -10,7 +10,8 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.6–11.1% | 8.3–11.4% | 8.0–11.7% | 7.4–12.2% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.6–11.6% | 8.3–11.9% | 8.0–12.1% | 7.4–12.6% |
+| [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–12.0% | 7.9–12.6% |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 9.7% | 8.8–10.7% | 8.6–11.0% | 8.4–11.2% | 8.0–11.8% |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.6–11.8% | 9.3–12.2% |
@@ -232,11 +233,11 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.8% | 100% |  |
 | 7.5–8.5% | 8% | 99.2% |  |
-| 8.5–9.5% | 26% | 92% |  |
-| 9.5–10.5% | 38% | 66% | Median |
-| 10.5–11.5% | 24% | 27% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 25% | 92% |  |
+| 9.5–10.5% | 30% | 66% | Median |
+| 10.5–11.5% | 25% | 36% |  |
+| 11.5–12.5% | 10% | 10% |  |
+| 12.5–13.5% | 0.6% | 0.6% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -249,6 +250,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
