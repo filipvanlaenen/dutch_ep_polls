@@ -10,7 +10,9 @@ Last result: **14.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 15.1–21.5% | 14.8–22.3% | 14.5–22.8% | 14.0–23.9% |
+| N/A | [Poll Average](average.html) | 16.9% | 14.3–21.5% | 14.0–22.3% | 13.8–22.8% | 13.3–23.9% |
+| [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 14.6% | 13.8–15.5% | 13.6–15.7% | 13.4–16.0% | 13.0–16.4% |
+| [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 15.3% | 14.3–16.4% | 14.1–16.8% | 13.8–17.0% | 13.3–17.6% |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.4% | 14.1–16.6% | 13.7–17.1% |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 18.9% | 17.5–20.5% | 17.0–21.0% | 16.7–21.4% | 16.0–22.2% |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 17.4% | 16.2–18.6% | 15.9–19.0% | 15.6–19.3% | 15.1–19.9% |
@@ -228,14 +230,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 3% | 99.9% |  |
-| 14.5–15.5% | 13% | 97% | Last Result |
-| 15.5–16.5% | 13% | 84% |  |
-| 16.5–17.5% | 13% | 71% |  |
-| 17.5–18.5% | 15% | 58% | Median |
-| 18.5–19.5% | 13% | 43% |  |
-| 19.5–20.5% | 11% | 31% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 1.3% | 100% |  |
+| 13.5–14.5% | 14% | 98.7% |  |
+| 14.5–15.5% | 23% | 85% | Last Result |
+| 15.5–16.5% | 11% | 62% |  |
+| 16.5–17.5% | 4% | 52% | Median |
+| 17.5–18.5% | 7% | 47% |  |
+| 18.5–19.5% | 10% | 40% |  |
+| 19.5–20.5% | 11% | 30% |  |
 | 20.5–21.5% | 10% | 20% |  |
 | 21.5–22.5% | 6% | 10% |  |
 | 22.5–23.5% | 3% | 4% |  |
@@ -253,6 +256,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
+| [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -473,9 +478,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 25% | 100% |  |
-| 6 | 31% | 75% | Median |
-| 7 | 20% | 44% |  |
+| 5 | 41% | 100% |  |
+| 6 | 28% | 59% | Median |
+| 7 | 7% | 31% |  |
 | 8 | 23% | 24% |  |
 | 9 | 1.1% | 1.1% |  |
 | 10 | 0% | 0% |  |
