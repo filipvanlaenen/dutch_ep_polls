@@ -10,10 +10,13 @@ Last result: **12.2%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.5–6.7% | 4.4–7.1% | 4.2–7.4% | 3.9–7.9% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.2–7.8% | 4.9–8.2% | 4.8–8.5% | 4.4–9.2% |
+| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
 | [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 5.5% | 4.9–6.3% | 4.8–6.5% | 4.6–6.7% | 4.3–7.0% |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [27–30 May 2022](2022-05-30-Ipsos.html) | Ipsos <br> EenVandaag | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.4–9.5% |
+| [27–28 May 2022](2022-05-28-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 6.0% | 5.2–7.1% | 5.0–7.4% | 4.8–7.6% | 4.4–8.1% |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 5.2% | 4.6–6.0% | 4.4–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
@@ -26,6 +29,7 @@ Last result: **12.2%** (General Election of 23 May 2019)
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [11–12 March 2022](2022-03-12-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
+| [9–11 March 2022](2022-03-11-Kantar.html) | Kantar | 5.0% | N/A | N/A | N/A | N/A |
 | [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
@@ -231,13 +235,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 10% | 100% |  |
-| 4.5–5.5% | 38% | 90% |  |
-| 5.5–6.5% | 38% | 52% | Median |
-| 6.5–7.5% | 13% | 14% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 23% | 99.0% |  |
+| 5.5–6.5% | 39% | 76% | Median |
+| 6.5–7.5% | 24% | 37% |  |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% | Last Result |
 
@@ -250,10 +254,13 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
+| [27–30 May 2022](2022-05-30-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27–28 May 2022](2022-05-28-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
@@ -266,6 +273,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [11–12 March 2022](2022-03-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [9–11 March 2022](2022-03-11-Kantar.html) | Kantar |  |  |  |  |  |
 | [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -472,9 +480,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 49% | 100% |  |
-| 2 | 49% | 51% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 4% | 100% |  |
+| 2 | 86% | 96% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% | Last Result |
 
 
