@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.6–1.7% | 0.5–1.9% | 0.4–2.0% | 0.3–2.2% |
-| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl | 1.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.2% | 0.6–1.7% | 0.5–1.8% | 0.4–1.9% | 0.3–2.2% |
+| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.0–2.1% | 0.9–2.4% |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
@@ -234,11 +234,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 74% | 92% | Median |
+| 0.0–0.5% | 6% | 100% | Last Result |
+| 0.5–1.5% | 76% | 94% | Median |
 | 1.5–2.5% | 18% | 18% |  |
 | 2.5–3.5% | 0% | 0% |  |
-| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -250,7 +249,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
