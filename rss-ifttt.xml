@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 30 Jun 2021 20:58:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 25–26 November 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 25–26 November 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl-seating-plan.png" length="400776" type="image/png"/>
+      <pubDate>Mon, 5 Dec 2022 22:35:26 +0100</pubDate>
+      <dc:date>2022-12-05T22:35:26.609846+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 25–26 November 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Peil.nl, 25–26 November 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl-seats.png" length="400111" type="image/png"/>
+      <pubDate>Mon, 5 Dec 2022 22:35:26 +0100</pubDate>
+      <dc:date>2022-12-05T22:35:26.609846+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 25–26 November 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 25–26 November 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-26-Peilnl.png" length="509515" type="image/png"/>
+      <pubDate>Mon, 5 Dec 2022 22:35:26 +0100</pubDate>
+      <dc:date>2022-12-05T22:35:26.609846+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by I&amp;O Research, 11–14 November 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-14-IOResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by I&O Research, 11–14 November 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-14-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-11-14-IOResearch-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-09-12-IOResearch.png" length="540016" type="image/png"/>
       <pubDate>Sat, 24 Sep 2022 10:37:20 +0200</pubDate>
       <dc:date>2022-09-24T10:37:20.327197+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 26–29 August 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 26–29 August 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos-seating-plan.png" length="434371" type="image/png"/>
-      <pubDate>Wed, 21 Sep 2022 20:43:30 +0200</pubDate>
-      <dc:date>2022-09-21T20:43:30.245439+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 26–29 August 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>15 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 26–29 August 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos-seats.png" length="487832" type="image/png"/>
-      <pubDate>Wed, 21 Sep 2022 20:43:30 +0200</pubDate>
-      <dc:date>2022-09-21T20:43:30.245439+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 26–29 August 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for EenVandaag, 26–29 August 2022<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2022-08-29-Ipsos.png" length="551357" type="image/png"/>
-      <pubDate>Wed, 21 Sep 2022 20:43:30 +0200</pubDate>
-      <dc:date>2022-09-21T20:43:30.245439+02:00</dc:date>
     </item>
   </channel>
 </rss>
