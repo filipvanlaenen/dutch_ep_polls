@@ -10,7 +10,9 @@ Last result: **14.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 12.4–17.5% | 12.1–18.1% | 11.9–18.6% | 11.4–19.5% |
+| N/A | [Poll Average](average.html) | 14.9% | 13.0–17.5% | 12.7–18.1% | 12.4–18.6% | 12.0–19.5% |
+| [13–16 January 2023](2023-01-16-IOResearch.html) | I&O Research | 15.0% | 14.1–15.9% | 13.8–16.2% | 13.6–16.4% | 13.2–16.9% |
+| [13–14 January 2023](2023-01-14-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [16–19 December 2022](2022-12-19-Ipsos.html) | Ipsos <br> EenVandaag | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 14.0–20.0% |
 | [16–17 December 2022](2022-12-17-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [9–12 December 2022](2022-12-12-IOResearch.html) | I&O Research | 12.9% | 12.0–13.9% | 11.7–14.1% | 11.5–14.4% | 11.1–14.9% |
@@ -256,14 +258,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.9% | 100% |  |
-| 11.5–12.5% | 13% | 99.1% |  |
-| 12.5–13.5% | 35% | 86% |  |
-| 13.5–14.5% | 17% | 51% | Median |
-| 14.5–15.5% | 5% | 34% | Last Result |
-| 15.5–16.5% | 9% | 29% |  |
-| 16.5–17.5% | 11% | 20% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 3% | 99.9% |  |
+| 12.5–13.5% | 19% | 97% |  |
+| 13.5–14.5% | 20% | 78% |  |
+| 14.5–15.5% | 21% | 58% | Last Result, Median |
+| 15.5–16.5% | 16% | 37% |  |
+| 16.5–17.5% | 11% | 21% |  |
 | 17.5–18.5% | 7% | 9% |  |
 | 18.5–19.5% | 2% | 3% |  |
 | 19.5–20.5% | 0.4% | 0.5% |  |
@@ -279,7 +280,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [13–16 January 2023](2023-01-16-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [13–14 January 2023](2023-01-14-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [16–19 December 2022](2022-12-19-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6 | 6 | 6 | 6 |
 | [16–17 December 2022](2022-12-17-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
 | [9–12 December 2022](2022-12-12-IOResearch.html) | I&O Research | 5 | 5 | 5 | 4–5 | 4–5 |
@@ -527,9 +530,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% | Last Result |
-| 5 | 65% | 98% | Median |
-| 6 | 33% | 33% |  |
+| 4 | 32% | 100% | Last Result |
+| 5 | 13% | 68% |  |
+| 6 | 56% | 56% | Median |
 | 7 | 0% | 0% |  |
 
 
