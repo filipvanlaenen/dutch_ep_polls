@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.7% | 6.0–7.5% | 5.8–7.8% | 5.6–8.1% | 5.2–8.7% |
+| [24–25 February 2023](2023-02-25-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [17–18 February 2023](2023-02-18-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [13 February 2023](2023-02-13-IOResearch.html) | I&O Research | 6.6% | 6.0–7.3% | 5.9–7.5% | 5.7–7.7% | 5.4–8.0% |
 | [10–11 February 2023](2023-02-11-Peilnl.html) | Peil.nl | 7.3% | N/A | N/A | N/A | N/A |
@@ -284,6 +285,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [24–25 February 2023](2023-02-25-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
 | [17–18 February 2023](2023-02-18-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
 | [13 February 2023](2023-02-13-IOResearch.html) | I&O Research | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10–11 February 2023](2023-02-11-Peilnl.html) | Peil.nl |  |  |  |  |  |
