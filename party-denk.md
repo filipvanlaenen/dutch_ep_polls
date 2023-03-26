@@ -10,7 +10,8 @@ Last result: **1.1%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.4–2.9% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.6–2.6% | 0.5–2.7% | 0.5–2.8% | 0.4–2.9% |
+| [23–24 March 2023](2023-03-24-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–0.9% | 0.5–1.0% | 0.4–1.1% |
 | [17–27 February 2023](2023-02-27-Ipsos.html) | Ipsos <br> EenVandaag | 2.4% | 2.1–2.7% | 2.1–2.8% | 2.0–2.9% | 1.9–3.0% |
 | [24–25 February 2023](2023-02-25-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [17–18 February 2023](2023-02-18-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -264,10 +265,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 3% | 100% | Last Result |
-| 1.5–2.5% | 86% | 97% | Median |
-| 2.5–3.5% | 10% | 10% |  |
+| 0.0–0.5% | 6% | 100% |  |
+| 0.5–1.5% | 44% | 94% | Last Result |
+| 1.5–2.5% | 37% | 50% | Median |
+| 2.5–3.5% | 13% | 13% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -280,6 +281,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–24 March 2023](2023-03-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [17–27 February 2023](2023-02-27-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [24–25 February 2023](2023-02-25-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [17–18 February 2023](2023-02-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
