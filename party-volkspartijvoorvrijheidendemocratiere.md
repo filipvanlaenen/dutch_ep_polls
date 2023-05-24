@@ -10,8 +10,10 @@ Last result: **14.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.0% | 11.0–21.1% | 10.7–21.6% | 10.5–21.9% | 10.1–22.5% |
-| [5–6 May 2023](2023-05-06-Peil.html) | Peil | 20.9% | 20.0–21.9% | 19.7–22.2% | 19.5–22.4% | 19.1–22.9% |
+| N/A | [Poll Average](average.html) | 13.9% | 11.5–18.3% | 11.2–18.9% | 11.0–19.3% | 10.6–20.2% |
+| [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
+| [12–15 May 2023](2023-05-15-IOResearch.html) | I&O Research | 14.9% | N/A | N/A | N/A | N/A |
+| [5–6 May 2023](2023-05-06-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
 | [24 April 2023](2023-04-24-Ipsos.html) | Ipsos <br> EenVandaag | 17.3% | 15.8–18.9% | 15.4–19.3% | 15.0–19.7% | 14.4–20.5% |
 | [21–22 April 2023](2023-04-22-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [14–17 April 2023](2023-04-17-IOResearch.html) | I&O Research | 11.8% | 10.9–12.7% | 10.7–13.0% | 10.5–13.2% | 10.1–13.7% |
@@ -272,21 +274,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 3% | 100% |  |
-| 10.5–11.5% | 22% | 97% |  |
-| 11.5–12.5% | 21% | 75% |  |
-| 12.5–13.5% | 4% | 54% |  |
-| 13.5–14.5% | 0.4% | 50% | Median |
-| 14.5–15.5% | 1.4% | 50% | Last Result |
-| 15.5–16.5% | 5% | 48% |  |
-| 16.5–17.5% | 8% | 43% |  |
-| 17.5–18.5% | 7% | 36% |  |
-| 18.5–19.5% | 4% | 29% |  |
-| 19.5–20.5% | 7% | 25% |  |
-| 20.5–21.5% | 13% | 18% |  |
-| 21.5–22.5% | 5% | 5% |  |
-| 22.5–23.5% | 0.4% | 0.4% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.3% | 100% |  |
+| 10.5–11.5% | 11% | 99.7% |  |
+| 11.5–12.5% | 30% | 88% |  |
+| 12.5–13.5% | 9% | 59% |  |
+| 13.5–14.5% | 0.6% | 50% | Median |
+| 14.5–15.5% | 3% | 50% | Last Result |
+| 15.5–16.5% | 10% | 47% |  |
+| 16.5–17.5% | 16% | 37% |  |
+| 17.5–18.5% | 13% | 21% |  |
+| 18.5–19.5% | 6% | 8% |  |
+| 19.5–20.5% | 1.5% | 2% |  |
+| 20.5–21.5% | 0.2% | 0.2% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -297,8 +297,10 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
-| [5–6 May 2023](2023-05-06-Peil.html) | Peil | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
+| [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12–15 May 2023](2023-05-15-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [5–6 May 2023](2023-05-06-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [24 April 2023](2023-04-24-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [21–22 April 2023](2023-04-22-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 | [14–17 April 2023](2023-04-17-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -561,12 +563,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.2% | 100% |  |
-| 4 | 47% | 99.8% | Last Result |
-| 5 | 3% | 53% | Median |
-| 6 | 4% | 50% |  |
-| 7 | 42% | 46% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 4 | 20% | 99.8% | Last Result |
+| 5 | 30% | 80% | Median |
+| 6 | 8% | 50% |  |
+| 7 | 42% | 42% |  |
+| 8 | 0% | 0% |  |
 
 
