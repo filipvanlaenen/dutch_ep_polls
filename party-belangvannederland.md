@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.5–1.0% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% |
+| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
+| [9–12 June 2023](2023-06-12-IOResearch.html) | I&O Research | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% |
 | [26–29 May 2023](2023-05-29-Ipsos.html) | Ipsos <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [12–15 May 2023](2023-05-15-IOResearch.html) | I&O Research | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
@@ -274,10 +276,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 90% | 92% | Median |
-| 1.5–2.5% | 2% | 2% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 13% | 100% | Last Result |
+| 0.5–1.5% | 87% | 87% | Median |
+| 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -289,6 +290,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [9–12 June 2023](2023-06-12-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [26–29 May 2023](2023-05-29-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [12–15 May 2023](2023-05-15-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
