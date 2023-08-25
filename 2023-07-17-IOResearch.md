@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Volkspartij voor Vrijheid en Democratie (RE) | 14.6% | 15.5% | 14.4–16.7% |14.1–17.0% |13.8–17.3% |13.4–17.8% |
-| BoerBurgerBeweging (*) | 0.0% | 13.1% | 12.1–14.2% |11.8–14.5% |11.6–14.8% |11.1–15.3% |
+| BoerBurgerBeweging (NI) | 0.0% | 13.1% | 12.1–14.2% |11.8–14.5% |11.6–14.8% |11.1–15.3% |
 | Partij voor de Vrijheid (ID) | 3.5% | 9.5% | 8.6–10.5% |8.4–10.7% |8.2–11.0% |7.8–11.4% |
 | GroenLinks (Greens/EFA) | 10.9% | 9.2% | 8.4–10.2% |8.1–10.4% |7.9–10.7% |7.5–11.1% |
 | Partij van de Arbeid (S&D) | 19.0% | 7.8% | 7.0–8.7% |6.8–8.9% |6.6–9.2% |6.3–9.6% |
@@ -23,7 +23,7 @@
 | ChristenUnie (EPP) | 6.8% | 3.5% | 3.0–4.1% |2.8–4.3% |2.7–4.5% |2.5–4.8% |
 | Christen-Democratisch Appèl (EPP) | 12.2% | 3.2% | 2.7–3.8% |2.6–4.0% |2.5–4.1% |2.3–4.5% |
 | Staatkundig Gereformeerde Partij (ECR) | 6.8% | 2.9% | 2.5–3.5% |2.3–3.7% |2.2–3.8% |2.0–4.1% |
-| Forum voor Democratie (ECR) | 11.0% | 2.9% | 2.5–3.5% |2.3–3.7% |2.2–3.8% |2.0–4.1% |
+| Forum voor Democratie (NI) | 11.0% | 2.9% | 2.5–3.5% |2.3–3.7% |2.2–3.8% |2.0–4.1% |
 | DENK (*) | 1.1% | 1.4% | 1.1–1.8% |1.0–2.0% |0.9–2.1% |0.8–2.3% |
 | Bij1 (*) | 0.0% | 0.9% | 0.6–1.2% |0.6–1.3% |0.5–1.4% |0.4–1.6% |
 | Belang van Nederland (*) | 0.0% | 0.9% | 0.6–1.2% |0.6–1.3% |0.5–1.4% |0.4–1.6% |
@@ -42,7 +42,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 4 | 6 | 6 |6 |5–6 |5–6 |
-| <a href="#boerburgerbeweging-(*)">BoerBurgerBeweging (*)</a> | 0 | 4 | 4 |4 |4–5 |4–5 |
+| <a href="#boerburgerbeweging-(ni)">BoerBurgerBeweging (NI)</a> | 0 | 4 | 4 |4 |4–5 |4–5 |
 | <a href="#partij-voor-de-vrijheid-(id)">Partij voor de Vrijheid (ID)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 3 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 6 | 3 | 3 |3 |3 |2–3 |
@@ -54,7 +54,7 @@
 | <a href="#christenunie-(epp)">ChristenUnie (EPP)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 4 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 1 | 0 | 0 |0–1 |0–1 |0–1 |
-| <a href="#forum-voor-democratie-(ecr)">Forum voor Democratie (ECR)</a> | 3 | 0 | 0 |0 |0 |0–1 |
+| <a href="#forum-voor-democratie-(ni)">Forum voor Democratie (NI)</a> | 3 | 0 | 0 |0 |0 |0–1 |
 | <a href="#denk-(*)">DENK (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#bij1-(*)">Bij1 (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#belang-van-nederland-(*)">Belang van Nederland (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -74,11 +74,11 @@
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
-### BoerBurgerBeweging (*)
+### BoerBurgerBeweging (NI)
 
-*For a full overview of the results for this party, see the [BoerBurgerBeweging (*)](party-boerburgerbeweging.html) page.*
+*For a full overview of the results for this party, see the [BoerBurgerBeweging (NI)](party-boerburgerbewegingni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-seats-pmf-boerburgerbeweging.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-seats-pmf-boerburgerbewegingni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -234,11 +234,11 @@
 | 1 | 9% | 9% | Last Result |
 | 2 | 0% | 0% |  |
 
-### Forum voor Democratie (ECR)
+### Forum voor Democratie (NI)
 
-*For a full overview of the results for this party, see the [Forum voor Democratie (ECR)](party-forumvoordemocratieecr.html) page.*
+*For a full overview of the results for this party, see the [Forum voor Democratie (NI)](party-forumvoordemocratieni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-seats-pmf-forumvoordemocratieecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-seats-pmf-forumvoordemocratieni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -298,12 +298,12 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Volkspartij voor Vrijheid en Democratie (RE) – Democraten 66 (RE) | 6 | 8 | 0% | 7–8 | 7–8 | 7–8 | 7–9 |
+| BoerBurgerBeweging (NI) – Forum voor Democratie (NI) | 3 | 4 | 0% | 4 | 4 | 4–5 | 4–6 |
 | GroenLinks (Greens/EFA) – Volt Europa (Greens/EFA) | 3 | 5 | 0% | 5 | 5 | 4–5 | 4–6 |
 | Partij voor de Dieren (GUE/NGL) – Socialistische Partij (GUE/NGL) | 1 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–4 |
 | Partij voor de Vrijheid (ID) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid (S&D) | 6 | 3 | 0% | 3 | 3 | 3 | 2–3 |
-| Juiste Antwoord 2021 (ECR) – Forum voor Democratie (ECR) – Staatkundig Gereformeerde Partij (ECR) | 4 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–3 |
-| ChristenUnie (EPP) – Christen-Democratisch Appèl (EPP) – 50Plus (EPP) | 6 | 1 | 0% | 1 | 1 | 1 | 0–1 |
+| Juiste Antwoord 2021 (ECR) – Staatkundig Gereformeerde Partij (ECR) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
 
 ### Volkspartij voor Vrijheid en Democratie (RE) – Democraten 66 (RE)
 
@@ -317,6 +317,18 @@
 | 8 | 87% | 88% | Median |
 | 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
+
+### BoerBurgerBeweging (NI) – Forum voor Democratie (NI)
+
+![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-coalitions-seats-pmf-bbb–fvd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 0% | 100% | Last Result |
+| 4 | 95% | 100% | Median |
+| 5 | 3% | 5% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
 
 ### GroenLinks (Greens/EFA) – Volt Europa (Greens/EFA)
 
@@ -367,31 +379,16 @@
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% | Last Result |
 
-### Juiste Antwoord 2021 (ECR) – Forum voor Democratie (ECR) – Staatkundig Gereformeerde Partij (ECR)
+### Juiste Antwoord 2021 (ECR) – Staatkundig Gereformeerde Partij (ECR)
 
-![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-coalitions-seats-pmf-ja21–fvd–sgp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-coalitions-seats-pmf-ja21–sgp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% |  |
-| 1 | 88% | 99.4% | Median |
-| 2 | 10% | 12% |  |
-| 3 | 1.3% | 1.3% |  |
-| 4 | 0% | 0% | Last Result |
-
-### ChristenUnie (EPP) – Christen-Democratisch Appèl (EPP) – 50Plus (EPP)
-
-![Graph with seats probability mass function not yet produced](2023-07-17-IOResearch-coalitions-seats-pmf-cu–cda–50.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% |  |
-| 1 | 98.9% | 99.1% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 88% | 99.4% | Last Result, Median |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% | Last Result |
 
 
 ## Technical Information
