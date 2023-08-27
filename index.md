@@ -1,11 +1,12 @@
 # Overview
 
-The table below lists the most recent polls (less than 4 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 6 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | PvdA | VVD | CDA | FvD | GL | D66 | CU | SGP | PvdD | 50+ | PVV | SP | DENK | PP | B1 | PvdT | JA21 | CO | Volt | BBB | Spl | BVNL | NSC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 7–10% <br> 2–3 | 12–16% <br> 5–6 | 2–3% <br> 0–1 | 2–3% <br> 0 | 8–11% <br> 3–4 | 4–6% <br> 1–2 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 4–6% <br> 2 | 0–1% <br> 0 | 7–10% <br> 3 | 3–4% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 0–1% <br> 0 | 18–22% <br> 7–8 |
+| N/A | [Poll Average](average.html) | 7–9% <br> 2–3 | 13–18% <br> 5–6 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 8–11% <br> 3–4 | 4–6% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0–1 | 4–6% <br> 1–2 | 0–1% <br> 0 | 8–11% <br> 3 | 3–4% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 8–10% <br> 2–3 | N/A <br> N/A | 0–1% <br> 0 | 18–22% <br> 7–8 |
+| [25–26 August 2023](2023-08-26-Peilnl.html) | Peil.nl | 6–8% <br> 2–3 | 15–18% <br> 6 | 3–4% <br> 1 | 3–4% <br> 0–1 | 8–10% <br> 3 | 4–5% <br> 1 | 2–3% <br> 0 | 1–2% <br> 0 | 4–5% <br> 1 | 0% <br> 0 | 9–11% <br> 3 | 3–4% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | 0% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 8–10% <br> 3 | N/A <br> N/A | 0–1% <br> 0 | 18–21% <br> 7 |
 | [23–24 August 2023](2023-08-24-IOResearch.html) | I&O Research | 7–10% <br> 2–3 | 12–16% <br> 5–6 | 2–3% <br> 0–1 | 2–3% <br> 0 | 8–11% <br> 3–4 | 4–6% <br> 1–2 | 2–4% <br> 0–1 | 2–3% <br> 0–1 | 4–6% <br> 2 | 0–1% <br> 0 | 7–10% <br> 3 | 3–4% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 0–1% <br> 0 | 18–22% <br> 7–8 |
 | 23 May 2019 | General Election | 19.0% <br> 6 | 14.6% <br> 4 | 12.2% <br> 4 | 11.0% <br> 3 | 10.9% <br> 3 | 7.1% <br> 2 | 6.8% <br> 1 | 6.8% <br> 1 | 4.0% <br> 1 | 3.9% <br> 1 | 3.5% <br> 0 | 3.4% <br> 0 | 1.1% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
