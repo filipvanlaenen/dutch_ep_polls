@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.1% | 16.3–19.3% | 15.8–19.7% | 15.4–20.0% | 14.6–20.6% |
+| [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 18.6% | 17.7–19.5% | 17.4–19.8% | 17.2–20.0% | 16.8–20.5% |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 17.3% | 15.8–19.0% | 15.4–19.5% | 15.0–19.9% | 14.3–20.7% |
 | [1–2 September 2023](2023-09-02-Peilnl.html) | Peil.nl | 18.6% | 17.7–19.5% | 17.4–19.8% | 17.2–20.0% | 16.8–20.5% |
 | [25–26 August 2023](2023-08-26-Peilnl.html) | Peil.nl | 19.2% | 18.3–20.2% | 18.1–20.5% | 17.9–20.7% | 17.4–21.2% |
@@ -279,6 +280,7 @@ Last result: **0.0%** (General Election of 23 May 2019)
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
+| [20–26 May 2019](2019-05-26-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -320,6 +322,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [1–2 September 2023](2023-09-02-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [25–26 August 2023](2023-08-26-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 7 |
@@ -588,6 +591,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [20–26 May 2019](2019-05-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -603,9 +607,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 54% | 99.9% | Median |
-| 7 | 45% | 46% |  |
-| 8 | 0.9% | 0.9% |  |
+| 6 | 62% | 99.9% | Median |
+| 7 | 36% | 37% |  |
+| 8 | 1.0% | 1.0% |  |
 | 9 | 0% | 0% |  |
 
 
