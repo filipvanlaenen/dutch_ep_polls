@@ -10,7 +10,8 @@ Last result: **19.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.6–8.7% | 6.4–9.0% | 6.3–9.2% | 6.0–9.7% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.8–8.0% | 6.6–8.2% | 6.5–8.3% | 6.2–8.6% |
+| [22–23 September 2023](2023-09-23-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [8–11 September 2023](2023-09-11-IOResearch.html) | I&O Research | 8.1% | 7.3–9.0% | 7.0–9.3% | 6.8–9.5% | 6.5–10.0% |
 | [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 7.0% | 6.4–7.6% | 6.3–7.8% | 6.1–8.0% | 5.9–8.3% |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 5.8% | 5.0–7.0% | 4.7–7.3% | 4.5–7.5% | 4.1–8.1% |
@@ -290,11 +291,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 8% | 100% |  |
-| 6.5–7.5% | 45% | 92% | Median |
-| 7.5–8.5% | 34% | 47% |  |
-| 8.5–9.5% | 12% | 13% |  |
-| 9.5–10.5% | 1.0% | 1.0% |  |
+| 5.5–6.5% | 4% | 100% |  |
+| 6.5–7.5% | 61% | 96% | Median |
+| 7.5–8.5% | 34% | 34% |  |
+| 8.5–9.5% | 0.8% | 0.8% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -314,7 +315,8 @@ Last result: **6** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–3 | 2–3 |
+| [22–23 September 2023](2023-09-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [8–11 September 2023](2023-09-11-IOResearch.html) | I&O Research | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2 | 2 | 2 | 1–2 |
@@ -595,10 +597,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 64% | 100% | Median |
-| 3 | 32% | 36% |  |
-| 4 | 4% | 4% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 4% | 100% |  |
+| 3 | 96% | 96% | Median |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
 | 6 | 0% | 0% | Last Result |
 
 
