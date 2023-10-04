@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.4% | 1.0–2.7% | 0.9–2.9% | 0.8–3.4% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–1.9% |
+| [22–25 September 2023](2023-09-25-IOResearch.html) | I&O Research | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [22–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> EenVandaag | 2.2% | N/A | N/A | N/A | N/A |
 | [22–23 September 2023](2023-09-23-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [8–11 September 2023](2023-09-11-IOResearch.html) | I&O Research | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.8–2.0% | 0.7–2.2% |
 | [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
@@ -24,7 +26,7 @@ Last result: **0.0%** (General Election of 23 May 2019)
 | [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl | 4.0% | 3.5–4.5% | 3.4–4.6% | 3.3–4.7% | 3.1–5.0% |
 | [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [23–25 June 2023](2023-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
-| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
+| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 4.6% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [9–12 June 2023](2023-06-12-IOResearch.html) | I&O Research | 5.5% | 4.9–6.2% | 4.8–6.3% | 4.6–6.5% | 4.4–6.8% |
 | [26–29 May 2023](2023-05-29-Ipsos.html) | Ipsos <br> EenVandaag | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.7% |
 | [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
@@ -290,12 +292,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 56% | 100% | Median |
-| 1.5–2.5% | 36% | 44% |  |
-| 2.5–3.5% | 8% | 8% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.7% | 100% | Last Result |
+| 0.5–1.5% | 88% | 99.3% | Median |
+| 1.5–2.5% | 11% | 11% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -307,6 +307,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–25 September 2023](2023-09-25-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
+| [22–24 September 2023](2023-09-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [22–23 September 2023](2023-09-23-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [8–11 September 2023](2023-09-11-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
