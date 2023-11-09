@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 27 Oct 2023 19:49:20 +0200</pubDate>
     <item>
+      <title>Opinion Poll by I&amp;O Research, 6–7 November 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by I&O Research, 6–7 November 2023<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch-seating-plan.png" length="436147" type="image/png"/>
+      <pubDate>Thu, 9 Nov 2023 21:53:37 +0100</pubDate>
+      <dc:date>2023-11-09T21:53:37.248810859+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 6–7 November 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by I&O Research, 6–7 November 2023<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch-seats.png" length="467193" type="image/png"/>
+      <pubDate>Thu, 9 Nov 2023 21:53:37 +0100</pubDate>
+      <dc:date>2023-11-09T21:53:37.248810859+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 6–7 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by I&O Research, 6–7 November 2023<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-07-IOResearch.png" length="538970" type="image/png"/>
+      <pubDate>Thu, 9 Nov 2023 21:53:37 +0100</pubDate>
+      <dc:date>2023-11-09T21:53:37.248810859+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 3–4 November 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-04-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Peil.nl, 3–4 November 2023<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-04-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2023-11-04-Peilnl-seating-plan.png"/>]]></description>
@@ -172,30 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2023-10-09-IOResearch.png" length="545604" type="image/png"/>
       <pubDate>Sat, 21 Oct 2023 15:40:01 +0200</pubDate>
       <dc:date>2023-10-21T15:40:01.5987865+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by I&amp;O Research, 22–25 September 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by I&O Research, 22–25 September 2023<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch-seating-plan.png" length="415636" type="image/png"/>
-      <pubDate>Wed, 4 Oct 2023 20:24:31 +0200</pubDate>
-      <dc:date>2023-10-04T20:24:31.938809443+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by I&amp;O Research, 22–25 September 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by I&O Research, 22–25 September 2023<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch-seats.png" length="440968" type="image/png"/>
-      <pubDate>Wed, 4 Oct 2023 20:24:31 +0200</pubDate>
-      <dc:date>2023-10-04T20:24:31.938809443+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by I&amp;O Research, 22–25 September 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by I&O Research, 22–25 September 2023<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2023-09-25-IOResearch.png" length="568984" type="image/png"/>
-      <pubDate>Wed, 4 Oct 2023 20:24:31 +0200</pubDate>
-      <dc:date>2023-10-04T20:24:31.938809443+02:00</dc:date>
     </item>
   </channel>
 </rss>
