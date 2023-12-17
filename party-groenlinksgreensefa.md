@@ -10,7 +10,7 @@ Last result: **10.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 7.0–8.9% | 6.8–9.2% | 6.6–9.5% | 6.3–9.9% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.9–8.2% | 6.7–8.4% | 6.6–8.5% | 6.3–8.9% |
 | [8–11 December 2023](2023-12-11-IOResearch.html) | I&O Research | 7.7% | 7.1–8.3% | 6.9–8.5% | 6.7–8.7% | 6.5–9.0% |
 | [1–2 December 2023](2023-12-02-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [21 November 2023](2023-11-21-Peilnl.html) | Peil.nl | 10.0% | 9.6–10.6% | 9.4–10.7% | 9.3–10.8% | 9.1–11.1% |
@@ -314,10 +314,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 34% | 98% |  |
-| 7.5–8.5% | 44% | 64% | Median |
-| 8.5–9.5% | 18% | 20% |  |
-| 9.5–10.5% | 2% | 2% |  |
+| 6.5–7.5% | 50% | 98% |  |
+| 7.5–8.5% | 45% | 47% | Median |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
 
 
@@ -329,7 +329,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–11 December 2023](2023-12-11-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–2 December 2023](2023-12-02-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21 November 2023](2023-11-21-Peilnl.html) | Peil.nl | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -633,9 +633,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 39% | 100% |  |
-| 3 | 41% | 61% | Last Result, Median |
-| 4 | 19% | 19% |  |
+| 2 | 59% | 100% | Median |
+| 3 | 41% | 41% | Last Result |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 
