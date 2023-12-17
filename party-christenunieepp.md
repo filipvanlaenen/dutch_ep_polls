@@ -10,7 +10,9 @@ Last result: **6.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.9–2.9% | 1.8–3.1% | 1.7–3.2% | 1.6–3.5% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.8–2.9% | 1.7–3.1% | 1.6–3.2% | 1.5–3.5% |
+| [8–11 December 2023](2023-12-11-IOResearch.html) | I&O Research | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% |
+| [1–2 December 2023](2023-12-02-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [21 November 2023](2023-11-21-Peilnl.html) | Peil.nl | 2.0% | 1.8–2.3% | 1.7–2.3% | 1.7–2.4% | 1.6–2.5% |
 | [19–21 November 2023](2023-11-21-Ipsos.html) | Ipsos <br> EenVandaag | 2.7% | 2.3–3.2% | 2.1–3.3% | 2.1–3.4% | 1.9–3.7% |
 | [20–21 November 2023](2023-11-21-IOResearch.html) | I&O Research | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.7–3.4% |
@@ -44,7 +46,7 @@ Last result: **6.8%** (General Election of 23 May 2019)
 | [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl | 2.6% | 2.3–3.0% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [23–25 June 2023](2023-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 3.7% | 3.1–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
-| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 2.6% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
+| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [9–12 June 2023](2023-06-12-IOResearch.html) | I&O Research | 3.3% | 2.9–3.8% | 2.7–4.0% | 2.7–4.1% | 2.5–4.4% |
 | [26–29 May 2023](2023-05-29-Ipsos.html) | Ipsos <br> EenVandaag | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
 | [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
@@ -310,10 +312,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 65% | 99.9% | Median |
-| 2.5–3.5% | 34% | 35% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 74% | 98% | Median |
+| 2.5–3.5% | 24% | 24% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
@@ -327,9 +330,11 @@ Last result: **1** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–11 December 2023](2023-12-11-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
+| [1–2 December 2023](2023-12-02-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [21 November 2023](2023-11-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [19–21 November 2023](2023-11-21-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0 | 0 | 0 | 0–1 |
+| [19–21 November 2023](2023-11-21-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–21 November 2023](2023-11-21-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0–1 |
 | [18–20 November 2023](2023-11-20-IOResearch.html) | I&O Research | 0 | 0 | 0 | 0 | 0 |
 | [17–18 November 2023](2023-11-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
@@ -629,8 +634,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Median |
-| 1 | 0.7% | 0.7% | Last Result |
+| 0 | 86% | 100% | Median |
+| 1 | 14% | 14% | Last Result |
 | 2 | 0% | 0% |  |
 
 
