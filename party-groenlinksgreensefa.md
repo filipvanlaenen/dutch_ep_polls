@@ -10,10 +10,8 @@ Last result: **10.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.6–9.2% | 7.3–9.5% | 7.0–9.8% | 6.5–10.5% |
-| [2–3 February 2024](2024-02-03-Peilnl.html) | Peil.nl | 8.3% | 7.8–8.9% | 7.7–9.0% | 7.5–9.2% | 7.3–9.4% |
-| [26–29 January 2024](2024-01-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.8–10.2% | 6.3–10.8% |
-| [19–20 January 2024](2024-01-20-Peilnl.html) | Peil.nl | 7.6% | 7.2–8.1% | 7.1–8.3% | 7.0–8.4% | 6.8–8.6% |
+| N/A | [Poll Average](average.html) | 8.5% | 7.0–10.1% | 6.7–10.6% | 6.3–11.1% | 5.8–12.0% |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 8.4% | 7.0–10.2% | 6.7–10.6% | 6.3–11.1% | 5.7–12.0% |
 | [22 December 2023](2023-12-22-Peilnl.html) | Peil.nl | 7.3% | 6.7–8.0% | 6.6–8.1% | 6.4–8.3% | 6.2–8.6% |
 | [15–18 December 2023](2023-12-18-Ipsos.html) | Ipsos <br> EenVandaag | 6.8% | 5.9–8.0% | 5.7–8.3% | 5.5–8.5% | 5.1–9.1% |
 | [8–11 December 2023](2023-12-11-IOResearch.html) | I&O Research | 7.7% | 7.1–8.3% | 6.9–8.5% | 6.7–8.7% | 6.5–9.0% |
@@ -317,14 +315,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 9% | 99.4% |  |
-| 7.5–8.5% | 55% | 90% | Median |
-| 8.5–9.5% | 30% | 35% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 0.4% | 0.4% | Last Result |
-| 11.5–12.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 4% | 99.7% |  |
+| 6.5–7.5% | 16% | 96% |  |
+| 7.5–8.5% | 31% | 80% |  |
+| 8.5–9.5% | 29% | 49% | Median |
+| 9.5–10.5% | 14% | 20% |  |
+| 10.5–11.5% | 5% | 6% | Last Result |
+| 11.5–12.5% | 0.9% | 1.1% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -335,10 +336,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| [2–3 February 2024](2024-02-03-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
-| [26–29 January 2024](2024-01-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [19–20 January 2024](2024-01-20-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–5 | 3–5 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 3 | 3 | 3 | 3–5 | 3–5 |
 | [22 December 2023](2023-12-22-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–18 December 2023](2023-12-18-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [8–11 December 2023](2023-12-11-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -644,10 +643,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 89% | 96% | Last Result, Median |
-| 4 | 7% | 7% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 96% | 99.7% | Last Result, Median |
+| 4 | 1.0% | 4% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 
