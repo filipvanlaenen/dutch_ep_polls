@@ -10,7 +10,8 @@ Last result: **14.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.1% | 10.3–13.9% | 9.9–14.5% | 9.5–15.0% | 8.8–16.0% |
+| N/A | [Poll Average](average.html) | 12.7% | 11.8–13.7% | 11.5–14.0% | 11.3–14.3% | 10.8–14.8% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 12.7% | 11.8–13.7% | 11.5–14.0% | 11.3–14.3% | 10.8–14.8% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 12.0% | 10.3–13.9% | 9.9–14.5% | 9.5–15.0% | 8.7–16.0% |
 | [22 December 2023](2023-12-22-Peilnl.html) | Peil.nl | 8.6% | 8.0–9.3% | 7.8–9.5% | 7.7–9.7% | 7.4–10.0% |
 | [15–18 December 2023](2023-12-18-Ipsos.html) | Ipsos <br> EenVandaag | 11.5% | 10.3–12.9% | 10.0–13.2% | 9.7–13.6% | 9.2–14.3% |
@@ -315,18 +316,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.3% | 100% |  |
-| 8.5–9.5% | 3% | 99.7% |  |
-| 9.5–10.5% | 10% | 97% |  |
-| 10.5–11.5% | 23% | 87% |  |
-| 11.5–12.5% | 28% | 64% | Median |
-| 12.5–13.5% | 21% | 37% |  |
-| 13.5–14.5% | 11% | 15% |  |
-| 14.5–15.5% | 4% | 5% | Last Result |
-| 15.5–16.5% | 0.9% | 1.1% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 6% | 99.9% |  |
+| 11.5–12.5% | 35% | 94% |  |
+| 12.5–13.5% | 45% | 59% | Median |
+| 13.5–14.5% | 13% | 15% |  |
+| 14.5–15.5% | 1.0% | 1.1% | Last Result |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -337,7 +334,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [22 December 2023](2023-12-22-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [15–18 December 2023](2023-12-18-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -644,10 +642,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 75% | 99.5% | Last Result, Median |
-| 5 | 23% | 24% |  |
-| 6 | 1.4% | 1.4% |  |
+| 4 | 16% | 100% | Last Result |
+| 5 | 81% | 84% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
 
