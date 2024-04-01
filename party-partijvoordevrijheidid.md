@@ -10,7 +10,8 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.4% | 21.2–23.6% | 20.9–24.0% | 20.6–24.3% | 20.0–24.9% |
+| N/A | [Poll Average](average.html) | 23.7% | 21.6–26.0% | 21.2–26.5% | 20.8–26.9% | 20.2–27.6% |
+| [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 25.0% | 23.7–26.5% | 23.3–26.9% | 23.0–27.2% | 22.3–27.9% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 22.4% | 21.2–23.7% | 20.9–24.0% | 20.5–24.3% | 20.0–24.9% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 24.9% | 22.6–27.4% | 21.9–28.1% | 21.4–28.7% | 20.3–29.9% |
 | [22 December 2023](2023-12-22-Peilnl.html) | Peil.nl | 31.9% | 30.8–33.0% | 30.5–33.3% | 30.3–33.6% | 29.7–34.1% |
@@ -332,14 +333,17 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 2% | 99.9% |  |
-| 20.5–21.5% | 16% | 98% |  |
-| 21.5–22.5% | 38% | 81% | Median |
-| 22.5–23.5% | 32% | 44% |  |
-| 23.5–24.5% | 10% | 12% |  |
-| 24.5–25.5% | 1.3% | 1.4% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 19.5–20.5% | 1.2% | 99.9% |  |
+| 20.5–21.5% | 8% | 98.8% |  |
+| 21.5–22.5% | 19% | 91% |  |
+| 22.5–23.5% | 19% | 71% |  |
+| 23.5–24.5% | 17% | 52% | Median |
+| 24.5–25.5% | 18% | 35% |  |
+| 25.5–26.5% | 12% | 16% |  |
+| 26.5–27.5% | 4% | 4% |  |
+| 27.5–28.5% | 0.6% | 0.6% |  |
+| 28.5–29.5% | 0% | 0% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -350,7 +354,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 9 | 8–10 | 8–10 | 8–10 |
+| [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 9 | 9 | 9 | 9–10 | 9–10 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [22 December 2023](2023-12-22-Peilnl.html) | Peil.nl | 12 | 12–13 | 12–13 | 12–13 | 12–14 |
@@ -666,10 +671,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 14% | 100% |  |
-| 9 | 78% | 86% | Median |
-| 10 | 8% | 8% |  |
-| 11 | 0.4% | 0.4% |  |
+| 8 | 7% | 100% |  |
+| 9 | 87% | 93% | Median |
+| 10 | 5% | 6% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
