@@ -340,7 +340,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
 | [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 2 | 2 | 2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 2 | 1–3 |
-| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [22 December 2023](2023-12-22-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
 | [15–18 December 2023](2023-12-18-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–11 December 2023](2023-12-11-IOResearch.html) | I&O Research | 1 | 1 | 1 | 1 | 0–1 |
