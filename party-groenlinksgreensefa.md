@@ -10,7 +10,8 @@ Last result: **10.9%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 8.6–10.2% | 8.4–10.4% | 8.2–10.6% | 7.9–11.1% |
+| N/A | [Poll Average](average.html) | 11.0% | 8.9–13.0% | 8.6–13.3% | 8.4–13.5% | 8.0–14.0% |
+| [3–4 May 2024](2024-05-04-Peilnl.html) | Peil.nl | 12.5% | 11.8–13.3% | 11.5–13.5% | 11.4–13.7% | 11.0–14.1% |
 | [12–15 April 2024](2024-04-15-IpsosIO.html) | Ipsos I&O | 9.3% | 8.6–10.2% | 8.4–10.4% | 8.2–10.7% | 7.8–11.1% |
 | [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 9.3% | 8.4–10.3% | 8.1–10.6% | 7.9–10.8% | 7.5–11.3% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.3% | 6.5–9.7% |
@@ -318,13 +319,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 9% | 99.9% |  |
-| 8.5–9.5% | 53% | 91% | Median |
-| 9.5–10.5% | 35% | 39% |  |
-| 10.5–11.5% | 3% | 3% | Last Result |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 4% | 100% |  |
+| 8.5–9.5% | 26% | 96% |  |
+| 9.5–10.5% | 18% | 69% |  |
+| 10.5–11.5% | 4% | 52% | Last Result, Median |
+| 11.5–12.5% | 23% | 47% |  |
+| 12.5–13.5% | 22% | 24% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -335,7 +338,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| [3–4 May 2024](2024-05-04-Peilnl.html) | Peil.nl | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–15 April 2024](2024-04-15-IpsosIO.html) | Ipsos I&O | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -645,8 +649,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 43% | 100% | Last Result |
-| 4 | 57% | 57% | Median |
-| 5 | 0% | 0% |  |
+| 3 | 21% | 100% | Last Result |
+| 4 | 54% | 79% | Median |
+| 5 | 16% | 25% |  |
+| 6 | 9% | 9% |  |
+| 7 | 0% | 0% |  |
 
 
