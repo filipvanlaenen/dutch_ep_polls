@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.5% | 0.5–1.7% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.6–1.0% | 0.6–1.1% | 0.5–1.2% | 0.4–1.3% |
+| [17–18 May 2024](2024-05-18-Peilnl.html) | Peil.nl | 0.8% | 0.6–1.0% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% |
 | [3–4 May 2024](2024-05-04-Peilnl.html) | Peil.nl | 0.8% | 0.6–1.0% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% |
 | [12–15 April 2024](2024-04-15-IpsosIO.html) | Ipsos I&O | 1.1% | 0.9–1.4% | 0.8–1.6% | 0.7–1.6% | 0.6–1.8% |
 | [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
@@ -319,10 +320,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 95% | 98% | Median |
-| 1.5–2.5% | 2% | 2% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 95% | 95% | Median |
+| 1.5–2.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -334,6 +334,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–18 May 2024](2024-05-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [3–4 May 2024](2024-05-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [12–15 April 2024](2024-04-15-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
 | [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
