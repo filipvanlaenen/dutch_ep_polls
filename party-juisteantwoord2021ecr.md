@@ -11,7 +11,10 @@ Last result: **0.0%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.6–1.0% | 0.6–1.1% | 0.5–1.2% | 0.4–1.3% |
+| [24–27 May 2024](2024-05-27-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 May 2024](2024-05-21-IpsosIO.html) | Ipsos I&O | 1.4% | N/A | N/A | N/A | N/A |
 | [17–18 May 2024](2024-05-18-Peilnl.html) | Peil.nl | 0.8% | 0.6–1.0% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% |
+| [10–14 May 2024](2024-05-14-IpsosIO.html) | Ipsos I&O | 0.8% | N/A | N/A | N/A | N/A |
 | [3–4 May 2024](2024-05-04-Peilnl.html) | Peil.nl | 0.8% | 0.6–1.0% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% |
 | [12–15 April 2024](2024-04-15-IpsosIO.html) | Ipsos I&O | 1.1% | 0.9–1.4% | 0.8–1.6% | 0.7–1.6% | 0.6–1.8% |
 | [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
@@ -334,7 +337,10 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–27 May 2024](2024-05-27-IpsosIO.html) | Ipsos I&O <br> EenVandaag |  |  |  |  |  |
+| [17–21 May 2024](2024-05-21-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
 | [17–18 May 2024](2024-05-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [10–14 May 2024](2024-05-14-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
 | [3–4 May 2024](2024-05-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [12–15 April 2024](2024-04-15-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
 | [22–25 March 2024](2024-03-25-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
