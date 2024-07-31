@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.4–3.9% | 2.3–4.2% | 2.2–4.4% | 2.0–4.9% |
+| [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
 | [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
@@ -39,7 +40,8 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 0 | 0 | 0 | 0–1 | 0–1 |
 | [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
 | [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -53,9 +55,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 18% | 22% |  |
-| 2 | 4% | 4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
+| 2 | 0% | 0% |  |
 
 
