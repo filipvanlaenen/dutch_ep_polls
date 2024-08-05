@@ -13,8 +13,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | N/A | [Poll Average](average.html) | 25.8% | 24.5–27.8% | 24.1–28.4% | 23.8–28.9% | 23.2–29.9% |
 | [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 26.6% | 24.8–28.4% | 24.4–28.9% | 23.9–29.4% | 23.1–30.3% |
 | [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl | 25.3% | 24.3–26.3% | 24.0–26.6% | 23.8–26.9% | 23.3–27.4% |
-| [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl | 27.3% | 26.3–28.4% | 26.0–28.7% | 25.7–28.9% | 25.2–29.4% |
-| [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
+| [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl | 27.3% | N/A | N/A | N/A | N/A |
+| [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 29.3% | N/A | N/A | N/A | N/A |
 | [14–17 June 2024](2024-06-17-IpsosIO.html) | Ipsos I&O | 27.1% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -69,8 +69,8 @@ Last result: **0** seats (General Election of 6 June 2024)
 | N/A | [Poll Average](average.html) | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl | 11 | 10–11 | 9–11 | 9–11 | 9–11 |
-| [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
+| [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag |  |  |  |  |  |
 | [14–17 June 2024](2024-06-17-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
 
 ### Probability Mass Function
