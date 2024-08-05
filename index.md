@@ -30,7 +30,7 @@ Only polls for which at least the sample size has been published are included in
 + **SGP:** Staatkundig Gereformeerde Partij (ECR)
 + **JA21:** Juiste Antwoord 2021 (ECR)
 + **PVV:** Partij voor de Vrijheid (PfE)
-+ **FvD:** Forum voor Democratie (NI)
++ **FvD:** Forum voor Democratie (ESN)
 + **DENK:** DENK (*)
 + **PP:** Piratenpartij (*)
 + **B1:** Bij1 (*)
