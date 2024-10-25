@@ -73,11 +73,11 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
-| [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 12 | 10–12 | 10–12 | 10–12 | 10–12 |
-| [20–23 September 2024](2024-09-23-IpsosIO.html) | Ipsos I&O | 9 | 9–10 | 9–11 | 9–11 | 9–11 |
+| [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [20–23 September 2024](2024-09-23-IpsosIO.html) | Ipsos I&O | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [13–16 September 2024](2024-09-16-IpsosIO.html) | Ipsos I&O | 11 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [14–15 September 2024](2024-09-15-Peilnl.html) | Peil.nl | 10 | 10 | 10 | 10 | 10 |
 | [23–26 August 2024](2024-08-26-Verian.html) | Verian <br> EenVandaag | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
@@ -104,10 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 29% | 100% |  |
-| 10 | 38% | 71% | Median |
-| 11 | 11% | 33% |  |
-| 12 | 22% | 22% |  |
+| 9 | 17% | 100% |  |
+| 10 | 56% | 83% | Median |
+| 11 | 18% | 27% |  |
+| 12 | 9% | 9% |  |
 | 13 | 0% | 0% |  |
 
 
