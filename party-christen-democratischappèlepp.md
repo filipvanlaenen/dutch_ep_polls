@@ -54,7 +54,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
+| [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–23 September 2024](2024-09-23-IpsosIO.html) | Ipsos I&O | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–16 September 2024](2024-09-16-IpsosIO.html) | Ipsos I&O | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
