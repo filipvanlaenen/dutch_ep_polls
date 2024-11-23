@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O | 23.7% | 22.5–25.0% | 22.2–25.3% | 21.9–25.6% | 21.3–26.2% |
 | [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl | 25.3% | 24.3–26.3% | 24.0–26.6% | 23.8–26.9% | 23.3–27.4% |
 | [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 25.9% | 24.6–27.4% | 24.2–27.8% | 23.8–28.2% | 23.2–28.8% |
-| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 24.8% | N/A | N/A | N/A | N/A |
+| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 24.8% | 23.6–26.0% | 23.3–26.4% | 23.0–26.7% | 22.4–27.3% |
 | [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 24.6% | 23.6–25.7% | 23.4–26.0% | 23.1–26.2% | 22.6–26.7% |
 | [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 26.6% | 25.6–27.7% | 25.3–28.0% | 25.1–28.3% | 24.6–28.8% |
 | [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 27.3% | 25.9–28.8% | 25.5–29.2% | 25.2–29.6% | 24.5–30.3% |
@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O | 9 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl | 12 | 11–12 | 10–12 | 9–12 | 9–12 |
 | [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 11 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
