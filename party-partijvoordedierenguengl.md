@@ -56,8 +56,8 @@ Last result: **0** seats (General Election of 6 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 1 | 1 | 1 | 1 | 1–2 |
-| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 1 | 1 | 1 | 1–2 | 1–2 |
+| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -80,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% | Last Result |
-| 1 | 48% | 67% | Median |
-| 2 | 19% | 19% |  |
+| 1 | 36% | 67% | Median |
+| 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
 
 
