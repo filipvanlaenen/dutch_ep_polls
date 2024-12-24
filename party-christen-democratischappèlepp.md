@@ -66,7 +66,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | [13–14 December 2024](2024-12-14-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–9 December 2024](2024-12-09-IpsosIO.html) | Ipsos I&O | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [22–25 November 2024](2024-11-25-Verian.html) | Verian <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [22–23 November 2024](2024-11-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
+| [22–23 November 2024](2024-11-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 3–4 |
 | [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
