@@ -6,52 +6,76 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 23 Jul 2024 18:38:47 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos I&amp;O, 14–17 February 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Ipsos I&O, 14–17 February 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO-seating-plan.png" length="411890" type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 20:00:33 +0100</pubDate>
+      <dc:date>2025-02-20T20:00:33.894465357+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos I&amp;O, 14–17 February 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Ipsos I&O, 14–17 February 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO-seats.png" length="389828" type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 20:00:33 +0100</pubDate>
+      <dc:date>2025-02-20T20:00:33.894465357+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos I&amp;O, 14–17 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos I&O, 14–17 February 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-02-17-IpsosIO.png" length="463946" type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 20:00:33 +0100</pubDate>
+      <dc:date>2025-02-20T20:00:33.894465357+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Verian for EenVandaag, 24–27 January 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Verian for EenVandaag, 24–27 January 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian-seating-plan.png" length="422556" type="image/png"/>
-      <pubDate>Wed, 19 Feb 2025 22:08:50 +0100</pubDate>
-      <dc:date>2025-02-19T22:08:50.002269311+01:00</dc:date>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian-seating-plan.png" length="407078" type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 18:18:43 +0100</pubDate>
+      <dc:date>2025-02-20T18:18:43.891211265+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for EenVandaag, 24–27 January 2025 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.html#seats</link>
       <description><![CDATA[Seat projections for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Verian for EenVandaag, 24–27 January 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian-seats.png" length="382583" type="image/png"/>
-      <pubDate>Wed, 19 Feb 2025 22:08:50 +0100</pubDate>
-      <dc:date>2025-02-19T22:08:50.002269311+01:00</dc:date>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian-seats.png" length="368107" type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 18:18:43 +0100</pubDate>
+      <dc:date>2025-02-20T18:18:43.891211265+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for EenVandaag, 24–27 January 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verian for EenVandaag, 24–27 January 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-27-Verian.png" length="475652" type="image/png"/>
-      <pubDate>Wed, 19 Feb 2025 22:08:50 +0100</pubDate>
-      <dc:date>2025-02-19T22:08:50.002269311+01:00</dc:date>
+      <pubDate>Thu, 20 Feb 2025 18:18:43 +0100</pubDate>
+      <dc:date>2025-02-20T18:18:43.891211265+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 24–25 January 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Peil.nl, 24–25 January 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl-seating-plan.png" length="393965" type="image/png"/>
-      <pubDate>Wed, 19 Feb 2025 22:31:22 +0100</pubDate>
-      <dc:date>2025-02-19T22:31:22.055221204+01:00</dc:date>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl-seating-plan.png" length="404891" type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 18:35:58 +0100</pubDate>
+      <dc:date>2025-02-20T18:35:58.755690932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 24–25 January 2025 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.html#seats</link>
       <description><![CDATA[Seat projections for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Peil.nl, 24–25 January 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl-seats.png" length="379922" type="image/png"/>
-      <pubDate>Wed, 19 Feb 2025 22:31:22 +0100</pubDate>
-      <dc:date>2025-02-19T22:31:22.055221204+01:00</dc:date>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl-seats.png" length="371424" type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 18:35:58 +0100</pubDate>
+      <dc:date>2025-02-20T18:35:58.755690932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 24–25 January 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 24–25 January 2025<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-01-25-Peilnl.png" length="451165" type="image/png"/>
-      <pubDate>Wed, 19 Feb 2025 22:31:22 +0100</pubDate>
-      <dc:date>2025-02-19T22:31:22.055221204+01:00</dc:date>
+      <pubDate>Thu, 20 Feb 2025 18:35:58 +0100</pubDate>
+      <dc:date>2025-02-20T18:35:58.755690932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos I&amp;O, 17–20 January 2025 – Seating Plan Projection</title>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-11-IpsosIO.png" length="461258" type="image/png"/>
       <pubDate>Sun, 24 Nov 2024 18:27:46 +0100</pubDate>
       <dc:date>2024-11-24T18:27:46.572240617+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 8–9 November 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Peil.nl, 8–9 November 2024<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl-seating-plan.png" length="391679" type="image/png"/>
-      <pubDate>Sun, 24 Nov 2024 18:57:19 +0100</pubDate>
-      <dc:date>2024-11-24T18:57:19.509784603+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 8–9 November 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>16 seats needed for a majority<br/>Opinion poll by Peil.nl, 8–9 November 2024<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl-seats.png" length="350706" type="image/png"/>
-      <pubDate>Sun, 24 Nov 2024 18:57:19 +0100</pubDate>
-      <dc:date>2024-11-24T18:57:19.509784603+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 8–9 November 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Peil.nl, 8–9 November 2024<br/>Details on https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2024-11-09-Peilnl.png" length="445590" type="image/png"/>
-      <pubDate>Sun, 24 Nov 2024 18:57:19 +0100</pubDate>
-      <dc:date>2024-11-24T18:57:19.509784603+01:00</dc:date>
     </item>
   </channel>
 </rss>
