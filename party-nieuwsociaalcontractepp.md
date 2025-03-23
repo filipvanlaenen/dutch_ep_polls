@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.6–2.9% | 1.4–3.2% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.4% | 1.1–2.5% | 1.0–2.7% | 0.8–2.9% |
+| [14–17 March 2025](2025-03-17-IpsosIO.html) | Ipsos I&O | 2.1% | 1.8–2.6% | 1.7–2.7% | 1.6–2.8% | 1.4–3.1% |
+| [7–8 March 2025](2025-03-08-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [21–24 February 2025](2025-02-24-Verian.html) | Verian <br> EenVandaag | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.3% |
+| [21–22 February 2025](2025-02-22-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [14–17 February 2025](2025-02-17-IpsosIO.html) | Ipsos I&O | 2.1% | 1.7–2.5% | 1.6–2.7% | 1.6–2.8% | 1.4–3.0% |
 | [24–27 January 2025](2025-01-27-Verian.html) | Verian <br> EenVandaag | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
 | [24–25 January 2025](2025-01-25-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -44,11 +48,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 87% | 98% | Median |
-| 2.5–3.5% | 11% | 11% |  |
+| 0.5–1.5% | 26% | 100% |  |
+| 1.5–2.5% | 70% | 74% | Median |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0% | 0% |  |
-| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -60,6 +63,10 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–17 March 2025](2025-03-17-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
+| [7–8 March 2025](2025-03-08-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [21–24 February 2025](2025-02-24-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
+| [21–22 February 2025](2025-02-22-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [14–17 February 2025](2025-02-17-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
 | [24–27 January 2025](2025-01-27-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [24–25 January 2025](2025-01-25-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
