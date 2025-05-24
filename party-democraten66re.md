@@ -76,10 +76,10 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 2 | 2 | 2 | 2 | 2–3 |
 | [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
 | [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -123,8 +123,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 27% | 100% |  |
-| 2 | 13% | 73% |  |
+| 1 | 7% | 100% |  |
+| 2 | 33% | 93% |  |
 | 3 | 59% | 60% | Median |
 | 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
