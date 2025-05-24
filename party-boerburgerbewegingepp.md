@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | N/A | [Poll Average](average.html) | 2.4% | 1.9–3.0% | 1.7–3.1% | 1.7–3.3% | 1.5–3.6% |
 | [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.6% |
 | [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 2.4% | 2.0–3.0% | 1.9–3.2% | 1.8–3.3% | 1.6–3.6% |
+| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
 | [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -72,6 +73,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0–1 | 0–1 |
 | [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
+| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 1 | 1 | 1 | 0–1 | 0–1 |
 | [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |

@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | N/A | [Poll Average](average.html) | 9.2% | 8.2–10.1% | 7.9–10.4% | 7.7–10.6% | 7.2–11.0% |
 | [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 9.1% | 8.3–9.9% | 8.1–10.1% | 7.9–10.3% | 7.6–10.8% |
 | [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 8.6% | 7.8–9.6% | 7.5–9.9% | 7.3–10.1% | 7.0–10.6% |
+| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 9.7% | 9.0–10.4% | 8.8–10.6% | 8.7–10.8% | 8.4–11.1% |
 | [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 8.4% | 7.6–9.3% | 7.4–9.5% | 7.2–9.7% | 6.9–10.1% |
 | [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 9.7% | 9.0–10.4% | 8.8–10.6% | 8.7–10.8% | 8.4–11.1% |
 | [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
@@ -76,9 +77,10 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -124,9 +126,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 37% | 100% |  |
-| 4 | 62% | 62% | Median |
-| 5 | 0.3% | 0.3% |  |
+| 3 | 62% | 100% | Median |
+| 4 | 37% | 38% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 
