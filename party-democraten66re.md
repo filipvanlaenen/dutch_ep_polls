@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.1–8.5% | 5.8–8.9% | 5.5–9.1% | 5.1–9.7% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.5–8.5% | 6.3–8.9% | 6.0–9.1% | 5.6–9.7% |
+| [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag | 6.9% | 6.1–7.8% | 5.9–8.1% | 5.7–8.3% | 5.4–8.7% |
 | [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl | 7.3% | 6.7–8.0% | 6.6–8.1% | 6.4–8.3% | 6.2–8.6% |
 | [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag | 6.4% | 5.6–7.3% | 5.4–7.5% | 5.2–7.7% | 4.9–8.2% |
 | [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O | 8.1% | 7.3–9.0% | 7.1–9.3% | 6.9–9.5% | 6.6–10.0% |
@@ -72,10 +73,10 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 19% | 97% |  |
-| 6.5–7.5% | 39% | 79% | Median |
-| 7.5–8.5% | 30% | 40% |  |
+| 4.5–5.5% | 0.4% | 100% |  |
+| 5.5–6.5% | 11% | 99.6% |  |
+| 6.5–7.5% | 45% | 89% | Median |
+| 7.5–8.5% | 35% | 44% |  |
 | 8.5–9.5% | 9% | 10% |  |
 | 9.5–10.5% | 0.7% | 0.7% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -90,6 +91,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag | 2 | 2 | 2 | 2–3 | 2–3 |
 | [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -149,9 +151,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 35% | 99.9% |  |
-| 3 | 64% | 65% | Median |
+| 1 | 0% | 100% |  |
+| 2 | 30% | 100% |  |
+| 3 | 69% | 70% | Median |
 | 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
