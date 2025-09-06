@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 04 Sep 2025 22:11:07 +0200</pubDate>
+    <pubDate>Sat, 06 Sep 2025 21:40:50 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos I&amp;O for Pauw &amp; De Wit, 29 August–1 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-09-01-IpsosIO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 2 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0–1 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (PfE): 7–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nieuw Sociaal Contract (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ESN): 0 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-09-01-IpsosIO-seats.png"
+        length="362836"
+        type="image/png"/>
+      <pubDate>Sat, 06 Sep 2025 21:40:50 +0200</pubDate>
+      <dc:date>2025-09-06T21:40:50.698441+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos I&amp;O for Pauw &amp; De Wit, 29 August–1 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-09-01-IpsosIO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-09-01-IpsosIO-coalitions-seats.png"
+        length="225620"
+        type="image/png"/>
+      <pubDate>Sat, 06 Sep 2025 21:40:50 +0200</pubDate>
+      <dc:date>2025-09-06T21:40:50.698441+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos I&amp;O for Pauw &amp; De Wit, 29 August–1 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-09-01-IpsosIO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 5.1–7.2%&lt;/li&gt;&lt;li&gt;DENK (*): 2.0–3.4%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (EPP): 3.3–5.1%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (PfE): 17.8–21.3%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 3.0–4.8%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1.7–3.1%&lt;/li&gt;&lt;li&gt;Nieuw Sociaal Contract (EPP): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 8.5–11.1%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ESN): 1.5–2.7%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 6.3–8.6%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 6.3–8.6%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 3.5–5.3%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 6.3–8.6%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 14.6–17.8%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 2.3–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2025-09-01-IpsosIO.png"
+        length="484360"
+        type="image/png"/>
+      <pubDate>Sat, 06 Sep 2025 21:40:50 +0200</pubDate>
+      <dc:date>2025-09-06T21:40:50.698441+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Verian for EenVandaag, 22–25 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2025-08-25-Verian.html#seats</link>
@@ -1359,6 +1389,6 @@
       <pubDate>Mon, 23 Sep 2024 20:35:05 +0200</pubDate>
       <dc:date>2024-09-23T20:35:05.97919+02:00</dc:date>
     </item>
-    <dc:date>2025-09-04T22:11:07.976513+02:00</dc:date>
+    <dc:date>2025-09-06T21:40:50.698441+02:00</dc:date>
   </channel>
 </rss>
