@@ -11,9 +11,12 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% | 1.5–3.6% |
+| [19 September 2025](2025-09-19-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [13–15 September 2025](2025-09-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.5–3.3% |
+| [6 September 2025](2025-09-06-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
 | [29 August–1 September 2025](2025-09-01-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.9% | 2.5–3.5% | 2.4–3.6% | 2.3–3.7% | 2.1–4.0% |
 | [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.8% |
+| [25 August 2025](2025-08-25-Peilnl.html) | Peil.nl | 2.0% | 1.8–2.2% | 1.7–2.3% | 1.6–2.4% | 1.6–2.5% |
 | [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.3% |
 | [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O | 2.5% | 2.1–3.0% | 1.9–3.2% | 1.8–3.3% | 1.7–3.6% |
@@ -87,9 +90,12 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19 September 2025](2025-09-19-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [13–15 September 2025](2025-09-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0 | 0 | 0 |
+| [6 September 2025](2025-09-06-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [29 August–1 September 2025](2025-09-01-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25 August 2025](2025-08-25-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0–1 |
