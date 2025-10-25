@@ -10,12 +10,13 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.1% | 17.8–23.2% | 17.5–23.8% | 17.2–24.2% | 16.8–25.0% |
+| N/A | [Poll Average](average.html) | 18.6% | 16.3–23.2% | 16.0–23.8% | 15.7–24.2% | 15.2–25.0% |
+| [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 16.7% | 15.8–17.6% | 15.5–17.9% | 15.3–18.1% | 14.9–18.6% |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 22.6% | 21.2–24.1% | 20.9–24.5% | 20.5–24.8% | 19.9–25.5% |
 | [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl | 18.6% | 17.7–19.5% | 17.5–19.8% | 17.2–20.0% | 16.8–20.5% |
 | [13–15 October 2025](2025-10-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 18.5% | 17.5–19.5% | 17.2–19.8% | 17.0–20.1% | 16.5–20.6% |
 | [10–13 October 2025](2025-10-13-Verian.html) | Verian <br> EenVandaag | 20.6% | 19.4–22.0% | 19.0–22.4% | 18.7–22.7% | 18.1–23.4% |
-| [10 October 2025](2025-10-10-Peilnl.html) | Peil.nl | 20.6% | 19.7–21.6% | 19.4–21.9% | 19.2–22.1% | 18.7–22.6% |
+| [10 October 2025](2025-10-10-Peilnl.html) | Peil.nl | 20.6% | N/A | N/A | N/A | N/A |
 | [3–6 October 2025](2025-10-06-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 20.2% | 19.1–21.4% | 18.8–21.7% | 18.5–22.0% | 18.0–22.6% |
 | [3 October 2025](2025-10-03-Peilnl.html) | Peil.nl | 19.9% | 19.0–20.9% | 18.8–21.2% | 18.5–21.4% | 18.1–21.9% |
 | [26–29 September 2025](2025-09-29-Verian.html) | Verian <br> EenVandaag | 22.0% | 20.4–23.7% | 20.0–24.1% | 19.6–24.6% | 18.9–25.4% |
@@ -98,14 +99,14 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 5% | 99.8% |  |
-| 17.5–18.5% | 27% | 94% |  |
-| 18.5–19.5% | 28% | 67% | Median |
-| 19.5–20.5% | 7% | 40% |  |
+| 14.5–15.5% | 2% | 100% |  |
+| 15.5–16.5% | 12% | 98% |  |
+| 16.5–17.5% | 17% | 86% |  |
+| 17.5–18.5% | 17% | 69% |  |
+| 18.5–19.5% | 15% | 51% | Median |
+| 19.5–20.5% | 4% | 36% |  |
 | 20.5–21.5% | 5% | 33% |  |
-| 21.5–22.5% | 11% | 28% |  |
+| 21.5–22.5% | 10% | 28% |  |
 | 22.5–23.5% | 11% | 18% |  |
 | 23.5–24.5% | 5% | 7% |  |
 | 24.5–25.5% | 1.2% | 1.4% |  |
@@ -121,12 +122,13 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 7 | 7–9 | 6–10 | 6–10 | 6–10 |
+| [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 8 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [13–15 October 2025](2025-10-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [10–13 October 2025](2025-10-13-Verian.html) | Verian <br> EenVandaag | 9 | 8–9 | 8–9 | 7–9 | 7–9 |
-| [10 October 2025](2025-10-10-Peilnl.html) | Peil.nl | 8 | 8 | 7–8 | 7–9 | 7–9 |
+| [10 October 2025](2025-10-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [3–6 October 2025](2025-10-06-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [3 October 2025](2025-10-03-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [26–29 September 2025](2025-09-29-Verian.html) | Verian <br> EenVandaag | 8 | 8 | 8–9 | 8–9 | 8–10 |
@@ -202,9 +204,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.6% | 100% |  |
-| 7 | 38% | 99.4% |  |
-| 8 | 48% | 62% | Median |
+| 6 | 10% | 100% |  |
+| 7 | 43% | 90% | Median |
+| 8 | 35% | 48% |  |
 | 9 | 4% | 13% |  |
 | 10 | 9% | 9% |  |
 | 11 | 0% | 0% |  |
