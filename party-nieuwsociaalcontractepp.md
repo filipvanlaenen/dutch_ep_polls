@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–0.9% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–0.9% |
+| [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.2% | 0.1–0.3% | 0.1–0.3% | 0.1–0.3% |
 | [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0.5% | 0.4–0.7% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
@@ -98,6 +99,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0 | 0 | 0 |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
