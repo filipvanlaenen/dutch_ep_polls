@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.5% | 1.2–2.6% | 1.2–2.7% | 1.1–3.0% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.7–2.4% |
+| [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
+| [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.2–2.2% | 1.1–2.4% |
+| [27 October 2025](2025-10-27-Verian.html) | Verian <br> EenVandaag | 1.3% | 0.9–1.9% | 0.9–2.0% | 0.8–2.2% | 0.6–2.5% |
 | [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 1.3% | 1.2–1.5% | 1.1–1.6% | 1.1–1.6% | 1.0–1.7% |
 | [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.2% | 1.9–2.6% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
@@ -86,9 +89,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 34% | 100% |  |
-| 1.5–2.5% | 59% | 66% | Median |
-| 2.5–3.5% | 7% | 7% |  |
+| 0.5–1.5% | 64% | 100% | Median |
+| 1.5–2.5% | 36% | 36% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -101,6 +104,9 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0 | 0 | 0 |
+| [27 October 2025](2025-10-27-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0 | 0 | 0 |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
