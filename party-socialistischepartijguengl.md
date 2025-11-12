@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.4–3.7% | 2.3–4.0% | 2.2–4.3% | 2.0–4.7% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.7% | 1.8–4.0% | 1.7–4.3% | 1.5–4.7% |
+| [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.7% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% | 2.0–3.7% |
 | [27 October 2025](2025-10-27-Verian.html) | Verian <br> EenVandaag | 3.4% | 2.7–4.2% | 2.6–4.4% | 2.4–4.6% | 2.2–5.0% |
@@ -89,9 +90,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 21% | 100% |  |
-| 2.5–3.5% | 65% | 79% | Median |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 42% | 99.2% |  |
+| 2.5–3.5% | 43% | 57% | Median |
 | 3.5–4.5% | 13% | 14% |  |
 | 4.5–5.5% | 1.0% | 1.0% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -106,6 +107,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0 | 0 | 0 |
 | [27 October 2025](2025-10-27-Verian.html) | Verian <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
