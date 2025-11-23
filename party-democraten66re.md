@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.7–19.0% | 14.4–19.4% | 14.1–19.7% | 13.5–20.2% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.7–19.0% | 14.3–19.4% | 14.1–19.7% | 13.5–20.2% |
+| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 18.6% | 17.7–19.6% | 17.5–19.8% | 17.3–20.1% | 16.9–20.5% |
 | [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 18.6% | 17.7–19.6% | 17.5–19.8% | 17.3–20.1% | 16.9–20.5% |
+| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 15.8% | 14.4–17.3% | 14.1–17.7% | 13.7–18.1% | 13.1–18.9% |
 | [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 14.6% | 13.8–15.5% | 13.6–15.7% | 13.4–16.0% | 13.0–16.4% |
 | [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 15.4% | 14.5–16.4% | 14.3–16.6% | 14.0–16.9% | 13.6–17.3% |
-| [27 October 2025](2025-10-27-Verian.html) | Verian <br> EenVandaag | 15.9% | 14.6–17.4% | 14.2–17.9% | 13.9–18.2% | 13.2–19.0% |
 | [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 11.3% | 10.8–11.8% | 10.7–11.9% | 10.6–12.0% | 10.4–12.3% |
 | [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 14.4% | 13.5–15.3% | 13.3–15.5% | 13.1–15.8% | 12.7–16.2% |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 10.7% | 9.7–11.8% | 9.4–12.1% | 9.2–12.3% | 8.7–12.9% |
@@ -102,11 +103,11 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.5% | 100% |  |
-| 13.5–14.5% | 6% | 99.5% |  |
-| 14.5–15.5% | 24% | 93% |  |
-| 15.5–16.5% | 24% | 69% | Median |
-| 16.5–17.5% | 11% | 45% |  |
+| 12.5–13.5% | 0.6% | 100% |  |
+| 13.5–14.5% | 7% | 99.3% |  |
+| 14.5–15.5% | 24% | 92% |  |
+| 15.5–16.5% | 24% | 68% | Median |
+| 16.5–17.5% | 10% | 44% |  |
 | 17.5–18.5% | 15% | 34% |  |
 | 18.5–19.5% | 15% | 19% |  |
 | 19.5–20.5% | 3% | 3% |  |
@@ -122,11 +123,12 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 5 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 6 | 6 | 6 | 6 | 6–7 |
-| [27 October 2025](2025-10-27-Verian.html) | Verian <br> EenVandaag | 5 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
 | [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -207,11 +209,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 20% | 100% |  |
-| 6 | 42% | 80% | Median |
-| 7 | 36% | 38% |  |
-| 8 | 2% | 2% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 19% | 99.9% |  |
+| 6 | 51% | 81% | Median |
+| 7 | 27% | 30% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 
