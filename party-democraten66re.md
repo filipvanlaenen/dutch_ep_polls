@@ -123,10 +123,10 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 7 | 7 | 7–8 | 7–8 | 6–8 |
-| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 5 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 6 | 6 | 6 | 6 | 6–7 |
 | [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
@@ -209,11 +209,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 19% | 99.9% |  |
-| 6 | 51% | 81% | Median |
-| 7 | 27% | 30% |  |
-| 8 | 3% | 3% |  |
+| 4 | 0% | 100% |  |
+| 5 | 2% | 100% |  |
+| 6 | 67% | 98% | Median |
+| 7 | 30% | 31% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 
