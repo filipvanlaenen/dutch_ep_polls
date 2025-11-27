@@ -4,15 +4,13 @@
 
 ## Summary
 
-The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
+The table below lists the polls on which the average is based. They are the most recent polls (less than 22 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | PvdD | SP | GL | Volt | PvdA | D66 | VVD | CDA | CU | 50+ | BBB | NSC | SGP | JA21 | PVV | FvD | DENK | PP | B1 | PvdT | CO | Spl | BVNL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 1–3% <br> 0 | 2–4% <br> 0–1 | 5–9% <br> 2–3 | 0–2% <br> 0 | 5–9% <br> 2–3 | 14–20% <br> 6–7 | 9–16% <br> 4–6 | 10–14% <br> 4–5 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–1 | 0–1% <br> 0 | 2–3% <br> 0 | 5–8% <br> 1–2 | 14–20% <br> 5–7 | 3–7% <br> 1–2 | 2–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 2–3% <br> 0 | 2–3% <br> 0 | 5–7% <br> 2–3 | 0–1% <br> 0 | 5–7% <br> 2–3 | 17–20% <br> 6–8 | 14–17% <br> 5–6 | 10–12% <br> 4 | 2–3% <br> 0 | 1–2% <br> 0 | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 5–7% <br> 1–2 | 14–17% <br> 5–6 | 6–8% <br> 2 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 2–3% <br> 0 | 2–3% <br> 0 | 5–7% <br> 2–3 | 0–1% <br> 0 | 5–7% <br> 2–3 | 17–20% <br> 6–8 | 14–17% <br> 5–6 | 10–12% <br> 4 | 2–3% <br> 0 | 1–2% <br> 0 | 2–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 5–7% <br> 1–2 | 14–17% <br> 5–6 | 6–8% <br> 2 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 1–3% <br> 0 | 3–5% <br> 0–1 | 6–10% <br> 2–4 | 1–2% <br> 0 | 6–10% <br> 2–3 | 14–18% <br> 5–7 | 9–12% <br> 4–5 | 11–15% <br> 4–5 | 1–3% <br> 0–1 | 1–3% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 4–7% <br> 1–2 | 16–21% <br> 7 | 3–5% <br> 0–1 | 2–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2–3% <br> 0 | 2–3% <br> 0 | 7–9% <br> 3 | 1–2% <br> 0 | 7–9% <br> 3 | 14–17% <br> 6 | 10–12% <br> 4 | 11–14% <br> 5 | 2–3% <br> 0 | 2–3% <br> 0 | 3–4% <br> 0–1 | 0–1% <br> 0 | 2–3% <br> 0 | 6–8% <br> 2–3 | 13–16% <br> 6 | 3–5% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 6 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -54,23 +52,23 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 0.0% | 2.1% | 1.4–2.8% |1.3–3.0% | 1.2–3.1% | 0.9–3.4% |
-| <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0.0% | 2.7% | 1.9–3.8% |1.8–4.1% | 1.7–4.4% | 1.5–4.9% |
-| <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 0.0% | 7.3% | 5.8–8.5% |5.6–8.9% | 5.4–9.2% | 5.1–9.9% |
-| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0.0% | 1.4% | 0.6–1.9% |0.5–2.1% | 0.5–2.2% | 0.4–2.5% |
-| <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 0.0% | 7.3% | 5.8–8.5% |5.6–8.9% | 5.4–9.2% | 5.1–9.9% |
-| <a href="#democraten-66-(re)">Democraten 66 (RE)</a> | 0.0% | 16.2% | 14.7–19.0% |14.3–19.4% | 14.1–19.7% | 13.5–20.2% |
-| <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 0.0% | 11.2% | 9.8–15.7% |9.4–16.0% | 9.0–16.3% | 8.4–16.8% |
-| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 0.0% | 12.2% | 10.9–13.5% |10.6–13.8% | 10.4–14.1% | 10.0–14.8% |
-| <a href="#christenunie-(epp)">ChristenUnie (EPP)</a> | 0.0% | 2.1% | 1.7–2.6% |1.6–2.7% | 1.4–2.8% | 1.2–3.1% |
-| <a href="#50plus-(epp)">50Plus (EPP)</a> | 0.0% | 1.8% | 1.2–2.4% |1.1–2.6% | 1.1–2.7% | 0.9–3.0% |
-| <a href="#boerburgerbeweging-(epp)">BoerBurgerBeweging (EPP)</a> | 0.0% | 2.8% | 2.2–3.5% |2.0–3.6% | 1.9–3.8% | 1.6–4.1% |
-| <a href="#nieuw-sociaal-contract-(epp)">Nieuw Sociaal Contract (EPP)</a> | 0.0% | 0.6% | 0.2–0.9% |0.2–1.0% | 0.1–1.1% | 0.1–1.2% |
-| <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 0.0% | 2.2% | 1.7–2.7% |1.6–2.8% | 1.5–3.0% | 1.2–3.2% |
-| <a href="#juiste-antwoord-2021-(ecr)">Juiste Antwoord 2021 (ECR)</a> | 0.0% | 6.3% | 5.3–7.7% |5.0–8.0% | 4.8–8.2% | 4.3–8.6% |
-| <a href="#partij-voor-de-vrijheid-(pfe)">Partij voor de Vrijheid (PfE)</a> | 0.0% | 15.6% | 14.3–19.2% |14.0–19.8% | 13.8–20.3% | 13.3–21.2% |
-| <a href="#forum-voor-democratie-(esn)">Forum voor Democratie (ESN)</a> | 0.0% | 4.3% | 3.5–6.9% |3.3–7.2% | 3.1–7.4% | 2.8–7.7% |
-| <a href="#denk-(*)">DENK (*)</a> | 0.0% | 2.2% | 1.8–2.8% |1.7–3.0% | 1.6–3.2% | 1.4–3.6% |
+| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 0.0% | 2.0% | 1.7–2.4% |1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0.0% | 2.0% | 1.7–2.4% |1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 0.0% | 6.0% | 5.5–6.6% |5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
+| <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0.0% | 0.7% | 0.5–0.9% |0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
+| <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 0.0% | 6.0% | 5.5–6.6% |5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
+| <a href="#democraten-66-(re)">Democraten 66 (RE)</a> | 0.0% | 18.6% | 17.7–19.6% |17.5–19.8% | 17.3–20.1% | 16.9–20.5% |
+| <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 0.0% | 15.3% | 14.5–16.2% |14.3–16.4% | 14.1–16.6% | 13.7–17.1% |
+| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 0.0% | 11.3% | 10.6–12.1% |10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
+| <a href="#christenunie-(epp)">ChristenUnie (EPP)</a> | 0.0% | 2.0% | 1.7–2.4% |1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| <a href="#50plus-(epp)">50Plus (EPP)</a> | 0.0% | 1.3% | 1.1–1.6% |1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
+| <a href="#boerburgerbeweging-(epp)">BoerBurgerBeweging (EPP)</a> | 0.0% | 2.7% | 2.3–3.1% |2.2–3.2% | 2.2–3.3% | 2.0–3.5% |
+| <a href="#nieuw-sociaal-contract-(epp)">Nieuw Sociaal Contract (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 0.0% | 2.0% | 1.7–2.4% |1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| <a href="#juiste-antwoord-2021-(ecr)">Juiste Antwoord 2021 (ECR)</a> | 0.0% | 6.0% | 5.5–6.6% |5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
+| <a href="#partij-voor-de-vrijheid-(pfe)">Partij voor de Vrijheid (PfE)</a> | 0.0% | 15.3% | 14.5–16.2% |14.3–16.4% | 14.1–16.6% | 13.7–17.1% |
+| <a href="#forum-voor-democratie-(esn)">Forum voor Democratie (ESN)</a> | 0.0% | 6.7% | 6.1–7.3% |6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
+| <a href="#denk-(*)">DENK (*)</a> | 0.0% | 2.0% | 1.7–2.4% |1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | <a href="#piratenpartij-(*)">Piratenpartij (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bij1-(*)">Bij1 (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partij-voor-de-toekomst-(*)">Partij voor de Toekomst (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -88,13 +86,12 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.2% | 100% |  |
-| 4.5–5.5% | 16% | 98.8% |  |
-| 5.5–6.5% | 42% | 83% | Median |
-| 6.5–7.5% | 27% | 40% |  |
-| 7.5–8.5% | 13% | 14% |  |
-| 8.5–9.5% | 0.6% | 0.6% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 13% | 100% |  |
+| 5.5–6.5% | 75% | 87% | Median |
+| 6.5–7.5% | 11% | 12% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 ### 50Plus (EPP)
 
@@ -103,10 +100,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 35% | 100% |  |
-| 1.5–2.5% | 59% | 65% | Median |
-| 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 82% | 100% | Median |
+| 1.5–2.5% | 18% | 18% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 ### DENK (*)
 
@@ -115,11 +111,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.5% | 100% |  |
-| 1.5–2.5% | 77% | 98.5% | Median |
-| 2.5–3.5% | 21% | 22% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 95% | 98% | Median |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### BoerBurgerBeweging (EPP)
 
@@ -128,10 +123,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 29% | 99.6% |  |
-| 2.5–3.5% | 64% | 71% | Median |
-| 3.5–4.5% | 7% | 7% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 31% | 100% |  |
+| 2.5–3.5% | 68% | 69% | Median |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 ### Partij voor de Vrijheid (PfE)
@@ -153,17 +148,13 @@ Only polls for which at least the sample size has been published are included in
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 1.2% | 100% |  |
-| 13.5–14.5% | 15% | 98.8% |  |
-| 14.5–15.5% | 34% | 84% |  |
-| 15.5–16.5% | 17% | 51% | Median |
-| 16.5–17.5% | 7% | 33% |  |
-| 17.5–18.5% | 10% | 27% |  |
-| 18.5–19.5% | 10% | 17% |  |
-| 19.5–20.5% | 5% | 7% |  |
-| 20.5–21.5% | 1.4% | 2% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 12% | 99.7% |  |
+| 14.5–15.5% | 52% | 88% | Median |
+| 15.5–16.5% | 33% | 36% |  |
+| 16.5–17.5% | 3% | 3% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 ### Partij voor de Dieren (GUE/NGL)
 
@@ -172,11 +163,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 64% | 86% | Median |
-| 2.5–3.5% | 21% | 21% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 95% | 98% | Median |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### ChristenUnie (EPP)
 
@@ -185,11 +175,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 85% | 95% | Median |
-| 2.5–3.5% | 10% | 10% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 95% | 98% | Median |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### Staatkundig Gereformeerde Partij (ECR)
 
@@ -198,11 +187,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 79% | 95% | Median |
-| 2.5–3.5% | 17% | 17% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 95% | 98% | Median |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie (RE)
 
@@ -218,17 +206,18 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.7% | 100% |  |
-| 8.5–9.5% | 6% | 99.3% |  |
-| 9.5–10.5% | 22% | 93% |  |
-| 10.5–11.5% | 29% | 71% | Median |
-| 11.5–12.5% | 8% | 42% |  |
-| 12.5–13.5% | 0.7% | 34% |  |
-| 13.5–14.5% | 4% | 33% |  |
-| 14.5–15.5% | 17% | 29% |  |
-| 15.5–16.5% | 11% | 12% |  |
-| 16.5–17.5% | 1.1% | 1.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 12% | 99.7% |  |
+| 14.5–15.5% | 52% | 88% | Median |
+| 15.5–16.5% | 33% | 36% |  |
+| 16.5–17.5% | 3% | 3% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 ### Forum voor Democratie (ESN)
 
@@ -238,13 +227,13 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 11% | 99.9% |  |
-| 3.5–4.5% | 46% | 89% | Median |
-| 4.5–5.5% | 9% | 42% |  |
-| 5.5–6.5% | 13% | 34% |  |
-| 6.5–7.5% | 19% | 20% |  |
-| 7.5–8.5% | 1.2% | 1.2% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.4% | 100% |  |
+| 5.5–6.5% | 38% | 99.6% |  |
+| 6.5–7.5% | 58% | 61% | Median |
+| 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 ### GroenLinks (Greens/EFA)
@@ -258,14 +247,11 @@ Only polls for which at least the sample size has been published are included in
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 4% | 100% |  |
-| 5.5–6.5% | 27% | 96% |  |
-| 6.5–7.5% | 29% | 69% | Median |
-| 7.5–8.5% | 30% | 40% |  |
-| 8.5–9.5% | 8% | 10% |  |
-| 9.5–10.5% | 1.2% | 1.2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 4.5–5.5% | 13% | 100% |  |
+| 5.5–6.5% | 75% | 87% | Median |
+| 6.5–7.5% | 11% | 12% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 ### Democraten 66 (RE)
 
@@ -286,15 +272,15 @@ Only polls for which at least the sample size has been published are included in
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.6% | 100% |  |
-| 13.5–14.5% | 7% | 99.3% |  |
-| 14.5–15.5% | 24% | 92% |  |
-| 15.5–16.5% | 24% | 68% | Median |
-| 16.5–17.5% | 10% | 44% |  |
-| 17.5–18.5% | 15% | 34% |  |
-| 18.5–19.5% | 15% | 19% |  |
-| 19.5–20.5% | 3% | 3% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 6% | 99.9% |  |
+| 17.5–18.5% | 39% | 94% |  |
+| 18.5–19.5% | 45% | 56% | Median |
+| 19.5–20.5% | 10% | 10% |  |
+| 20.5–21.5% | 0.5% | 0.5% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 ### Socialistische Partij (GUE/NGL)
@@ -304,12 +290,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 42% | 99.2% |  |
-| 2.5–3.5% | 41% | 58% | Median |
-| 3.5–4.5% | 15% | 16% |  |
-| 4.5–5.5% | 1.4% | 1.5% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 95% | 98% | Median |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### Partij van de Arbeid (S&D)
 
@@ -322,14 +306,11 @@ Only polls for which at least the sample size has been published are included in
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 4% | 100% |  |
-| 5.5–6.5% | 27% | 96% |  |
-| 6.5–7.5% | 29% | 69% | Median |
-| 7.5–8.5% | 30% | 40% |  |
-| 8.5–9.5% | 8% | 10% |  |
-| 9.5–10.5% | 1.2% | 1.2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 4.5–5.5% | 13% | 100% |  |
+| 5.5–6.5% | 75% | 87% | Median |
+| 6.5–7.5% | 11% | 12% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl (EPP)
 
@@ -347,14 +328,11 @@ Only polls for which at least the sample size has been published are included in
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 4% | 99.9% |  |
-| 10.5–11.5% | 25% | 96% |  |
-| 11.5–12.5% | 35% | 71% | Median |
-| 12.5–13.5% | 28% | 36% |  |
-| 13.5–14.5% | 8% | 9% |  |
-| 14.5–15.5% | 0.9% | 0.9% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 9.5–10.5% | 9% | 99.9% |  |
+| 10.5–11.5% | 57% | 91% | Median |
+| 11.5–12.5% | 32% | 34% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 ### Volt Europa (Greens/EFA)
 
@@ -362,20 +340,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 5% | 100% | Last Result |
-| 0.5–1.5% | 58% | 95% | Median |
-| 1.5–2.5% | 36% | 37% |  |
-| 2.5–3.5% | 0.5% | 0.5% |  |
-| 3.5–4.5% | 0% | 0% |  |
-
-### Nieuw Sociaal Contract (EPP)
-
-*For a full overview of the results for this party, see the [Nieuw Sociaal Contract (EPP)](party-nieuwsociaalcontractepp.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 47% | 100% | Last Result |
-| 0.5–1.5% | 53% | 53% | Median |
+| 0.0–0.5% | 16% | 100% | Last Result |
+| 0.5–1.5% | 84% | 84% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -390,22 +356,22 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–4 |
+| <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
-| <a href="#democraten-66-(re)">Democraten 66 (RE)</a> | 0 | 6 | 6–7 |6–7 | 6–7 | 5–8 |
-| <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 0 | 4 | 4–6 |4–6 | 4–6 | 3–6 |
-| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 0 | 4 | 4–5 |4–5 | 4–5 | 3–5 |
-| <a href="#christenunie-(epp)">ChristenUnie (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#partij-van-de-arbeid-(s&d)">Partij van de Arbeid (S&D)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
+| <a href="#democraten-66-(re)">Democraten 66 (RE)</a> | 0 | 7 | 7 |6–7 | 6–8 | 6–8 |
+| <a href="#volkspartij-voor-vrijheid-en-democratie-(re)">Volkspartij voor Vrijheid en Democratie (RE)</a> | 0 | 6 | 6 |5–6 | 5–6 | 5–7 |
+| <a href="#christen-democratisch-appèl-(epp)">Christen-Democratisch Appèl (EPP)</a> | 0 | 4 | 4 |4 | 4 | 3–4 |
+| <a href="#christenunie-(epp)">ChristenUnie (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#50plus-(epp)">50Plus (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#boerburgerbeweging-(epp)">BoerBurgerBeweging (EPP)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#nieuw-sociaal-contract-(epp)">Nieuw Sociaal Contract (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#boerburgerbeweging-(epp)">BoerBurgerBeweging (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#nieuw-sociaal-contract-(epp)">Nieuw Sociaal Contract (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#juiste-antwoord-2021-(ecr)">Juiste Antwoord 2021 (ECR)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
-| <a href="#partij-voor-de-vrijheid-(pfe)">Partij voor de Vrijheid (PfE)</a> | 0 | 6 | 6–7 |6–7 | 5–7 | 5–7 |
-| <a href="#forum-voor-democratie-(esn)">Forum voor Democratie (ESN)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 0–3 |
-| <a href="#denk-(*)">DENK (*)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#juiste-antwoord-2021-(ecr)">Juiste Antwoord 2021 (ECR)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#partij-voor-de-vrijheid-(pfe)">Partij voor de Vrijheid (PfE)</a> | 0 | 6 | 6 |5–6 | 5–6 | 5–6 |
+| <a href="#forum-voor-democratie-(esn)">Forum voor Democratie (ESN)</a> | 0 | 2 | 2 |2 | 2 | 2–3 |
+| <a href="#denk-(*)">DENK (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#piratenpartij-(*)">Piratenpartij (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bij1-(*)">Bij1 (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partij-voor-de-toekomst-(*)">Partij voor de Toekomst (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -421,9 +387,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Socialistische Partij (GUE/NGL)
 
@@ -433,10 +397,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 31% | 31% |  |
-| 2 | 0.3% | 0.3% |  |
-| 3 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### GroenLinks (Greens/EFA)
 
@@ -448,10 +409,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 41% | 100% |  |
-| 3 | 58% | 59% | Median |
-| 4 | 2% | 2% |  |
-| 5 | 0% | 0% |  |
+| 2 | 89% | 100% | Median |
+| 3 | 10% | 10% |  |
+| 4 | 0% | 0% |  |
 
 ### Volt Europa (Greens/EFA)
 
@@ -473,10 +433,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 39% | 100% |  |
-| 3 | 60% | 61% | Median |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 2 | 52% | 100% | Median |
+| 3 | 48% | 48% |  |
+| 4 | 0% | 0% |  |
 
 ### Democraten 66 (RE)
 
@@ -491,10 +450,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 67% | 98% | Median |
-| 7 | 30% | 31% |  |
-| 8 | 2% | 2% |  |
+| 5 | 0% | 100% |  |
+| 6 | 10% | 100% |  |
+| 7 | 86% | 90% | Median |
+| 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie (RE)
@@ -508,11 +467,11 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.7% | 100% |  |
-| 4 | 64% | 99.3% | Median |
-| 5 | 4% | 35% |  |
-| 6 | 31% | 31% |  |
-| 7 | 0.2% | 0.2% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 7% | 100% |  |
+| 6 | 93% | 93% | Median |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl (EPP)
@@ -526,11 +485,10 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.6% | 100% |  |
-| 4 | 54% | 99.4% | Median |
-| 5 | 45% | 46% |  |
-| 6 | 0.4% | 0.4% |  |
-| 7 | 0% | 0% |  |
+| 3 | 2% | 100% |  |
+| 4 | 98% | 98% | Median |
+| 5 | 0.3% | 0.3% |  |
+| 6 | 0% | 0% |  |
 
 ### ChristenUnie (EPP)
 
@@ -540,9 +498,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 1.4% | 1.4% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### 50Plus (EPP)
 
@@ -552,9 +508,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### BoerBurgerBeweging (EPP)
 
@@ -564,8 +518,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 34% | 34% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 ### Nieuw Sociaal Contract (EPP)
@@ -573,10 +527,6 @@ Only polls for which at least the sample size has been published are included in
 *For a full overview of the results for this party, see the [Nieuw Sociaal Contract (EPP)](party-nieuwsociaalcontractepp.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-nieuwsociaalcontractepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 ### Staatkundig Gereformeerde Partij (ECR)
 
@@ -586,9 +536,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Juiste Antwoord 2021 (ECR)
 
@@ -599,9 +547,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 15% | 100% |  |
-| 2 | 84% | 85% | Median |
-| 3 | 1.0% | 1.0% |  |
+| 1 | 41% | 100% |  |
+| 2 | 59% | 59% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Partij voor de Vrijheid (PfE)
@@ -617,11 +565,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 64% | 97% | Median |
-| 7 | 33% | 33% |  |
-| 8 | 0.4% | 0.4% |  |
-| 9 | 0% | 0% |  |
+| 5 | 9% | 100% |  |
+| 6 | 91% | 91% | Median |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 ### Forum voor Democratie (ESN)
 
@@ -631,10 +578,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 64% | 98% | Median |
-| 2 | 33% | 34% |  |
-| 3 | 0.6% | 0.6% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 98% | 100% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### DENK (*)
@@ -645,9 +592,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Piratenpartij (*)
 
@@ -694,15 +639,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Democraten 66 (RE) – Volkspartij voor Vrijheid en Democratie (RE) | 0 | 10 | 0% | 10–13 | 10–13 | 10–13 | 9–13 |
-| Partij voor de Vrijheid (PfE) | 0 | 6 | 0% | 6–7 | 6–7 | 5–7 | 5–7 |
-| 50Plus (EPP) – BoerBurgerBeweging (EPP) – Christen-Democratisch Appèl (EPP) – ChristenUnie (EPP) – Nieuw Sociaal Contract (EPP) | 0 | 4 | 0% | 4–6 | 4–6 | 4–6 | 4–6 |
-| GroenLinks (Greens/EFA) – Volt Europa (Greens/EFA) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
-| Partij van de Arbeid (S&D) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Forum voor Democratie (ESN) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–3 |
-| Juiste Antwoord 2021 (ECR) – Staatkundig Gereformeerde Partij (ECR) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
-| Belang van Nederland (*) – Bij1 (*) – Code Oranje (*) – DENK (*) – Partij voor de Toekomst (*) – Piratenpartij (*) – Splinter (*) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partij voor de Dieren (GUE/NGL) – Socialistische Partij (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Democraten 66 (RE) – Volkspartij voor Vrijheid en Democratie (RE) | 0 | 13 | 0% | 12–13 | 12–13 | 12–13 | 12–14 |
+| Partij voor de Vrijheid (PfE) | 0 | 6 | 0% | 6 | 5–6 | 5–6 | 5–6 |
+| 50Plus (EPP) – BoerBurgerBeweging (EPP) – Christen-Democratisch Appèl (EPP) – ChristenUnie (EPP) – Nieuw Sociaal Contract (EPP) | 0 | 4 | 0% | 4 | 4 | 4–5 | 3–5 |
+| GroenLinks (Greens/EFA) – Volt Europa (Greens/EFA) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partij van de Arbeid (S&D) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Forum voor Democratie (ESN) | 0 | 2 | 0% | 2 | 2 | 2 | 2–3 |
+| Juiste Antwoord 2021 (ECR) – Staatkundig Gereformeerde Partij (ECR) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Belang van Nederland (*) – Bij1 (*) – Code Oranje (*) – DENK (*) – Partij voor de Toekomst (*) – Piratenpartij (*) – Splinter (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Partij voor de Dieren (GUE/NGL) – Socialistische Partij (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Democraten 66 (RE) – Volkspartij voor Vrijheid en Democratie (RE)
 
@@ -718,13 +663,13 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.4% | 100% |  |
-| 9 | 0.4% | 99.6% |  |
-| 10 | 64% | 99.2% | Median |
-| 11 | 2% | 35% |  |
-| 12 | 4% | 33% |  |
-| 13 | 29% | 30% |  |
-| 14 | 0.2% | 0.2% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 11% | 100% |  |
+| 13 | 88% | 89% | Median |
+| 14 | 0.6% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
 ### Partij voor de Vrijheid (PfE)
@@ -738,11 +683,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 64% | 97% | Median |
-| 7 | 33% | 33% |  |
-| 8 | 0.4% | 0.4% |  |
-| 9 | 0% | 0% |  |
+| 5 | 9% | 100% |  |
+| 6 | 91% | 91% | Median |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 ### 50Plus (EPP) – BoerBurgerBeweging (EPP) – Christen-Democratisch Appèl (EPP) – ChristenUnie (EPP) – Nieuw Sociaal Contract (EPP)
 
@@ -753,12 +697,10 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.5% | 100% |  |
-| 4 | 53% | 99.5% | Median |
-| 5 | 12% | 47% |  |
-| 6 | 34% | 34% |  |
-| 7 | 0.3% | 0.3% |  |
-| 8 | 0% | 0% |  |
+| 3 | 1.5% | 100% |  |
+| 4 | 96% | 98.5% | Median |
+| 5 | 3% | 3% |  |
+| 6 | 0% | 0% |  |
 
 ### GroenLinks (Greens/EFA) – Volt Europa (Greens/EFA)
 
@@ -768,10 +710,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 41% | 100% |  |
-| 3 | 58% | 59% | Median |
-| 4 | 2% | 2% |  |
-| 5 | 0% | 0% |  |
+| 2 | 89% | 100% | Median |
+| 3 | 10% | 10% |  |
+| 4 | 0% | 0% |  |
 
 ### Partij van de Arbeid (S&D)
 
@@ -781,10 +722,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 39% | 100% |  |
-| 3 | 60% | 61% | Median |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 2 | 52% | 100% | Median |
+| 3 | 48% | 48% |  |
+| 4 | 0% | 0% |  |
 
 ### Forum voor Democratie (ESN)
 
@@ -792,10 +732,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 64% | 98% | Median |
-| 2 | 33% | 34% |  |
-| 3 | 0.6% | 0.6% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 98% | 100% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### Juiste Antwoord 2021 (ECR) – Staatkundig Gereformeerde Partij (ECR)
@@ -805,9 +745,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 15% | 100% |  |
-| 2 | 84% | 85% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 41% | 100% |  |
+| 2 | 59% | 59% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Belang van Nederland (*) – Bij1 (*) – Code Oranje (*) – DENK (*) – Partij voor de Toekomst (*) – Piratenpartij (*) – Splinter (*)
@@ -816,9 +756,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Partij voor de Dieren (GUE/NGL) – Socialistische Partij (GUE/NGL)
 
@@ -826,15 +764,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 31% | 31% |  |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 3
++ **Number of polls included in this average:** 1
 + **Lowest number of simulations done in a poll included in this average:** 2,097,152
-+ **Total number of simulations done in the polls included in this average:** 6,291,456
-+ **Error estimate:** 1.98%
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 1.49%
