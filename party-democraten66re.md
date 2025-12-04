@@ -128,7 +128,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [27–28 November 2025](2025-11-28-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [21–24 November 2025](2025-11-24-Verian.html) | Verian <br> EenVandaag | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 7 | 7 | 6–7 | 6–8 | 6–8 |
@@ -219,8 +219,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 57% | 99.9% | Median |
-| 8 | 30% | 43% |  |
+| 7 | 49% | 99.9% |  |
+| 8 | 38% | 51% | Median |
 | 9 | 13% | 13% |  |
 | 10 | 0% | 0% |  |
 
