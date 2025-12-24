@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.8–3.0% | 1.7–3.1% | 1.6–3.3% | 1.5–3.5% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.1% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
 | [19–20 December 2025](2025-12-20-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [12–15 December 2025](2025-12-15-IpsosIO.html) | Ipsos I&O | 2.7% | 2.3–3.1% | 2.2–3.3% | 2.1–3.4% | 1.9–3.6% |
 | [27–28 November 2025](2025-11-28-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -95,10 +95,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 64% | 98.8% | Median |
-| 2.5–3.5% | 35% | 35% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 57% | 99.2% | Median |
+| 2.5–3.5% | 42% | 42% |  |
+| 3.5–4.5% | 0.9% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
