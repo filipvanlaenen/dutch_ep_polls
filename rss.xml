@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Jan 2026 20:29:26 +0100</pubDate>
+    <pubDate>Sun, 25 Jan 2026 16:58:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 23 January 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-01-23-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (PfE): 4–5 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 5 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ESN): 3 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 7 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-01-23-Peilnl-seats.png"
+        length="328150"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jan 2026 16:58:26 +0100</pubDate>
+      <dc:date>2026-01-25T16:58:26.10345+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 23 January 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-01-23-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-01-23-Peilnl-coalitions-seats.png"
+        length="170904"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jan 2026 16:58:26 +0100</pubDate>
+      <dc:date>2026-01-25T16:58:26.10345+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 23 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-01-23-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 6.4–8.3%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK (*): 1.6–2.6%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (EPP): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (PfE): 10.2–12.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.1–3.3%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 12.1–14.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ESN): 8.3–10.4%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 5.8–7.6%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 16.6–19.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 1.6–2.6%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 10.9–13.2%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 5.8–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-01-23-Peilnl.png"
+        length="458548"
+        type="image/png"/>
+      <pubDate>Sun, 25 Jan 2026 16:58:26 +0100</pubDate>
+      <dc:date>2026-01-25T16:58:26.10345+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos I&amp;O, 16–19 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-01-19-IpsosIO.html#seats</link>
@@ -2139,6 +2169,6 @@
       <pubDate>Mon, 23 Sep 2024 20:35:05 +0200</pubDate>
       <dc:date>2024-09-23T20:35:05.97919+02:00</dc:date>
     </item>
-    <dc:date>2026-01-23T20:29:26.498899+01:00</dc:date>
+    <dc:date>2026-01-25T16:58:26.10345+01:00</dc:date>
   </channel>
 </rss>
