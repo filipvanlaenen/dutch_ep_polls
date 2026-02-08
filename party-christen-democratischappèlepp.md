@@ -126,10 +126,10 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [23 January 2026](2026-01-23-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–5 |
 | [16–19 January 2026](2026-01-19-IpsosIO.html) | Ipsos I&O | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [16–17 January 2026](2026-01-17-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -221,9 +221,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 19% | 100% |  |
-| 4 | 67% | 81% | Median |
-| 5 | 15% | 15% |  |
+| 3 | 16% | 100% |  |
+| 4 | 75% | 84% | Median |
+| 5 | 9% | 9% |  |
 | 6 | 0% | 0% |  |
 
 
