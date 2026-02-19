@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.2% | 1.8–3.4% | 1.7–3.5% | 1.5–3.9% |
+| [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 2.7% | 2.2–3.2% | 2.1–3.4% | 2.0–3.5% | 1.8–3.8% |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 2.6% | 2.3–3.2% | 2.1–3.3% | 2.0–3.4% | 1.9–3.7% |
 | [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag | 2.7% | 2.2–3.4% | 2.0–3.6% | 1.9–3.7% | 1.7–4.1% |
@@ -116,7 +117,8 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0–1 |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -208,8 +210,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 
