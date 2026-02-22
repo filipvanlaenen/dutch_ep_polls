@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.7% | 10.3–13.8% | 10.0–14.2% | 9.8–14.5% | 9.4–15.2% |
+| [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 13.3% | 12.3–14.4% | 12.1–14.7% | 11.8–15.0% | 11.4–15.5% |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 12.6% | 11.8–13.6% | 11.5–13.9% | 11.3–14.1% | 10.9–14.6% |
@@ -130,6 +131,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–4 |
 | [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 5 | 5 | 5 | 5 | 4–5 |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–5 |
 | [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -225,8 +227,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.7% | 100% |  |
-| 4 | 63% | 99.3% | Median |
+| 3 | 2% | 100% |  |
+| 4 | 63% | 98% | Median |
 | 5 | 36% | 36% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
