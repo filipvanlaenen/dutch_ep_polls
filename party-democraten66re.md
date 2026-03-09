@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.7% | 14.2–18.4% | 13.7–18.8% | 13.3–19.0% | 12.6–19.5% |
+| [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.8–19.2% | 16.6–19.4% | 16.2–19.8% |
 | [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 14.6% | 13.4–16.0% | 13.1–16.3% | 12.8–16.6% | 12.3–17.3% |
 | [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.8–19.2% | 16.6–19.4% | 16.2–19.8% |
 | [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 16.6% | 15.6–17.8% | 15.3–18.2% | 15.0–18.4% | 14.5–19.0% |
@@ -135,7 +136,8 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
+| [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 6 | 6 | 6 | 6 | 6–7 |
@@ -236,9 +238,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 24% | 100% |  |
-| 6 | 44% | 76% | Median |
-| 7 | 30% | 31% |  |
-| 8 | 1.5% | 1.5% |  |
+| 6 | 43% | 76% | Median |
+| 7 | 16% | 33% |  |
+| 8 | 17% | 17% |  |
 | 9 | 0% | 0% |  |
 
 
