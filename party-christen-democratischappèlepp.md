@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.8–10.7% | 8.5–11.0% | 8.2–11.2% | 7.7–11.6% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.5–10.6% | 8.1–10.9% | 7.8–11.1% | 7.3–11.5% |
 | [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
-| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 10.0% | 9.2–10.9% | 9.0–11.1% | 8.8–11.3% | 8.4–11.8% |
+| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 9.9% | 9.1–10.8% | 8.9–11.0% | 8.7–11.2% | 8.3–11.7% |
 | [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
-| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 9.3% | 8.4–10.4% | 8.1–10.7% | 7.9–11.0% | 7.4–11.6% |
+| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 8.9% | 7.9–10.0% | 7.7–10.3% | 7.4–10.5% | 7.0–11.1% |
 | [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 10.0% | 9.1–11.0% | 8.9–11.2% | 8.7–11.5% | 8.3–11.9% |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
@@ -113,12 +113,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 5% | 99.7% |  |
-| 8.5–9.5% | 29% | 95% |  |
-| 9.5–10.5% | 50% | 66% | Median |
-| 10.5–11.5% | 15% | 15% |  |
-| 11.5–12.5% | 0.7% | 0.7% |  |
+| 6.5–7.5% | 1.1% | 100% |  |
+| 7.5–8.5% | 10% | 98.9% |  |
+| 8.5–9.5% | 31% | 89% |  |
+| 9.5–10.5% | 45% | 58% | Median |
+| 10.5–11.5% | 12% | 12% |  |
+| 11.5–12.5% | 0.4% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -130,11 +130,11 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4–5 | 3–5 |
-| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
 | [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 4 | 4 | 4 | 3–4 | 3–4 |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -230,10 +230,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 52% | 100% | Median |
-| 4 | 48% | 48% |  |
-| 5 | 0.5% | 0.5% |  |
-| 6 | 0% | 0% |  |
+| 2 | 5% | 100% |  |
+| 3 | 18% | 95% |  |
+| 4 | 77% | 77% | Median |
+| 5 | 0% | 0% |  |
 
 

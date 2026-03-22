@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.6–1.7% | 0.5–1.8% | 0.5–1.9% | 0.4–2.2% |
+| N/A | [Poll Average](average.html) | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
 | [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
-| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 0.7% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
+| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 1.1% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
-| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 1.4% | 1.0–1.9% | 0.9–2.0% | 0.9–2.1% | 0.7–2.4% |
+| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.8–2.6% |
 | [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 1.3% | 1.0–1.8% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
 | [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
@@ -106,10 +106,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 76% | 93% | Median |
-| 1.5–2.5% | 17% | 17% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 76% | 100% | Median |
+| 1.5–2.5% | 24% | 24% |  |
+| 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
