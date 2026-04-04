@@ -131,7 +131,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [27–28 March 2026](2026-03-28-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -234,7 +234,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 95% | 99.9% | Median |
-| 4 | 4% | 4% |  |
+| 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
 
