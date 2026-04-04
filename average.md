@@ -377,7 +377,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
+| <a href="#partij-voor-de-dieren-(gue/ngl)">Partij voor de Dieren (GUE/NGL)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
 | <a href="#socialistische-partij-(gue/ngl)">Socialistische Partij (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#groenlinks-(greens/efa)">GroenLinks (Greens/EFA)</a> | 0 | 3 | 3 |2–3 | 2–4 | 2–4 |
 | <a href="#volt-europa-(greens/efa)">Volt Europa (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -390,7 +390,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#boerburgerbeweging-(epp)">BoerBurgerBeweging (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#nieuw-sociaal-contract-(epp)">Nieuw Sociaal Contract (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#staatkundig-gereformeerde-partij-(ecr)">Staatkundig Gereformeerde Partij (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
-| <a href="#juiste-antwoord-2021-(ecr)">Juiste Antwoord 2021 (ECR)</a> | 0 | 3 | 3 |3 | 3–4 | 3–4 |
+| <a href="#juiste-antwoord-2021-(ecr)">Juiste Antwoord 2021 (ECR)</a> | 0 | 3 | 3 |3–4 | 3–4 | 3–4 |
 | <a href="#partij-voor-de-vrijheid-(pfe)">Partij voor de Vrijheid (PfE)</a> | 0 | 5 | 4–5 |4–7 | 4–7 | 4–7 |
 | <a href="#forum-voor-democratie-(esn)">Forum voor Democratie (ESN)</a> | 0 | 2 | 2–4 |2–4 | 2–4 | 2–4 |
 | <a href="#denk-(*)">DENK (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -435,8 +435,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 90% | 94% | Median |
+| 2 | 7% | 100% |  |
+| 3 | 90% | 93% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -461,7 +461,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 7% | 100% |  |
-| 3 | 93% | 93% | Median |
+| 3 | 92% | 93% | Median |
 | 4 | 0.1% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -580,7 +580,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 95% | 99.9% | Median |
-| 4 | 4% | 4% |  |
+| 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
 ### Partij voor de Vrijheid (PfE)
@@ -612,8 +612,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 63% | 100% | Median |
-| 3 | 3% | 37% |  |
-| 4 | 33% | 33% |  |
+| 3 | 4% | 37% |  |
+| 4 | 32% | 33% |  |
 | 5 | 0% | 0% |  |
 
 ### DENK (*)
@@ -696,8 +696,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 63% | 99.7% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 63% | 99.6% |  |
 | 11 | 37% | 37% | Median |
 | 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
@@ -729,7 +729,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 15% | 100% |  |
 | 4 | 85% | 85% | Median |
-| 5 | 0.2% | 0.2% |  |
+| 5 | 0.2% | 0.3% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -742,8 +742,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 94% | 99.9% | Median |
-| 4 | 6% | 6% |  |
+| 3 | 93% | 99.9% | Median |
+| 4 | 6% | 7% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -756,8 +756,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 63% | 100% | Median |
-| 3 | 3% | 37% |  |
-| 4 | 33% | 33% |  |
+| 3 | 4% | 37% |  |
+| 4 | 32% | 33% |  |
 | 5 | 0% | 0% |  |
 
 ### GroenLinks (Greens/EFA) – Volt Europa (Greens/EFA)
@@ -768,8 +768,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 90% | 94% | Median |
+| 2 | 7% | 100% |  |
+| 3 | 90% | 93% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -782,7 +782,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 7% | 100% |  |
-| 3 | 93% | 93% | Median |
+| 3 | 92% | 93% | Median |
 | 4 | 0.1% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -793,7 +793,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 65% | 100% | Last Result, Median |
-| 1 | 30% | 35% |  |
+| 1 | 31% | 35% |  |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
@@ -809,6 +809,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 4.39%
