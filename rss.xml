@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 Apr 2026 15:31:04 +0200</pubDate>
+    <pubDate>Fri, 24 Apr 2026 19:36:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 17–18 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-04-18-Peilnl.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Sun, 19 Apr 2026 15:31:04 +0200</pubDate>
       <dc:date>2026-04-19T15:31:04.606753+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian, 27–30 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-03-30-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (PfE): 3–5 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ESN): 2–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–6 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-03-30-Verian-seats.png"
+        length="452331"
+        type="image/png"/>
+      <pubDate>Fri, 24 Apr 2026 19:36:43 +0200</pubDate>
+      <dc:date>2026-04-24T19:36:43.092799+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian, 27–30 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-03-30-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-03-30-Verian-coalitions-seats.png"
+        length="264218"
+        type="image/png"/>
+      <pubDate>Fri, 24 Apr 2026 19:36:43 +0200</pubDate>
+      <dc:date>2026-04-24T19:36:43.092799+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian, 27–30 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-03-30-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 8.3–11.6%&lt;/li&gt;&lt;li&gt;50Plus (EPP): 1.8–3.6%&lt;/li&gt;&lt;li&gt;DENK (*): 1.4–3.0%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (EPP): 0.7–1.9%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (PfE): 9.8–13.3%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 2.2–4.1%&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 2.3–4.2%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 1.7–3.4%&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 10.3–13.9%&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ESN): 6.7–9.7%&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 6.3–9.2%&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 11.3–15.0%&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 2.0–3.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 9.7–13.2%&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 1.1–2.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 6.3–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-03-30-Verian.png"
+        length="538823"
+        type="image/png"/>
+      <pubDate>Fri, 24 Apr 2026 19:36:43 +0200</pubDate>
+      <dc:date>2026-04-24T19:36:43.092799+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 27–28 March 2026 – Seat Projections for the Parties</title>
@@ -2529,6 +2559,6 @@
       <pubDate>Mon, 23 Sep 2024 20:35:05 +0200</pubDate>
       <dc:date>2024-09-23T20:35:05.97919+02:00</dc:date>
     </item>
-    <dc:date>2026-04-19T15:31:04.606753+02:00</dc:date>
+    <dc:date>2026-04-24T19:36:43.092799+02:00</dc:date>
   </channel>
 </rss>
