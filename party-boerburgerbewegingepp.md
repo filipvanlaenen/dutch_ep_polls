@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.6–2.4% | 0.5–2.6% | 0.5–2.8% | 0.4–3.1% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.6–1.7% | 0.5–1.8% | 0.5–1.9% | 0.4–2.1% |
 | [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [10–13 April 2026](2026-04-13-IpsosIO.html) | Ipsos I&O | 1.4% | 1.1–1.8% | 1.0–1.9% | 1.0–2.0% | 0.9–2.2% |
+| [27–30 March 2026](2026-03-30-Verian.html) | Verian | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
 | [27–28 March 2026](2026-03-28-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.6–1.4% | 0.5–1.6% |
@@ -110,11 +111,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 5% | 100% | Last Result |
-| 0.5–1.5% | 52% | 95% | Median |
-| 1.5–2.5% | 37% | 43% |  |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 78% | 95% | Median |
+| 1.5–2.5% | 16% | 16% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -128,6 +127,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [10–13 April 2026](2026-04-13-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
+| [27–30 March 2026](2026-03-30-Verian.html) | Verian | 0 | 0 | 0 | 0 | 0 |
 | [27–28 March 2026](2026-03-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
