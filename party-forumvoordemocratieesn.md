@@ -10,96 +10,98 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.6–11.0% | 7.3–11.2% | 7.1–11.5% | 6.6–11.9% |
-| [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.6–11.8% | 9.3–12.2% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.5–10.3% | 7.1–10.6% | 6.9–10.8% | 6.4–11.3% |
+| [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 7.9% | 7.0–9.0% | 6.7–9.3% | 6.5–9.5% | 6.1–10.1% |
+| [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
+| [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl | 10.6% | N/A | N/A | N/A | N/A |
 | [10–13 April 2026](2026-04-13-IpsosIO.html) | Ipsos I&O | 8.5% | 7.7–9.3% | 7.5–9.6% | 7.3–9.8% | 7.0–10.2% |
-| [27–30 March 2026](2026-03-30-Verian.html) | Verian | 8.1% | 7.2–9.2% | 7.0–9.5% | 6.7–9.7% | 6.3–10.3% |
-| [27–28 March 2026](2026-03-28-Peilnl.html) | Peil.nl | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.6–11.8% | 9.3–12.2% |
-| [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
-| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 6.8% | 6.1–7.6% | 6.0–7.8% | 5.8–8.0% | 5.5–8.3% |
-| [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
-| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 6.8% | 6.0–7.8% | 5.8–8.1% | 5.6–8.3% | 5.2–8.8% |
-| [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
-| [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 6.0% | 5.3–6.8% | 5.1–7.0% | 5.0–7.2% | 4.7–7.6% |
-| [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
-| [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 6.7% | 6.0–7.4% | 5.8–7.6% | 5.7–7.8% | 5.4–8.2% |
-| [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag | 6.9% | 6.0–7.8% | 5.8–8.1% | 5.6–8.4% | 5.2–8.9% |
-| [23 January 2026](2026-01-23-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
-| [16–19 January 2026](2026-01-19-IpsosIO.html) | Ipsos I&O | 5.3% | 4.7–6.0% | 4.6–6.2% | 4.5–6.3% | 4.2–6.6% |
-| [16–17 January 2026](2026-01-17-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
-| [19–20 December 2025](2025-12-20-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
-| [12–15 December 2025](2025-12-15-IpsosIO.html) | Ipsos I&O | 4.7% | 4.1–5.3% | 4.0–5.4% | 3.9–5.6% | 3.6–5.9% |
-| [27–28 November 2025](2025-11-28-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
-| [21–24 November 2025](2025-11-24-Verian.html) | Verian <br> EenVandaag | 6.7% | 6.0–7.6% | 5.7–7.8% | 5.6–8.1% | 5.2–8.5% |
-| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
-| [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
-| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 3.9% | 3.3–4.8% | 3.1–5.0% | 2.9–5.3% | 2.6–5.7% |
-| [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
-| [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 4.0% | 3.5–4.5% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
-| [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 4.0% | 3.7–4.3% | 3.6–4.4% | 3.6–4.5% | 3.4–4.6% |
-| [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 3.6% | 3.2–4.1% | 3.1–4.3% | 3.0–4.4% | 2.8–4.6% |
-| [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 2.6% | 2.2–3.3% | 2.0–3.4% | 1.9–3.6% | 1.7–3.9% |
-| [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
-| [13–15 October 2025](2025-10-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 3.1% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% | 2.3–4.1% |
-| [10–13 October 2025](2025-10-13-Verian.html) | Verian <br> EenVandaag | 3.3% | 2.8–4.0% | 2.7–4.2% | 2.5–4.3% | 2.3–4.7% |
+| [27–30 March 2026](2026-03-30-Verian.html) | Verian | 8.1% | N/A | N/A | N/A | N/A |
+| [27–28 March 2026](2026-03-28-Peilnl.html) | Peil.nl | 10.6% | N/A | N/A | N/A | N/A |
+| [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 9.3% | N/A | N/A | N/A | N/A |
+| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 6.8% | N/A | N/A | N/A | N/A |
+| [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 10.0% | N/A | N/A | N/A | N/A |
+| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 6.8% | N/A | N/A | N/A | N/A |
+| [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 9.3% | N/A | N/A | N/A | N/A |
+| [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 6.0% | N/A | N/A | N/A | N/A |
+| [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 8.7% | N/A | N/A | N/A | N/A |
+| [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 6.7% | N/A | N/A | N/A | N/A |
+| [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag | 6.9% | N/A | N/A | N/A | N/A |
+| [23 January 2026](2026-01-23-Peilnl.html) | Peil.nl | 9.3% | N/A | N/A | N/A | N/A |
+| [16–19 January 2026](2026-01-19-IpsosIO.html) | Ipsos I&O | 5.3% | N/A | N/A | N/A | N/A |
+| [16–17 January 2026](2026-01-17-Peilnl.html) | Peil.nl | 9.3% | N/A | N/A | N/A | N/A |
+| [19–20 December 2025](2025-12-20-Peilnl.html) | Peil.nl | 8.0% | N/A | N/A | N/A | N/A |
+| [12–15 December 2025](2025-12-15-IpsosIO.html) | Ipsos I&O | 4.7% | N/A | N/A | N/A | N/A |
+| [27–28 November 2025](2025-11-28-Peilnl.html) | Peil.nl | 6.7% | N/A | N/A | N/A | N/A |
+| [21–24 November 2025](2025-11-24-Verian.html) | Verian <br> EenVandaag | 6.7% | N/A | N/A | N/A | N/A |
+| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 6.7% | N/A | N/A | N/A | N/A |
+| [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 6.0% | N/A | N/A | N/A | N/A |
+| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 3.9% | N/A | N/A | N/A | N/A |
+| [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
+| [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 4.0% | N/A | N/A | N/A | N/A |
+| [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
+| [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 3.6% | N/A | N/A | N/A | N/A |
+| [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 2.6% | N/A | N/A | N/A | N/A |
+| [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
+| [13–15 October 2025](2025-10-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 3.1% | N/A | N/A | N/A | N/A |
+| [10–13 October 2025](2025-10-13-Verian.html) | Verian <br> EenVandaag | 3.3% | N/A | N/A | N/A | N/A |
 | [10 October 2025](2025-10-10-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
-| [3–6 October 2025](2025-10-06-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.9% | 2.5–3.4% | 2.3–3.6% | 2.2–3.7% | 2.1–4.0% |
-| [3 October 2025](2025-10-03-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [26–29 September 2025](2025-09-29-Verian.html) | Verian <br> EenVandaag | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
-| [26–29 September 2025](2025-09-29-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 3.1% | 2.7–3.7% | 2.5–3.8% | 2.4–4.0% | 2.2–4.3% |
-| [26 September 2025](2025-09-26-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [19 September 2025](2025-09-19-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [13–15 September 2025](2025-09-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.8% | 2.4–3.4% | 2.3–3.5% | 2.1–3.7% | 2.0–3.9% |
+| [3–6 October 2025](2025-10-06-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.9% | N/A | N/A | N/A | N/A |
+| [3 October 2025](2025-10-03-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [26–29 September 2025](2025-09-29-Verian.html) | Verian <br> EenVandaag | 3.0% | N/A | N/A | N/A | N/A |
+| [26–29 September 2025](2025-09-29-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 3.1% | N/A | N/A | N/A | N/A |
+| [26 September 2025](2025-09-26-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [19 September 2025](2025-09-19-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [13–15 September 2025](2025-09-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.8% | N/A | N/A | N/A | N/A |
 | [6 September 2025](2025-09-06-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
-| [29 August–1 September 2025](2025-09-01-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
-| [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
-| [25 August 2025](2025-08-25-Peilnl.html) | Peil.nl | 2.6% | 2.4–2.9% | 2.3–3.0% | 2.3–3.1% | 2.1–3.2% |
-| [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
-| [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.7% | 1.9–4.1% |
-| [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% | 1.3–3.1% |
-| [25–26 July 2025](2025-07-26-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
+| [29 August–1 September 2025](2025-09-01-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 2.0% | N/A | N/A | N/A | N/A |
+| [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag | 2.7% | N/A | N/A | N/A | N/A |
+| [25 August 2025](2025-08-25-Peilnl.html) | Peil.nl | 2.6% | N/A | N/A | N/A | N/A |
+| [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
+| [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag | 2.8% | N/A | N/A | N/A | N/A |
+| [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O | 2.1% | N/A | N/A | N/A | N/A |
+| [25–26 July 2025](2025-07-26-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
 | [4–5 July 2025](2025-07-05-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
-| [20–23 June 2025](2025-06-23-Verian.html) | Verian <br> EenVandaag | 2.3% | 1.9–2.8% | 1.8–3.0% | 1.7–3.1% | 1.5–3.4% |
-| [21 June 2025](2025-06-21-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
-| [13–16 June 2025](2025-06-16-IpsosIO.html) | Ipsos I&O | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.5–3.2% |
-| [6–9 June 2025](2025-06-09-Verian.html) | Verian <br> EenVandaag | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
+| [20–23 June 2025](2025-06-23-Verian.html) | Verian <br> EenVandaag | 2.3% | N/A | N/A | N/A | N/A |
+| [21 June 2025](2025-06-21-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
+| [13–16 June 2025](2025-06-16-IpsosIO.html) | Ipsos I&O | 2.2% | N/A | N/A | N/A | N/A |
+| [6–9 June 2025](2025-06-09-Verian.html) | Verian <br> EenVandaag | 2.0% | N/A | N/A | N/A | N/A |
 | [6–7 June 2025](2025-06-07-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
-| [5–6 June 2025](2025-06-06-IpsosIO.html) | Ipsos I&O | 3.2% | 2.8–3.7% | 2.7–3.9% | 2.5–4.0% | 2.3–4.3% |
-| [30–31 May 2025](2025-05-31-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [23–26 May 2025](2025-05-26-Verian.html) | Verian <br> EenVandaag | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
-| [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
-| [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
-| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.1% |
-| [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [21–24 March 2025](2025-03-24-Verian.html) | Verian <br> EenVandaag | 3.1% | 2.6–3.7% | 2.4–3.9% | 2.3–4.1% | 2.1–4.4% |
-| [14–17 March 2025](2025-03-17-IpsosIO.html) | Ipsos I&O | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.7–3.4% |
-| [7–8 March 2025](2025-03-08-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [21–24 February 2025](2025-02-24-Verian.html) | Verian <br> EenVandaag | 1.7% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.3% |
-| [21–22 February 2025](2025-02-22-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [14–17 February 2025](2025-02-17-IpsosIO.html) | Ipsos I&O | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
-| [24–27 January 2025](2025-01-27-Verian.html) | Verian <br> EenVandaag | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
-| [24–25 January 2025](2025-01-25-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [17–20 January 2025](2025-01-20-IpsosIO.html) | Ipsos I&O | 2.2% | 1.8–2.7% | 1.8–2.8% | 1.7–2.9% | 1.5–3.1% |
-| [24–28 December 2024](2024-12-28-Verian.html) | Verian <br> EenVandaag | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.8% |
-| [13–14 December 2024](2024-12-14-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [6–9 December 2024](2024-12-09-IpsosIO.html) | Ipsos I&O | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.4–3.1% |
-| [22–25 November 2024](2024-11-25-Verian.html) | Verian <br> EenVandaag | 2.4% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
-| [22–23 November 2024](2024-11-23-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.0% | 1.5–3.3% |
-| [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 2.2% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
-| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 2.9% | 2.5–3.4% | 2.4–3.6% | 2.3–3.7% | 2.1–4.0% |
-| [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
-| [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
-| [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 2.6% | 2.2–3.3% | 2.1–3.4% | 2.0–3.6% | 1.8–3.9% |
-| [20–23 September 2024](2024-09-23-IpsosIO.html) | Ipsos I&O | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.2% |
-| [13–16 September 2024](2024-09-16-IpsosIO.html) | Ipsos I&O | 3.1% | 2.7–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
-| [14–15 September 2024](2024-09-15-Peilnl.html) | Peil.nl | 2.0% | 1.8–2.3% | 1.7–2.4% | 1.6–2.4% | 1.5–2.6% |
-| [23–26 August 2024](2024-08-26-Verian.html) | Verian <br> EenVandaag | 2.2% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
-| [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 2.3% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
-| [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [5–6 June 2025](2025-06-06-IpsosIO.html) | Ipsos I&O | 3.2% | N/A | N/A | N/A | N/A |
+| [30–31 May 2025](2025-05-31-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [23–26 May 2025](2025-05-26-Verian.html) | Verian <br> EenVandaag | 2.0% | N/A | N/A | N/A | N/A |
+| [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 2.8% | N/A | N/A | N/A | N/A |
+| [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 3.0% | N/A | N/A | N/A | N/A |
+| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 3.0% | N/A | N/A | N/A | N/A |
+| [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [21–24 March 2025](2025-03-24-Verian.html) | Verian <br> EenVandaag | 3.1% | N/A | N/A | N/A | N/A |
+| [14–17 March 2025](2025-03-17-IpsosIO.html) | Ipsos I&O | 2.4% | N/A | N/A | N/A | N/A |
+| [7–8 March 2025](2025-03-08-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [21–24 February 2025](2025-02-24-Verian.html) | Verian <br> EenVandaag | 1.7% | N/A | N/A | N/A | N/A |
+| [21–22 February 2025](2025-02-22-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [14–17 February 2025](2025-02-17-IpsosIO.html) | Ipsos I&O | 2.8% | N/A | N/A | N/A | N/A |
+| [24–27 January 2025](2025-01-27-Verian.html) | Verian <br> EenVandaag | 2.7% | N/A | N/A | N/A | N/A |
+| [24–25 January 2025](2025-01-25-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [17–20 January 2025](2025-01-20-IpsosIO.html) | Ipsos I&O | 2.2% | N/A | N/A | N/A | N/A |
+| [24–28 December 2024](2024-12-28-Verian.html) | Verian <br> EenVandaag | 2.6% | N/A | N/A | N/A | N/A |
+| [13–14 December 2024](2024-12-14-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [6–9 December 2024](2024-12-09-IpsosIO.html) | Ipsos I&O | 2.1% | N/A | N/A | N/A | N/A |
+| [22–25 November 2024](2024-11-25-Verian.html) | Verian <br> EenVandaag | 2.4% | N/A | N/A | N/A | N/A |
+| [22–23 November 2024](2024-11-23-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O | 2.3% | N/A | N/A | N/A | N/A |
+| [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 2.2% | N/A | N/A | N/A | N/A |
+| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 2.9% | N/A | N/A | N/A | N/A |
+| [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
+| [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
+| [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 2.6% | N/A | N/A | N/A | N/A |
+| [20–23 September 2024](2024-09-23-IpsosIO.html) | Ipsos I&O | 3.0% | N/A | N/A | N/A | N/A |
+| [13–16 September 2024](2024-09-16-IpsosIO.html) | Ipsos I&O | 3.1% | N/A | N/A | N/A | N/A |
+| [14–15 September 2024](2024-09-15-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| [23–26 August 2024](2024-08-26-Verian.html) | Verian <br> EenVandaag | 2.2% | N/A | N/A | N/A | N/A |
+| [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 2.3% | N/A | N/A | N/A | N/A |
+| [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
 | [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
 | [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 2.0% | N/A | N/A | N/A | N/A |
 | [14–17 June 2024](2024-06-17-IpsosIO.html) | Ipsos I&O | 2.0% | N/A | N/A | N/A | N/A |
@@ -116,13 +118,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.4% | 100% |  |
-| 6.5–7.5% | 8% | 99.6% |  |
-| 7.5–8.5% | 32% | 91% |  |
-| 8.5–9.5% | 24% | 59% | Median |
-| 9.5–10.5% | 16% | 36% |  |
-| 10.5–11.5% | 17% | 19% |  |
-| 11.5–12.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.9% | 100% |  |
+| 6.5–7.5% | 11% | 99.1% |  |
+| 7.5–8.5% | 32% | 88% |  |
+| 8.5–9.5% | 27% | 56% | Median |
+| 9.5–10.5% | 23% | 29% |  |
+| 10.5–11.5% | 6% | 6% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -134,96 +136,98 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 3–4 | 3–4 |
-| [10–13 April 2026](2026-04-13-IpsosIO.html) | Ipsos I&O | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [27–30 March 2026](2026-03-30-Verian.html) | Verian | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [27–28 March 2026](2026-03-28-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
-| [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag | 2 | 2 | 2 | 2 | 2–3 |
-| [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O | 2 | 2 | 2 | 2 | 1–3 |
-| [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
-| [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag | 2 | 2 | 2 | 2 | 2–3 |
-| [23 January 2026](2026-01-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
-| [16–19 January 2026](2026-01-19-IpsosIO.html) | Ipsos I&O | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–17 January 2026](2026-01-17-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [19–20 December 2025](2025-12-20-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [12–15 December 2025](2025-12-15-IpsosIO.html) | Ipsos I&O | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27–28 November 2025](2025-11-28-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
-| [21–24 November 2025](2025-11-24-Verian.html) | Verian <br> EenVandaag | 2 | 2 | 2 | 2 | 1–2 |
-| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
-| [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 1–2 |
-| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 1 | 1 | 1 | 1 | 1 |
-| [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 1 |
-| [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [13–15 October 2025](2025-10-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–13 October 2025](2025-10-13-Verian.html) | Verian <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [10–13 April 2026](2026-04-13-IpsosIO.html) | Ipsos I&O | 3 | 3 | 3 | 3–4 | 3–4 |
+| [27–30 March 2026](2026-03-30-Verian.html) | Verian |  |  |  |  |  |
+| [27–28 March 2026](2026-03-28-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [13–14 March 2026](2026-03-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [6–9 March 2026](2026-03-09-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [6–7 March 2026](2026-03-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [20–23 February 2026](2026-02-23-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [20–21 February 2026](2026-02-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [13–16 February 2026](2026-02-16-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [7 February 2026](2026-02-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [30 January–2 February 2026](2026-02-02-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [23–26 January 2026](2026-01-26-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [23 January 2026](2026-01-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [16–19 January 2026](2026-01-19-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [16–17 January 2026](2026-01-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [19–20 December 2025](2025-12-20-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [12–15 December 2025](2025-12-15-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [27–28 November 2025](2025-11-28-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [21–24 November 2025](2025-11-24-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [22 November 2025](2025-11-22-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [7–8 November 2025](2025-11-08-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27–28 October 2025](2025-10-28-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [28 October 2025](2025-10-28-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [25–28 October 2025](2025-10-28-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit |  |  |  |  |  |
+| [24 October 2025](2025-10-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [23–24 October 2025](2025-10-24-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit |  |  |  |  |  |
+| [17–20 October 2025](2025-10-20-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [17 October 2025](2025-10-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [13–15 October 2025](2025-10-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit |  |  |  |  |  |
+| [10–13 October 2025](2025-10-13-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
 | [10 October 2025](2025-10-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [3–6 October 2025](2025-10-06-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3 October 2025](2025-10-03-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–29 September 2025](2025-09-29-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0–1 |
-| [26–29 September 2025](2025-09-29-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26 September 2025](2025-09-26-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19 September 2025](2025-09-19-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–15 September 2025](2025-09-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0 | 0 | 0–1 |
+| [3–6 October 2025](2025-10-06-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit |  |  |  |  |  |
+| [3 October 2025](2025-10-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [26–29 September 2025](2025-09-29-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [26–29 September 2025](2025-09-29-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit |  |  |  |  |  |
+| [26 September 2025](2025-09-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [19 September 2025](2025-09-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [13–15 September 2025](2025-09-15-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit |  |  |  |  |  |
 | [6 September 2025](2025-09-06-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [29 August–1 September 2025](2025-09-01-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit | 0 | 0 | 0 | 0 | 0 |
-| [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 August 2025](2025-08-25-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0–1 | 0–1 |
-| [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0–1 | 0–1 |
-| [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
-| [25–26 July 2025](2025-07-26-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0–1 | 0–1 |
+| [29 August–1 September 2025](2025-09-01-IpsosIO.html) | Ipsos I&O <br> Pauw & De Wit |  |  |  |  |  |
+| [22–25 August 2025](2025-08-25-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [25 August 2025](2025-08-25-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [8–9 August 2025](2025-08-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [25–28 July 2025](2025-07-28-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [25–28 July 2025](2025-07-28-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [25–26 July 2025](2025-07-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [4–5 July 2025](2025-07-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [20–23 June 2025](2025-06-23-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [21 June 2025](2025-06-21-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [13–16 June 2025](2025-06-16-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0–1 |
-| [6–9 June 2025](2025-06-09-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
+| [20–23 June 2025](2025-06-23-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [21 June 2025](2025-06-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [13–16 June 2025](2025-06-16-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [6–9 June 2025](2025-06-09-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
 | [6–7 June 2025](2025-06-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [5–6 June 2025](2025-06-06-IpsosIO.html) | Ipsos I&O | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30–31 May 2025](2025-05-31-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–26 May 2025](2025-05-26-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 0–1 | 0–1 |
-| [21–24 March 2025](2025-03-24-Verian.html) | Verian <br> EenVandaag | 1 | 1 | 1 | 0–1 | 0–1 |
-| [14–17 March 2025](2025-03-17-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
-| [7–8 March 2025](2025-03-08-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–24 February 2025](2025-02-24-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [21–22 February 2025](2025-02-22-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–17 February 2025](2025-02-17-IpsosIO.html) | Ipsos I&O | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–27 January 2025](2025-01-27-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–25 January 2025](2025-01-25-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–20 January 2025](2025-01-20-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
-| [24–28 December 2024](2024-12-28-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0–1 | 0–1 |
-| [13–14 December 2024](2024-12-14-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–9 December 2024](2024-12-09-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
-| [22–25 November 2024](2024-11-25-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [22–23 November 2024](2024-11-23-Peilnl.html) | Peil.nl | 1 | 1 | 1 | 1 | 0–1 |
-| [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
-| [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [20–23 September 2024](2024-09-23-IpsosIO.html) | Ipsos I&O | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–16 September 2024](2024-09-16-IpsosIO.html) | Ipsos I&O | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–15 September 2024](2024-09-15-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [23–26 August 2024](2024-08-26-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
-| [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
+| [5–6 June 2025](2025-06-06-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [30–31 May 2025](2025-05-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [23–26 May 2025](2025-05-26-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [9–12 May 2025](2025-05-12-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [25–28 April 2025](2025-04-28-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [25–26 April 2025](2025-04-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [11–14 April 2025](2025-04-14-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [3–4 April 2025](2025-04-04-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [28–29 March 2025](2025-03-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [21–24 March 2025](2025-03-24-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [14–17 March 2025](2025-03-17-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [7–8 March 2025](2025-03-08-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [21–24 February 2025](2025-02-24-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [21–22 February 2025](2025-02-22-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [14–17 February 2025](2025-02-17-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [24–27 January 2025](2025-01-27-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [24–25 January 2025](2025-01-25-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [17–20 January 2025](2025-01-20-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [24–28 December 2024](2024-12-28-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [13–14 December 2024](2024-12-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [6–9 December 2024](2024-12-09-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [22–25 November 2024](2024-11-25-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [22–23 November 2024](2024-11-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [9–11 November 2024](2024-11-11-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [8–9 November 2024](2024-11-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [25–28 October 2024](2024-10-28-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [18–21 October 2024](2024-10-21-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [12 October 2024](2024-10-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [28 September 2024](2024-09-28-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [20–23 September 2024](2024-09-23-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [20–23 September 2024](2024-09-23-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [13–16 September 2024](2024-09-16-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
+| [14–15 September 2024](2024-09-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [23–26 August 2024](2024-08-26-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| [26–29 July 2024](2024-07-29-IpsosIO.html) | Ipsos I&O <br> EenVandaag |  |  |  |  |  |
+| [6 July 2024](2024-07-06-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28–29 June 2024](2024-06-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [21–24 June 2024](2024-06-24-IpsosIO.html) | Ipsos I&O <br> EenVandaag |  |  |  |  |  |
 | [14–17 June 2024](2024-06-17-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
@@ -238,10 +242,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 32% | 98% |  |
-| 4 | 66% | 66% | Median |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 2 | 29% | 100% |  |
+| 3 | 39% | 71% | Median |
+| 4 | 32% | 32% |  |
+| 5 | 0% | 0% |  |
 
 
