@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.6–1.7% | 0.5–1.9% | 0.5–2.0% | 0.4–2.2% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.5% | 0.5–1.7% | 0.5–1.9% | 0.4–2.2% |
+| [8–11 May 2026](2026-05-11-IpsosIO.html) | Ipsos I&O | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
 | [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl | 0.7% | N/A | N/A | N/A | N/A |
@@ -112,9 +113,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 5% | 100% | Last Result |
-| 0.5–1.5% | 75% | 95% | Median |
-| 1.5–2.5% | 20% | 20% |  |
+| 0.0–0.5% | 8% | 100% | Last Result |
+| 0.5–1.5% | 83% | 92% | Median |
+| 1.5–2.5% | 9% | 9% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -128,6 +129,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–11 May 2026](2026-05-11-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
 | [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0 | 0 |
 | [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl |  |  |  |  |  |
