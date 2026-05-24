@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.7–3.4% | 1.5–3.8% |
+| [22–23 May 2026](2026-05-23-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [8–11 May 2026](2026-05-11-IpsosIO.html) | Ipsos I&O | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
 | [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 2.6% | 2.1–3.3% | 2.0–3.5% | 1.8–3.6% | 1.6–4.0% |
 | [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -130,6 +131,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [22–23 May 2026](2026-05-23-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [8–11 May 2026](2026-05-11-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0–1 | 0–1 |
 | [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 0 | 0 | 0 | 0–1 | 0–1 |
 | [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
