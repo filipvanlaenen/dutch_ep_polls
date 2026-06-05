@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.4% | 10.8–13.5% | 10.3–13.8% | 10.0–14.1% | 9.4–14.7% |
+| N/A | [Poll Average](average.html) | 12.4% | 10.7–13.5% | 10.2–13.8% | 9.9–14.1% | 9.3–14.7% |
+| [21–25 May 2026](2026-05-25-Verian.html) | Verian <br> EenVandaag | 11.1% | 10.0–12.3% | 9.7–12.7% | 9.5–13.0% | 9.0–13.6% |
 | [22–23 May 2026](2026-05-23-Peilnl.html) | Peil.nl | 12.6% | 11.9–13.4% | 11.7–13.7% | 11.5–13.9% | 11.1–14.3% |
 | [8–11 May 2026](2026-05-11-IpsosIO.html) | Ipsos I&O | 12.9% | 12.0–13.9% | 11.7–14.2% | 11.5–14.5% | 11.1–15.0% |
 | [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 11.2% | 10.1–12.4% | 9.8–12.8% | 9.6–13.1% | 9.1–13.7% |
@@ -123,11 +124,11 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.8% | 100% |  |
-| 9.5–10.5% | 6% | 99.2% |  |
-| 10.5–11.5% | 16% | 93% |  |
-| 11.5–12.5% | 32% | 77% | Median |
-| 12.5–13.5% | 35% | 45% |  |
+| 8.5–9.5% | 1.0% | 100% |  |
+| 9.5–10.5% | 7% | 99.0% |  |
+| 10.5–11.5% | 16% | 92% |  |
+| 11.5–12.5% | 31% | 76% | Median |
+| 12.5–13.5% | 35% | 44% |  |
 | 13.5–14.5% | 9% | 10% |  |
 | 14.5–15.5% | 0.7% | 0.7% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -142,6 +143,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [21–25 May 2026](2026-05-25-Verian.html) | Verian <br> EenVandaag | 4 | 4 | 4 | 4 | 4–5 |
 | [22–23 May 2026](2026-05-23-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–11 May 2026](2026-05-11-IpsosIO.html) | Ipsos I&O | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 4 | 4 | 4–5 | 4–5 | 3–5 |
@@ -250,9 +252,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.2% | 100% |  |
-| 4 | 53% | 99.8% | Median |
-| 5 | 45% | 47% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 55% | 99.9% | Median |
+| 5 | 43% | 45% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
