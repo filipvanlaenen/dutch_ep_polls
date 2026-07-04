@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/dutch_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Jul 2026 21:57:38 +0200</pubDate>
+    <pubDate>Sat, 04 Jul 2026 10:47:25 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for EenVandaag, 26–29 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-06-29-Verian.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Juiste Antwoord 2021 (ECR): 3 seats&lt;/li&gt;&lt;li&gt;50Plus (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;DENK (*): 0 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid (PfE): 4–5 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;ChristenUnie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie (ESN): 2–4 seats&lt;/li&gt;&lt;li&gt;GroenLinks (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Democraten 66 (RE): 3–5 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Volt Europa (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-06-29-Verian-seats.png"
-        length="447586"
+        length="449850"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 21:57:38 +0200</pubDate>
-      <dc:date>2026-07-03T21:57:38.978021+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 10:47:25 +0200</pubDate>
+      <dc:date>2026-07-04T10:47:25.449239+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for EenVandaag, 26–29 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/dutch_ep_polls/2026-06-29-Verian.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-06-29-Verian-coalitions-seats.png"
-        length="222200"
+        length="220173"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 21:57:38 +0200</pubDate>
-      <dc:date>2026-07-03T21:57:38.978021+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 10:47:25 +0200</pubDate>
+      <dc:date>2026-07-04T10:47:25.449239+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for EenVandaag, 26–29 June 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_ep_polls/2026-06-29-Verian.png"
         length="542000"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 21:57:38 +0200</pubDate>
-      <dc:date>2026-07-03T21:57:38.978021+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 10:47:25 +0200</pubDate>
+      <dc:date>2026-07-04T10:47:25.449239+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 19–20 June 2026 – Seat Projections for the Parties</title>
@@ -279,6 +279,6 @@
       <pubDate>Sat, 09 May 2026 20:49:20 +0200</pubDate>
       <dc:date>2026-05-09T20:49:20.468752+02:00</dc:date>
     </item>
-    <dc:date>2026-07-03T21:57:38.978021+02:00</dc:date>
+    <dc:date>2026-07-04T10:47:25.449239+02:00</dc:date>
   </channel>
 </rss>
