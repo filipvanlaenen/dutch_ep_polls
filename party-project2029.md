@@ -1,4 +1,4 @@
-# Partij van de Arbeid (S&D)
+# Project 2029 (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 

@@ -1,4 +1,4 @@
-# De Nederlandse Alliantie (*)
+# Progressief Nederland (Greens/EFA)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,19 +10,19 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
-| [28 August 2026](2026-08-28-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
-| [21–24 August 2026](2026-08-24-Verian.html) | Verian <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
-| [31 July–1 August 2026](2026-08-01-Peilnl.html) | Peil.nl | 0.2% | N/A | N/A | N/A | N/A |
-| [10–13 July 2026](2026-07-13-IpsosIO.html) | Ipsos I&O | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.3–9.2% | 7.0–9.5% | 6.8–9.7% | 6.4–10.3% |
+| [28 August 2026](2026-08-28-Peilnl.html) | Peil.nl | 8.6% | 8.0–9.3% | 7.8–9.5% | 7.7–9.7% | 7.4–10.0% |
+| [21–24 August 2026](2026-08-24-Verian.html) | Verian <br> EenVandaag | 8.3% | 7.4–9.5% | 7.1–9.8% | 6.9–10.1% | 6.5–10.6% |
+| [31 July–1 August 2026](2026-08-01-Peilnl.html) | Peil.nl | 8.0% | N/A | N/A | N/A | N/A |
+| [10–13 July 2026](2026-07-13-IpsosIO.html) | Ipsos I&O | 7.7% | 7.0–8.6% | 6.7–8.9% | 6.5–9.1% | 6.2–9.6% |
 | [26–29 June 2026](2026-06-29-Verian.html) | Verian <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
-| [19–20 June 2026](2026-06-20-Peilnl.html) | Peil.nl | 0.2% | N/A | N/A | N/A | N/A |
+| [19–20 June 2026](2026-06-20-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 June 2026](2026-06-15-IpsosIO.html) | Ipsos I&O | 0.0% | N/A | N/A | N/A | N/A |
 | [21–25 May 2026](2026-05-25-Verian.html) | Verian <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
-| [22–23 May 2026](2026-05-23-Peilnl.html) | Peil.nl | 0.7% | N/A | N/A | N/A | N/A |
+| [22–23 May 2026](2026-05-23-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 May 2026](2026-05-11-IpsosIO.html) | Ipsos I&O | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 April 2026](2026-04-27-Verian.html) | Verian <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
-| [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| [24 April 2026](2026-04-24-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 April 2026](2026-04-18-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 April 2026](2026-04-13-IpsosIO.html) | Ipsos I&O | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 March 2026](2026-03-30-Verian.html) | Verian | 0.0% | N/A | N/A | N/A | N/A |
@@ -118,13 +118,23 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for De Nederlandse Alliantie (*).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Progressief Nederland (Greens/EFA).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 85% | 100% | Last Result, Median |
-| 0.5–1.5% | 15% | 15% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 16% | 98.9% |  |
+| 7.5–8.5% | 45% | 83% | Median |
+| 8.5–9.5% | 33% | 37% |  |
+| 9.5–10.5% | 4% | 4% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -135,11 +145,11 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [28 August 2026](2026-08-28-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
-| [21–24 August 2026](2026-08-24-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–4 | 2–4 |
+| [28 August 2026](2026-08-28-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [21–24 August 2026](2026-08-24-Verian.html) | Verian <br> EenVandaag | 3 | 3 | 3 | 3 | 3 |
 | [31 July–1 August 2026](2026-08-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [10–13 July 2026](2026-07-13-IpsosIO.html) | Ipsos I&O | 0 | 0 | 0 | 0 | 0 |
+| [10–13 July 2026](2026-07-13-IpsosIO.html) | Ipsos I&O | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [26–29 June 2026](2026-06-29-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
 | [19–20 June 2026](2026-06-20-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [12–15 June 2026](2026-06-15-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
@@ -243,12 +253,17 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-denederlandsealliantie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-progressiefnederlandgreensefa.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for De Nederlandse Alliantie (*).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Progressief Nederland (Greens/EFA).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 3% | 100% |  |
+| 3 | 94% | 97% | Median |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
 
 
