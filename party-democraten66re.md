@@ -152,11 +152,11 @@ Last result: **0** seats (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–6 | 3–6 | 3–7 |
-| [28 August 2026](2026-08-28-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [21–24 August 2026](2026-08-24-Verian.html) | Verian <br> EenVandaag | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| [28 August 2026](2026-08-28-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [21–24 August 2026](2026-08-24-Verian.html) | Verian <br> EenVandaag | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [31 July–1 August 2026](2026-08-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [10–13 July 2026](2026-07-13-IpsosIO.html) | Ipsos I&O | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [10–13 July 2026](2026-07-13-IpsosIO.html) | Ipsos I&O | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–29 June 2026](2026-06-29-Verian.html) | Verian <br> EenVandaag |  |  |  |  |  |
 | [19–20 June 2026](2026-06-20-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [12–15 June 2026](2026-06-15-IpsosIO.html) | Ipsos I&O |  |  |  |  |  |
@@ -269,11 +269,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 7% | 100% |  |
-| 4 | 56% | 93% | Median |
-| 5 | 27% | 37% |  |
-| 6 | 9% | 10% |  |
-| 7 | 0.9% | 0.9% |  |
-| 8 | 0% | 0% |  |
+| 3 | 12% | 100% |  |
+| 4 | 48% | 88% | Median |
+| 5 | 31% | 39% |  |
+| 6 | 8% | 8% |  |
+| 7 | 0% | 0% |  |
 
 
