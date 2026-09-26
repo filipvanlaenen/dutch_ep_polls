@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 2–4% <br> 0–2 | 3–4% <br> 0–1 | N/A <br> N/A | 7–10% <br> 3–4 | 1–3% <br> 0–1 | N/A <br> N/A | 7–10% <br> 3–4 | 10–14% <br> 3–5 | 10–14% <br> 4–5 | 7–11% <br> 3–4 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 8–12% <br> 3–4 | 9–13% <br> 3–5 | 7–12% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–12 September 2026](2026-09-12-Peilnl.html) | Peil.nl | 2–3% <br> 0 | 3–4% <br> 0–1 | N/A <br> N/A | 8–10% <br> 4 | 2–3% <br> 0 | N/A <br> N/A | 8–10% <br> 3 | 11–13% <br> 4 | 10–12% <br> 4 | 7–9% <br> 3 | 2–3% <br> 0 | 2–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 10–12% <br> 4 | 10–12% <br> 4 | 10–12% <br> 4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–12 September 2026](2026-09-12-Peilnl.html) | Peil.nl | 2–3% <br> 0 | 3–4% <br> 0–1 | N/A <br> N/A | 8–10% <br> 4 | 2–3% <br> 0 | N/A <br> N/A | 8–10% <br> 3 | 11–13% <br> 4 | 10–12% <br> 4 | 7–9% <br> 3 | 2–3% <br> 0 | 2–3% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | 10–12% <br> 4 | 10–12% <br> 4 | 10–12% <br> 4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–2 September 2026](2026-09-02-IpsosIO.html) | Ipsos I&O | 3–5% <br> 0–2 | 3–5% <br> 0–1 | N/A <br> N/A | 7–10% <br> 2–4 | 1–2% <br> 0 | N/A <br> N/A | 7–10% <br> 3–4 | 12–15% <br> 4–6 | 11–14% <br> 4–6 | 8–11% <br> 3–4 | 2–3% <br> 0–1 | 2–4% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 8–11% <br> 3–4 | 10–13% <br> 3–5 | 7–9% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–24 August 2026](2026-08-24-Verian.html) | Verian <br> EenVandaag | 2–4% <br> 0–1 | 2–5% <br> 0–1 | N/A <br> N/A | 7–10% <br> 3–4 | 2–4% <br> 0–1 | N/A <br> N/A | 7–10% <br> 3–4 | 10–13% <br> 3–5 | 11–15% <br> 4–5 | 8–12% <br> 2–4 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | 8–11% <br> 3–4 | 9–13% <br> 3–4 | 7–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 6 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -511,7 +511,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 12% | 100% |  |
 | 4 | 56% | 88% | Median |
-| 5 | 30% | 31% |  |
+| 5 | 31% | 32% |  |
 | 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
@@ -568,8 +568,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 32% | 33% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -612,7 +612,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 21% | 100% |  |
+| 3 | 22% | 100% |  |
 | 4 | 78% | 78% | Median |
 | 5 | 0% | 0% |  |
 
@@ -742,8 +742,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 48% | 99.9% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 48% | 99.8% |  |
 | 9 | 26% | 52% | Median |
 | 10 | 23% | 26% |  |
 | 11 | 3% | 3% |  |
@@ -757,8 +757,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.7% | 100% |  |
-| 3 | 62% | 99.3% | Median |
+| 2 | 0.9% | 100% |  |
+| 3 | 62% | 99.1% | Median |
 | 4 | 27% | 37% |  |
 | 5 | 10% | 10% |  |
 | 6 | 0.2% | 0.2% |  |
@@ -857,6 +857,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 3.95%
