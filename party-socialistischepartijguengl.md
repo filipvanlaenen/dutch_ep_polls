@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.8–3.9% | 2.6–4.1% | 2.4–4.3% | 2.1–4.6% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.8–4.0% | 2.7–4.1% | 2.5–4.3% | 2.3–4.7% |
+| [23–26 October 2026](2026-10-26-Verian.html) | Verian <br> EenVandaag | 3.2% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [23 October 2026](2026-10-23-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [12–14 October 2026](2026-10-14-IpsosIO.html) | Ipsos I&O <br> Café Kockelmann | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.5% | 2.5–4.8% |
 | [2 October 2026](2026-10-02-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
@@ -130,10 +131,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 65% | 96% | Median |
-| 3.5–4.5% | 30% | 31% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 64% | 97% | Median |
+| 3.5–4.5% | 33% | 34% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -146,6 +147,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–26 October 2026](2026-10-26-Verian.html) | Verian <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23 October 2026](2026-10-23-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0–1 |
 | [12–14 October 2026](2026-10-14-IpsosIO.html) | Ipsos I&O <br> Café Kockelmann | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2 October 2026](2026-10-02-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
@@ -265,9 +267,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 19% | 19% |  |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 39% | 40% |  |
+| 2 | 0% | 0% |  |
 
 
