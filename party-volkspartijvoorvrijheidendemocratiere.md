@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 6 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 8.4–11.0% | 8.1–11.3% | 7.9–11.7% | 7.6–12.3% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.9–11.0% | 8.7–11.3% | 8.5–11.7% | 8.1–12.3% |
+| [13 November 2026](2026-11-13-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [6 November 2026](2026-11-06-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [23–26 October 2026](2026-10-26-Verian.html) | Verian <br> EenVandaag | 10.3% | 9.3–11.4% | 9.0–11.8% | 8.7–12.1% | 8.2–12.6% |
 | [23 October 2026](2026-10-23-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
@@ -137,10 +138,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 14% | 99.6% |  |
-| 8.5–9.5% | 33% | 86% |  |
-| 9.5–10.5% | 33% | 52% | Median |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 3% | 100% |  |
+| 8.5–9.5% | 34% | 97% |  |
+| 9.5–10.5% | 42% | 62% | Median |
 | 10.5–11.5% | 17% | 20% |  |
 | 11.5–12.5% | 3% | 3% |  |
 | 12.5–13.5% | 0.2% | 0.2% |  |
@@ -156,6 +157,7 @@ Last result: **0** seats (General Election of 6 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [13 November 2026](2026-11-13-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3–4 |
 | [6 November 2026](2026-11-06-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [23–26 October 2026](2026-10-26-Verian.html) | Verian <br> EenVandaag | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [23 October 2026](2026-10-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
